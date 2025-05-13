@@ -29,7 +29,7 @@ def even_weighted_loop(s):
     return [s[i]*i for i in s if i%2!=0]
 
 #Q5
- def max_product(s):
+def max_product(s):
      n = len(s)
      max_prod = 1
 
