@@ -55,3 +55,6 @@
 
 ## Day 13
 今天学习了Iteractors，具体有iter，next，map，filter，zip，all，reversed的函数使用，以及再次让我体会到递归的难，但是对于以及接触到的递归我还能够写出的，阅读代码是真的难啊，对了，对于可变我又加强了记忆
+
+## Day 14
+今天学习了生成器（generators），最重要的是yield和yield from的使用，同时感觉理解递归变简单了
