@@ -11,6 +11,19 @@
 传递过程的递归belike![alt text](fb9c489d0fa4536210f44c1374d6674e.png)
 
 
+## 递归和迭代器
+
+![alt text](image.png)
+在递归的时候一定要注意yield from 这个关键字！
+![alt text](image-1.png)
+
+
+爬楼梯的递归！！！！
+![alt text](image-2.png)
+转换为yield的形式belike
+![alt text](image-3.png)
+
+
 
 
 

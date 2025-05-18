@@ -66,11 +66,24 @@ def prime_gen2(n):
 # Q7
 def preorder(t):
     if is_leaf:
-        return label(t)
+        return [label(t)]
     first=[]
     for b in branches(t):
         first+=preorder(b)
     return [label(t)]+first
+
+def preorder_2(t):
+    yield label(t)
+    for b in branches(t):
+        yield from preorder(b)
+
+
+
+
+#Q8
+
+
+
 
 
     
