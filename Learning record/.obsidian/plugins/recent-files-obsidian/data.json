@@ -1,0 +1,180 @@
+{
+  "recentFiles": [
+    {
+      "basename": "数组方法 ",
+      "path": "前端学习/JavaScript/数据类型 /数组方法 .md"
+    },
+    {
+      "basename": "Number类型 ",
+      "path": "前端学习/JavaScript/数据类型 /Number类型 .md"
+    },
+    {
+      "basename": "数组 ",
+      "path": "前端学习/JavaScript/数据类型 /数组 .md"
+    },
+    {
+      "basename": "字符串 ",
+      "path": "前端学习/JavaScript/数据类型 /字符串 .md"
+    },
+    {
+      "basename": "原始类型的方法 ",
+      "path": "前端学习/JavaScript/数据类型 /原始类型的方法 .md"
+    },
+    {
+      "basename": "对象-原始值转换 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
+    },
+    {
+      "basename": "可选链 ？.",
+      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
+    },
+    {
+      "basename": "构造函数和new操作符 ",
+      "path": "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md"
+    },
+    {
+      "basename": "对象方法 ，“this”",
+      "path": "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md"
+    },
+    {
+      "basename": "垃圾回收机制 ",
+      "path": "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md"
+    },
+    {
+      "basename": "对象的引用和复制 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象的引用和复制 .md"
+    },
+    {
+      "basename": "对象 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象 .md"
+    },
+    {
+      "basename": "箭头函数 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/箭头函数 .md"
+    },
+    {
+      "basename": "函数表达式 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/函数表达式 .md"
+    },
+    {
+      "basename": "函数 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/函数 .md"
+    },
+    {
+      "basename": "空值合并运算符 ？？",
+      "path": "前端学习/JavaScript/JavaScript基础知识/空值合并运算符 ？？.md"
+    },
+    {
+      "basename": "逻辑运算符 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/逻辑运算符 .md"
+    },
+    {
+      "basename": "？ 三元运算符 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/？ 三元运算符 .md"
+    },
+    {
+      "basename": "值的比较 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/值的比较 .md"
+    },
+    {
+      "basename": "基础运算符及数学运算 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/基础运算符及数学运算 .md"
+    },
+    {
+      "basename": "类型转化 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/类型转化 .md"
+    },
+    {
+      "basename": "交互 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/交互 .md"
+    },
+    {
+      "basename": " 数据类型 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md"
+    },
+    {
+      "basename": "变量 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/变量 .md"
+    },
+    {
+      "basename": "现代模式 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/现代模式 .md"
+    },
+    {
+      "basename": "注释 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/注释 .md"
+    },
+    {
+      "basename": "代码的引用",
+      "path": "前端学习/JavaScript/JavaScript基础知识/代码的引用.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.base"
+    },
+    {
+      "basename": "调试 ",
+      "path": "前端学习/JavaScript/代码质量 （未完成）/调试 .md"
+    },
+    {
+      "basename": "盒子模型 ",
+      "path": "前端学习/html&&css/盒子模型/盒子模型 .md"
+    },
+    {
+      "basename": "重置默认样式 ",
+      "path": "前端学习/html&&css/重置默认样式/重置默认样式 .md"
+    },
+    {
+      "basename": "Flex 布局",
+      "path": "前端学习/html&&css/Flex布局/Flex 布局.md"
+    },
+    {
+      "basename": "背景属性 ",
+      "path": "前端学习/html&&css/背景属性/背景属性 .md"
+    },
+    {
+      "basename": "选择器 ",
+      "path": "前端学习/html&&css/选择器/选择器 .md"
+    },
+    {
+      "basename": "link",
+      "path": "前端学习/html&&css/外部链接/link.md"
+    },
+    {
+      "basename": "长度单位 ",
+      "path": "前端学习/html&&css/css3新增单位/长度单位 .md"
+    },
+    {
+      "basename": "块级盒子",
+      "path": "前端学习/html&&css/浮动 /块级盒子.md"
+    },
+    {
+      "basename": "浮动",
+      "path": "前端学习/html&&css/浮动 /浮动.md"
+    },
+    {
+      "basename": "父亲塌陷问题 ",
+      "path": "前端学习/html&&css/浮动 /父亲塌陷问题 .md"
+    },
+    {
+      "basename": "定位 ",
+      "path": "前端学习/html&&css/定位/定位 .md"
+    },
+    {
+      "basename": "包含块",
+      "path": "前端学习/html&&css/定位/包含块.md"
+    },
+    {
+      "basename": "布局 ",
+      "path": "前端学习/html&&css/常见布局问题以及布局小技巧/布局 .md"
+    },
+    {
+      "basename": "vertical属性 ",
+      "path": "前端学习/html&&css/常见布局问题以及布局小技巧/vertical属性 .md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
