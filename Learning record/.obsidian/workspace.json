@@ -11,12 +11,14 @@
             "id": "2c878f12df1eca82",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "CS61A NOTE"
+                "file": "前端学习/JavaScript/数据类型 /原始类型的方法 .md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "CS61A NOTE"
+              "title": "原始类型的方法"
             }
           }
         ]
@@ -83,7 +85,7 @@
             }
           },
           {
-            "id": "4709677ae33d3bf3",
+            "id": "1ef7af1231a73bd8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -161,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/JavaScript/数据类型 /数组方法 .md",
+                "file": "前端学习/JavaScript/数据类型 /原始类型的方法 .md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数组方法  的大纲"
+              "title": "原始类型的方法  的大纲"
             }
           },
           {
@@ -205,11 +207,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 615.5
+    "width": 542.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,18 +230,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4709677ae33d3bf3",
+  "active": "2c878f12df1eca82",
   "lastOpenFiles": [
+    "前端学习/JavaScript/数据类型 /Number类型 .md",
     "前端学习/JavaScript/数据类型 /数组方法 .md",
     "前端学习/JavaScript/数据类型 /数组 .md",
     "前端学习/JavaScript/数据类型 /字符串 .md",
+    "前端学习/JavaScript/数据类型 /原始类型的方法 .md",
     "未命名 4.base",
     "未命名 3.base",
     "未命名 2.base",
     "未命名 1.base",
-    "前端学习/JavaScript/数据类型 /Number类型 .md",
     "前端学习/JavaScript/数据类型 /未命名.base",
-    "前端学习/JavaScript/数据类型 /原始类型的方法 .md",
     "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md",
     "前端学习/JavaScript/Object（对象）/可选链 ？..md",
     "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md",
