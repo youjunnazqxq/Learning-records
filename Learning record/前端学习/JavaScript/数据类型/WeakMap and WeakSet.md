@@ -16,3 +16,7 @@ WeakMap与此不同，他不会阻止垃圾回收机制对作为键的对象的�
 `eakMap` 不支持迭代以及 `keys()`，`values()` 和 `entries()` 方法。所以没有办法获取 `WeakMap` 的所有键或值
 
 
+# WeakSet
+
+与WeakMap类似
+

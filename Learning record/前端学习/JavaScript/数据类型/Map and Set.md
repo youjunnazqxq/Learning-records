@@ -23,8 +23,29 @@
 - `map.entries()` —— 遍历并返回一个包含所有实体 `[key, value]` 的可迭代对象，`for..of` 在默认情况下使用的就是这个。
 
 
+## 从对象中创建Map
+
+```
+let obj = {
+	name: "John",
+	age: 30,
+}
+let map = new Map(Pbject,entries(obj));
+```
+`Object.entries` 返回键/值对数组：`[ ["name","John"], ["age", 30] ]`。这就是 `Map` 所需要的格式。
 
 
+## 从Map中创建对象
+
+```
+let map =new Map();
+map.set("bannaa0",1);
+
+let obj = Object.fromEntries(map.entries());
+
+alert(obj.banana1);//2
+```
+上面的代码作用也是一样的，因为 `Object.fromEntries` 期望得到一个可迭代对象作为参数，而不一定是数组。并且 `map` 的标准迭代会返回跟 `map.entries()` 一样的键/值对。因此，我们可以获得一个普通对象（plain object），其键/值对与 `map` 相同。
 # Set
 
 Set是一个特殊的集合，没有键只有一个值，他的每一个值只能出现一次

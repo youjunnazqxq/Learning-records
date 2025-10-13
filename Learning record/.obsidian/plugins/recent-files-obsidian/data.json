@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "解构赋值 ",
+      "path": "前端学习/JavaScript/数据类型/解构赋值 .md"
+    },
+    {
+      "basename": "object.keys,values,entries",
+      "path": "前端学习/JavaScript/数据类型/object.keys,values,entries.md"
+    },
+    {
+      "basename": "Map and Set",
+      "path": "前端学习/JavaScript/数据类型/Map and Set.md"
+    },
+    {
+      "basename": "WeakMap and WeakSet",
+      "path": "前端学习/JavaScript/数据类型/WeakMap and WeakSet.md"
+    },
+    {
+      "basename": "Iterable object",
+      "path": "前端学习/JavaScript/数据类型/Iterable object.md"
+    },
+    {
       "basename": "数组方法 ",
       "path": "前端学习/JavaScript/数据类型/数组方法 .md"
     },
