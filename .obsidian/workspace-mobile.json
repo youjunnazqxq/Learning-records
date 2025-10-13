@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning record/前端学习/JavaScript/数据类型/数组.md",
+                "file": "Learning record/前端学习/JavaScript/数据类型/WeakMap and WeakSet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数组"
+              "title": "WeakMap and WeakSet"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Learning record/前端学习/JavaScript/数据类型/数组.md",
+            "file": "Learning record/前端学习/JavaScript/数据类型/WeakMap and WeakSet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,5 +154,13 @@
     }
   },
   "active": "3d42e71233bc7e40",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Learning record/前端学习/JavaScript/数据类型/Map and Set.md",
+    "Learning record/前端学习/JavaScript/数据类型/WeakMap and WeakSet.md",
+    "Learning record/前端学习/JavaScript/Object（对象）/symbol.md",
+    "Learning record/前端学习/JavaScript/数据类型/数据类型.md",
+    "Learning record/前端学习/JavaScript/数据类型/Iterable object.md",
+    "Learning record/前端学习/JavaScript/数据类型/数组方法 .md",
+    "Learning record/前端学习/JavaScript/数据类型/数组.md"
+  ]
 }
