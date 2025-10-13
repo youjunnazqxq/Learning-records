@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/JavaScript/数据类型 /原始类型的方法 .md",
+                "file": "前端学习/JavaScript/数据类型/数组方法 .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原始类型的方法"
+              "title": "数组方法"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "1ef7af1231a73bd8",
+            "id": "5d7501eb7d59e43d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/JavaScript/数据类型 /原始类型的方法 .md",
+                "file": "前端学习/JavaScript/数据类型/数组方法 .md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原始类型的方法  的大纲"
+              "title": "数组方法  的大纲"
             }
           },
           {
@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -230,25 +230,33 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2c878f12df1eca82",
+  "active": "5d7501eb7d59e43d",
   "lastOpenFiles": [
-    "前端学习/JavaScript/数据类型 /Number类型 .md",
+    "前端学习/JavaScript/数据类型/数组.md",
+    "前端学习/JavaScript/数据类型/字符串.md",
+    "前端学习/JavaScript/数据类型/Number 类型 .md",
+    "前端学习/JavaScript/数据类型/原始类型的方法 .md",
+    "前端学习/JavaScript/数据类型/数组方法 .md",
     "前端学习/JavaScript/数据类型 /数组方法 .md",
     "前端学习/JavaScript/数据类型 /数组 .md",
     "前端学习/JavaScript/数据类型 /字符串 .md",
+    "前端学习/JavaScript/数据类型 /Number类型 .md",
     "前端学习/JavaScript/数据类型 /原始类型的方法 .md",
+    "前端学习/JavaScript/数据类型/数据类型.md",
+    "前端学习/JavaScript/数据类型",
+    "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md",
+    "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md",
+    "前端学习/JavaScript/Object（对象）/对象的引用和复制 .md",
+    "前端学习/JavaScript/Object（对象）/对象 .md",
+    "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md",
+    "前端学习/JavaScript/Object（对象）/未命名.base",
+    "前端学习/JavaScript/Object（对象）/可选链 ？..md",
+    "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md",
     "未命名 4.base",
     "未命名 3.base",
     "未命名 2.base",
     "未命名 1.base",
     "前端学习/JavaScript/数据类型 /未命名.base",
-    "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md",
-    "前端学习/JavaScript/Object（对象）/可选链 ？..md",
-    "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md",
-    "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md",
-    "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md",
-    "前端学习/JavaScript/Object（对象）/对象的引用和复制 .md",
-    "前端学习/JavaScript/Object（对象）/对象 .md",
     "前端学习/JavaScript/JavaScript基础知识/箭头函数 .md",
     "前端学习/JavaScript/JavaScript基础知识/函数表达式 .md",
     "前端学习/JavaScript/JavaScript基础知识/函数 .md",
@@ -257,18 +265,11 @@
     "前端学习/JavaScript/JavaScript基础知识/？ 三元运算符 .md",
     "前端学习/JavaScript/JavaScript基础知识/值的比较 .md",
     "前端学习/JavaScript/JavaScript基础知识/基础运算符及数学运算 .md",
-    "前端学习/JavaScript/JavaScript基础知识/类型转化 .md",
-    "前端学习/JavaScript/JavaScript基础知识/交互 .md",
-    "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md",
-    "前端学习/JavaScript/JavaScript基础知识/变量 .md",
-    "前端学习/JavaScript/JavaScript基础知识/现代模式 .md",
     "附件文件夹/Pasted image 20251012152116.png",
     "未命名.base",
     "前端学习/JavaScript/数据类型 /未命名 1.base",
     "前端学习/JavaScript/数据类型 ",
     "附件文件夹/Pasted image 20251010213340.png",
-    "前端学习/JavaScript/Object（对象）",
-    "前端学习/JavaScript/代码质量 （未完成）",
     "未命名.canvas",
     "前端学习/limitations.svg",
     "前端学习/web-components-twitter.svg",

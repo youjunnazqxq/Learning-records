@@ -1,32 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "原始类型的方法 ",
-      "path": "前端学习/JavaScript/数据类型 /原始类型的方法 .md"
-    },
-    {
-      "basename": "Number类型 ",
-      "path": "前端学习/JavaScript/数据类型 /Number类型 .md"
-    },
-    {
       "basename": "数组方法 ",
-      "path": "前端学习/JavaScript/数据类型 /数组方法 .md"
+      "path": "前端学习/JavaScript/数据类型/数组方法 .md"
     },
     {
-      "basename": "数组 ",
-      "path": "前端学习/JavaScript/数据类型 /数组 .md"
+      "basename": "数组",
+      "path": "前端学习/JavaScript/数据类型/数组.md"
     },
     {
-      "basename": "字符串 ",
-      "path": "前端学习/JavaScript/数据类型 /字符串 .md"
+      "basename": "字符串",
+      "path": "前端学习/JavaScript/数据类型/字符串.md"
     },
     {
-      "basename": "对象-原始值转换 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
+      "basename": "Number 类型 ",
+      "path": "前端学习/JavaScript/数据类型/Number 类型 .md"
     },
     {
-      "basename": "可选链 ？.",
-      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
+      "basename": "原始类型的方法 ",
+      "path": "前端学习/JavaScript/数据类型/原始类型的方法 .md"
     },
     {
       "basename": "构造函数和new操作符 ",
@@ -37,16 +29,24 @@
       "path": "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md"
     },
     {
-      "basename": "垃圾回收机制 ",
-      "path": "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md"
-    },
-    {
       "basename": "对象的引用和复制 ",
       "path": "前端学习/JavaScript/Object（对象）/对象的引用和复制 .md"
     },
     {
       "basename": "对象 ",
       "path": "前端学习/JavaScript/Object（对象）/对象 .md"
+    },
+    {
+      "basename": "对象-原始值转换 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
+    },
+    {
+      "basename": "可选链 ？.",
+      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
+    },
+    {
+      "basename": "垃圾回收机制 ",
+      "path": "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md"
     },
     {
       "basename": "箭头函数 ",
