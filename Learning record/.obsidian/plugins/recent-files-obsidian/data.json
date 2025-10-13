@@ -5,16 +5,28 @@
       "path": "前端学习/JavaScript/数据类型 /数组方法 .md"
     },
     {
-      "basename": "Number类型 ",
-      "path": "前端学习/JavaScript/数据类型 /Number类型 .md"
-    },
-    {
       "basename": "数组 ",
       "path": "前端学习/JavaScript/数据类型 /数组 .md"
     },
     {
       "basename": "字符串 ",
       "path": "前端学习/JavaScript/数据类型 /字符串 .md"
+    },
+    {
+      "basename": "未命名 4",
+      "path": "未命名 4.base"
+    },
+    {
+      "basename": "未命名 3",
+      "path": "未命名 3.base"
+    },
+    {
+      "basename": "未命名 2",
+      "path": "未命名 2.base"
+    },
+    {
+      "basename": "Number类型 ",
+      "path": "前端学习/JavaScript/数据类型 /Number类型 .md"
     },
     {
       "basename": "原始类型的方法 ",
@@ -107,10 +119,6 @@
     {
       "basename": "代码的引用",
       "path": "前端学习/JavaScript/JavaScript基础知识/代码的引用.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.base"
     },
     {
       "basename": "调试 ",
