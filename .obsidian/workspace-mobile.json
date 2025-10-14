@@ -11,10 +11,14 @@
             "id": "3d42e71233bc7e40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Learning record/前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "调度：settimeout and setinterval"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Learning record/前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,10 +155,14 @@
   },
   "active": "3d42e71233bc7e40",
   "lastOpenFiles": [
+    "Learning record/前端学习/JavaScript/函数深入理解/new Function语法.md",
+    "Learning record/前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md",
+    "Learning record/前端学习/JavaScript/函数深入理解/函数对象，NFE.md",
+    "Learning record/前端学习/JavaScript/函数深入理解/全局对象.md",
+    "Learning record/前端学习/JavaScript/函数深入理解/变量作用域，闭包.md",
     "Learning record/前端学习/JavaScript/函数深入理解/Rest参数与Spread语法.md",
     "Learning record/前端学习/JavaScript/数据类型/数组.md",
     "Learning record/前端学习/JavaScript/数据类型/数组方法 .md",
-    "Learning record/前端学习/JavaScript/函数深入理解/变量作用域，闭包.md",
     "Learning record/前端学习/JavaScript/函数深入理解/递归和堆栈.md",
     "Learning record/前端学习/JavaScript/数据类型/Json.md",
     "Learning record/前端学习/JavaScript/函数深入理解",
