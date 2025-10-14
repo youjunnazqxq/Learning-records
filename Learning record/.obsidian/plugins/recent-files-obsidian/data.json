@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "解构赋值 ",
-      "path": "前端学习/JavaScript/数据类型/解构赋值 .md"
+      "basename": "函数绑定 ",
+      "path": "前端学习/JavaScript/函数深入理解/函数绑定 .md"
+    },
+    {
+      "basename": "装饰器模式和转发，callapply",
+      "path": "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md"
+    },
+    {
+      "basename": "变量作用域，闭包",
+      "path": "前端学习/JavaScript/函数深入理解/变量作用域，闭包.md"
+    },
+    {
+      "basename": "Rest参数与Spread语法",
+      "path": "前端学习/JavaScript/函数深入理解/Rest参数与Spread语法.md"
+    },
+    {
+      "basename": "递归和堆栈",
+      "path": "前端学习/JavaScript/函数深入理解/递归和堆栈.md"
+    },
+    {
+      "basename": "调度：settimeout and setinterval",
+      "path": "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md"
+    },
+    {
+      "basename": "new Function语法",
+      "path": "前端学习/JavaScript/函数深入理解/new Function语法.md"
+    },
+    {
+      "basename": "函数对象，NFE",
+      "path": "前端学习/JavaScript/函数深入理解/函数对象，NFE.md"
+    },
+    {
+      "basename": "全局对象",
+      "path": "前端学习/JavaScript/函数深入理解/全局对象.md"
+    },
+    {
+      "basename": "二分查找 ",
+      "path": "CS61B/二分查找/二分查找 .md"
+    },
+    {
+      "basename": "dis04 List ",
+      "path": "CS61B/dis/dis04 List .md"
+    },
+    {
+      "basename": "dis 05 迭代 ",
+      "path": "CS61B/dis/dis 05 迭代 .md"
+    },
+    {
+      "basename": "WeakMap and WeakSet",
+      "path": "前端学习/JavaScript/数据类型/WeakMap and WeakSet.md"
     },
     {
       "basename": "object.keys,values,entries",
       "path": "前端学习/JavaScript/数据类型/object.keys,values,entries.md"
     },
     {
-      "basename": "Map and Set",
-      "path": "前端学习/JavaScript/数据类型/Map and Set.md"
+      "basename": "解构赋值 ",
+      "path": "前端学习/JavaScript/数据类型/解构赋值 .md"
     },
     {
-      "basename": "WeakMap and WeakSet",
-      "path": "前端学习/JavaScript/数据类型/WeakMap and WeakSet.md"
+      "basename": "日期和时间（未完成）",
+      "path": "前端学习/JavaScript/数据类型/日期和时间（未完成）.md"
+    },
+    {
+      "basename": "Json",
+      "path": "前端学习/JavaScript/数据类型/Json.md"
+    },
+    {
+      "basename": "Map and Set",
+      "path": "前端学习/JavaScript/数据类型/Map and Set.md"
     },
     {
       "basename": "Iterable object",
@@ -143,50 +199,6 @@
     {
       "basename": "Flex 布局",
       "path": "前端学习/html&&css/Flex布局/Flex 布局.md"
-    },
-    {
-      "basename": "背景属性 ",
-      "path": "前端学习/html&&css/背景属性/背景属性 .md"
-    },
-    {
-      "basename": "选择器 ",
-      "path": "前端学习/html&&css/选择器/选择器 .md"
-    },
-    {
-      "basename": "link",
-      "path": "前端学习/html&&css/外部链接/link.md"
-    },
-    {
-      "basename": "长度单位 ",
-      "path": "前端学习/html&&css/css3新增单位/长度单位 .md"
-    },
-    {
-      "basename": "块级盒子",
-      "path": "前端学习/html&&css/浮动 /块级盒子.md"
-    },
-    {
-      "basename": "浮动",
-      "path": "前端学习/html&&css/浮动 /浮动.md"
-    },
-    {
-      "basename": "父亲塌陷问题 ",
-      "path": "前端学习/html&&css/浮动 /父亲塌陷问题 .md"
-    },
-    {
-      "basename": "定位 ",
-      "path": "前端学习/html&&css/定位/定位 .md"
-    },
-    {
-      "basename": "包含块",
-      "path": "前端学习/html&&css/定位/包含块.md"
-    },
-    {
-      "basename": "布局 ",
-      "path": "前端学习/html&&css/常见布局问题以及布局小技巧/布局 .md"
-    },
-    {
-      "basename": "vertical属性 ",
-      "path": "前端学习/html&&css/常见布局问题以及布局小技巧/vertical属性 .md"
     }
   ],
   "omittedPaths": [],

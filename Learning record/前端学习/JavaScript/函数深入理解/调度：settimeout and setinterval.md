@@ -1,4 +1,4 @@
-# settimeout
+# setTimeout
 
 ```
 let timerId = setTimeout(fun,[],[],...)
@@ -33,3 +33,5 @@ let timerId = setInerval(()=>alert('tikc'),2000);
 
 setTimeout(()=>clearInterval(timerId),5000);
 ```
+
+
