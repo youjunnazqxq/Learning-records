@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/JavaScript/函数深入理解/函数绑定 .md",
+                "file": "前端学习/JavaScript/数据类型/Iterable object.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "函数绑定"
+              "title": "Iterable object"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "8a87ffced9d98a30",
+            "id": "1e6b23cb1afc0e00",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/JavaScript/数据类型/数组.md",
+                "file": "前端学习/JavaScript/数据类型/Iterable object.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数组 的大纲"
+              "title": "Iterable object 的大纲"
             }
           },
           {
@@ -232,8 +232,14 @@
   },
   "active": "2c878f12df1eca82",
   "lastOpenFiles": [
-    "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md",
+    "前端学习/JavaScript/数据类型/数组方法 .md",
+    "前端学习/JavaScript/JavaScript基础知识/箭头函数 .md",
+    "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md",
+    "前端学习/JavaScript/Object（对象）/可选链 ？..md",
+    "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md",
     "前端学习/JavaScript/函数深入理解/函数绑定 .md",
+    "前端学习/JavaScript/函数深入理解/箭头函数的深入理解.md",
+    "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md",
     "前端学习/JavaScript/函数深入理解/变量作用域，闭包.md",
     "前端学习/JavaScript/函数深入理解/Rest参数与Spread语法.md",
     "前端学习/JavaScript/函数深入理解/递归和堆栈.md",
@@ -255,12 +261,6 @@
     "前端学习/JavaScript/数据类型/Json.md",
     "前端学习/JavaScript/数据类型/未命名.base",
     "前端学习/JavaScript/数据类型/Map and Set.md",
-    "前端学习/JavaScript/数据类型/Iterable object.md",
-    "前端学习/JavaScript/数据类型/数组方法 .md",
-    "前端学习/JavaScript/数据类型/数组.md",
-    "前端学习/JavaScript/Object（对象）/symbol.md",
-    "前端学习/JavaScript/数据类型/字符串.md",
-    "前端学习/JavaScript/数据类型/Number 类型 .md",
     "前端学习/JavaScript/数据类型",
     "前端学习/JavaScript/Object（对象）/未命名.base",
     "未命名 4.base",

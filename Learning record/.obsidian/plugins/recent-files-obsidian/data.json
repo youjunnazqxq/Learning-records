@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Iterable object",
+      "path": "前端学习/JavaScript/数据类型/Iterable object.md"
+    },
+    {
+      "basename": "数组方法 ",
+      "path": "前端学习/JavaScript/数据类型/数组方法 .md"
+    },
+    {
+      "basename": "箭头函数 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/箭头函数 .md"
+    },
+    {
+      "basename": "构造函数和new操作符 ",
+      "path": "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md"
+    },
+    {
+      "basename": "可选链 ？.",
+      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
+    },
+    {
+      "basename": "对象-原始值转换 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
+    },
+    {
       "basename": "函数绑定 ",
       "path": "前端学习/JavaScript/函数深入理解/函数绑定 .md"
+    },
+    {
+      "basename": "箭头函数的深入理解",
+      "path": "前端学习/JavaScript/函数深入理解/箭头函数的深入理解.md"
     },
     {
       "basename": "装饰器模式和转发，callapply",
@@ -73,14 +101,6 @@
       "path": "前端学习/JavaScript/数据类型/Map and Set.md"
     },
     {
-      "basename": "Iterable object",
-      "path": "前端学习/JavaScript/数据类型/Iterable object.md"
-    },
-    {
-      "basename": "数组方法 ",
-      "path": "前端学习/JavaScript/数据类型/数组方法 .md"
-    },
-    {
       "basename": "数组",
       "path": "前端学习/JavaScript/数据类型/数组.md"
     },
@@ -97,10 +117,6 @@
       "path": "前端学习/JavaScript/数据类型/原始类型的方法 .md"
     },
     {
-      "basename": "构造函数和new操作符 ",
-      "path": "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md"
-    },
-    {
       "basename": "对象方法 ，“this”",
       "path": "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md"
     },
@@ -113,20 +129,8 @@
       "path": "前端学习/JavaScript/Object（对象）/对象 .md"
     },
     {
-      "basename": "对象-原始值转换 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
-    },
-    {
-      "basename": "可选链 ？.",
-      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
-    },
-    {
       "basename": "垃圾回收机制 ",
       "path": "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md"
-    },
-    {
-      "basename": "箭头函数 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/箭头函数 .md"
     },
     {
       "basename": "函数表达式 ",
@@ -195,10 +199,6 @@
     {
       "basename": "重置默认样式 ",
       "path": "前端学习/html&&css/重置默认样式/重置默认样式 .md"
-    },
-    {
-      "basename": "Flex 布局",
-      "path": "前端学习/html&&css/Flex布局/Flex 布局.md"
     }
   ],
   "omittedPaths": [],
