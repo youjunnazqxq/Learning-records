@@ -42,91 +42,30 @@ alert( "Again: " + slow(2) ); // 返回缓存中的 slow(2) 的结果
 # func.call设定上下文 
 
 ```
-let work = {
-	someMethod(){
-	return1 ; 
-	},
-	slow(x){
-		return x+this.someMethod.
-	};
-	let func = worker.slow;
-	func(2);
-}
+func.call(obj,arg1...argn)；
 ```
+主要作用：将函数中的this指针绑定到对象
 
-这样这个会报错，因为这个this是动态绑定的，他只会返回undefined，此时我们就可以用func.cal
+## func.apply
 
 ```
-func.cal(context,arg1····)//context是需要绑定的参数
+func.apply(obj,arr);
 ```
 
-```综合理解
-let worker = {
-  someMethod() {
-    return 1;
-  },
+与func.call的功能基本一致，主要区别在于其接受的是数组
 
-  slow(x) {
-    alert("Called with " + x);
-    return x * this.someMethod(); // (*)
-  }
-};
 
-function cachingDecorator(func) {
-  let cache = new Map();
-  return function(x) {
-    if (cache.has(x)) {
-      return cache.get(x);
-    }
-    let result = func.call(this, x); // 现在 "this" 被正确地传递了
-    cache.set(x, result);
-    return result;
-  };
-}
 
-worker.slow = cachingDecorator(worker.slow); // 现在对其进行缓存
-
-alert( worker.slow(2) ); // 工作正常
-alert( worker.slow(2) ); // 工作正常，没有调用原始函数（使用的缓存）
-```
 
 ## 对于多值的处理 
 
-```
-let worker = {
-  slow(min, max) {
-    alert(`Called with ${min},${max}`);
-    return min + max;
-  }
-};
-
-function cachingDecorator(func, hash) {
-  let cache = new Map();
-  return function() {
-    let key = hash(arguments); // (*)
-    if (cache.has(key)) {
-      return cache.get(key);
-    }
-
-    let result = func.call(this, ...arguments); // (**)
-
-    cache.set(key, result);
-    return result;
-  };
-}
-
-function hash(args) {
-  return args[0] + ',' + args[1];
-}
-
-worker.slow = cachingDecorator(worker.slow, hash);
-
-alert( worker.slow(3, 5) ); // works
-alert( "Again " + worker.slow(3, 5) ); // same (cached)
-```
+如果函数有多个参数的话，这样外面可以依据哈希表的原理来，将多个参数交给hash函数进行处理，得到哈希值，之后再绑定即可。
 
 
 
 ## arguments
 
-本身相当于一个数组，他记录着函数所传入的所有的参数。
+本身相当于一个类数组对象，他记录着函数所传入的所有的参数。当请注意，他是一个类数组，数组的一些方法不能直接使用。
+我们可以进行这样的转换
+Array.from将其转换为数组再直接应用就行。
+

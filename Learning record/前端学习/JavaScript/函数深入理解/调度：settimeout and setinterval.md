@@ -41,9 +41,10 @@ setTimeout(()=>clearInterval(timerId),5000);
 
 ```
 let timerId = setTimeout(function tick(){
-	timerID = setTimeout(tick,2000)
+	timerId = setTimeout(tick,2000)
 },2000);
 ```
+
 
 
 

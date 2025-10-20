@@ -2,5 +2,10 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "附件文件夹",
   "newFileLocation": "current",
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "readableLineLength": false
 }

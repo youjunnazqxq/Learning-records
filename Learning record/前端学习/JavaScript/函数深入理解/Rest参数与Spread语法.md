@@ -5,7 +5,7 @@
 ```
 fuction sumAll(num1,num2...restnums);//从接受第3个参数开始，这个参数就被存入到了restnums数组之中
 ```
-
+注意这里的数组是真正的数组，于arguments数组不同，arguments是类数组无法调用一些参数。
 
 
 # Spread语法
