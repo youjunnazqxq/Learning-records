@@ -82,9 +82,10 @@
     "//前端学习/前端学习/JavaScript/前端学习/JavaScript/数据类型1",
     "//Tags",
     "//Tags/Tags/CS61B",
+    "//前端学习/前端学习/JavaScript/前端学习/JavaScript/函数深入理解",
     "//前端学习/前端学习/JavaScript/前端学习/JavaScript/数据类型",
-    "//前端学习/前端学习/JavaScript/前端学习/JavaScript/Object（对象）",
-    "//前端学习/前端学习/JavaScript/前端学习/JavaScript/JavaScript基础知识"
+    "//前端学习/前端学习/JavaScript/前端学习/JavaScript/JavaScript基础知识",
+    "//前端学习/前端学习/JavaScript/前端学习/JavaScript/Object（对象）"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -92,7 +93,8 @@
   "spaceSubFolder": ".space",
   "hiddenFiles": [
     "CS61A NOTE/第4单元/Databate/lab12.md",
-    "CS61A NOTE/第二单元（新）/列表/树的递归列表.md"
+    "CS61A NOTE/第二单元（新）/列表/树的递归列表.md",
+    "前端学习/JavaScript/数据类型/未命名.base"
   ],
   "hiddenExtensions": [
     ".mdb",

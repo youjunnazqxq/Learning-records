@@ -38,10 +38,11 @@
 > - **有损转换**: `JSON.stringify` 是一种有损转换，`undefined`、`Function`、`Symbol` 等类型的信息会丢失或改变。
 > - **数据纯粹性**: JSON 是一种纯粹的数据交换格式，不包含任何可执行代码（如函数）。
 > - **数组与对象的关键区别**: 注意 `undefined` 在数组中变为 `null`，而在对象中则直接被忽略，这是最常见的陷阱之一。
-## JSON.stringfit
+## JSON.stringfiy
+
 
 ```
-let json = JSON.stringift(value[,replacer,space]);
+let json = JSON.stringify(value[,replacer,space]);
 ```
 
 value
@@ -51,6 +52,7 @@ value
 replacer
 
 要编码的属性数组或映射函数 `function(key, value)`。
+repalce接受两个参数，key和value，对于符合它条件的对象，它会进行操作（认为定义），
 
 space
 
@@ -77,7 +79,6 @@ function replacer(key, value) {
 
 
 这个方法呢，他接受（key，value），然后返回重新定义的值，。
-
 
 
 # JSON.parse

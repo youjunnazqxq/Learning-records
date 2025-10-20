@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Iterable object",
-      "path": "前端学习/JavaScript/数据类型/Iterable object.md"
+      "basename": "装饰器模式和转发，callapply",
+      "path": "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md"
     },
     {
-      "basename": "数组方法 ",
-      "path": "前端学习/JavaScript/数据类型/数组方法 .md"
-    },
-    {
-      "basename": "箭头函数 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/箭头函数 .md"
-    },
-    {
-      "basename": "构造函数和new操作符 ",
-      "path": "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md"
-    },
-    {
-      "basename": "可选链 ？.",
-      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
-    },
-    {
-      "basename": "对象-原始值转换 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
+      "basename": "调度：settimeout and setinterval",
+      "path": "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md"
     },
     {
       "basename": "函数绑定 ",
@@ -33,8 +17,32 @@
       "path": "前端学习/JavaScript/函数深入理解/箭头函数的深入理解.md"
     },
     {
-      "basename": "装饰器模式和转发，callapply",
-      "path": "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md"
+      "basename": "new Function语法",
+      "path": "前端学习/JavaScript/函数深入理解/new Function语法.md"
+    },
+    {
+      "basename": "对象-原始值转换 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
+    },
+    {
+      "basename": "symbol",
+      "path": "前端学习/JavaScript/Object（对象）/symbol.md"
+    },
+    {
+      "basename": "交互 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/交互 .md"
+    },
+    {
+      "basename": "函数对象，NFE",
+      "path": "前端学习/JavaScript/函数深入理解/函数对象，NFE.md"
+    },
+    {
+      "basename": "全局对象",
+      "path": "前端学习/JavaScript/函数深入理解/全局对象.md"
+    },
+    {
+      "basename": "数组方法 ",
+      "path": "前端学习/JavaScript/数据类型/数组方法 .md"
     },
     {
       "basename": "变量作用域，闭包",
@@ -49,56 +57,20 @@
       "path": "前端学习/JavaScript/函数深入理解/递归和堆栈.md"
     },
     {
-      "basename": "调度：settimeout and setinterval",
-      "path": "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md"
-    },
-    {
-      "basename": "new Function语法",
-      "path": "前端学习/JavaScript/函数深入理解/new Function语法.md"
-    },
-    {
-      "basename": "函数对象，NFE",
-      "path": "前端学习/JavaScript/函数深入理解/函数对象，NFE.md"
-    },
-    {
-      "basename": "全局对象",
-      "path": "前端学习/JavaScript/函数深入理解/全局对象.md"
-    },
-    {
-      "basename": "二分查找 ",
-      "path": "CS61B/二分查找/二分查找 .md"
-    },
-    {
-      "basename": "dis04 List ",
-      "path": "CS61B/dis/dis04 List .md"
-    },
-    {
-      "basename": "dis 05 迭代 ",
-      "path": "CS61B/dis/dis 05 迭代 .md"
-    },
-    {
-      "basename": "WeakMap and WeakSet",
-      "path": "前端学习/JavaScript/数据类型/WeakMap and WeakSet.md"
-    },
-    {
-      "basename": "object.keys,values,entries",
-      "path": "前端学习/JavaScript/数据类型/object.keys,values,entries.md"
-    },
-    {
-      "basename": "解构赋值 ",
-      "path": "前端学习/JavaScript/数据类型/解构赋值 .md"
+      "basename": "Json",
+      "path": "前端学习/JavaScript/数据类型/Json.md"
     },
     {
       "basename": "日期和时间（未完成）",
       "path": "前端学习/JavaScript/数据类型/日期和时间（未完成）.md"
     },
     {
-      "basename": "Json",
-      "path": "前端学习/JavaScript/数据类型/Json.md"
+      "basename": "object.keys,values,entries",
+      "path": "前端学习/JavaScript/数据类型/object.keys,values,entries.md"
     },
     {
-      "basename": "Map and Set",
-      "path": "前端学习/JavaScript/数据类型/Map and Set.md"
+      "basename": "Iterable object",
+      "path": "前端学习/JavaScript/数据类型/Iterable object.md"
     },
     {
       "basename": "数组",
@@ -115,6 +87,46 @@
     {
       "basename": "原始类型的方法 ",
       "path": "前端学习/JavaScript/数据类型/原始类型的方法 .md"
+    },
+    {
+      "basename": "未命名",
+      "path": "前端学习/JavaScript/数据类型/未命名.base"
+    },
+    {
+      "basename": "WeakMap and WeakSet",
+      "path": "前端学习/JavaScript/数据类型/WeakMap and WeakSet.md"
+    },
+    {
+      "basename": "解构赋值 ",
+      "path": "前端学习/JavaScript/数据类型/解构赋值 .md"
+    },
+    {
+      "basename": "Map and Set",
+      "path": "前端学习/JavaScript/数据类型/Map and Set.md"
+    },
+    {
+      "basename": "箭头函数 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/箭头函数 .md"
+    },
+    {
+      "basename": "构造函数和new操作符 ",
+      "path": "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md"
+    },
+    {
+      "basename": "可选链 ？.",
+      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
+    },
+    {
+      "basename": "二分查找 ",
+      "path": "CS61B/二分查找/二分查找 .md"
+    },
+    {
+      "basename": "dis04 List ",
+      "path": "CS61B/dis/dis04 List .md"
+    },
+    {
+      "basename": "dis 05 迭代 ",
+      "path": "CS61B/dis/dis 05 迭代 .md"
     },
     {
       "basename": "对象方法 ，“this”",
@@ -165,10 +177,6 @@
       "path": "前端学习/JavaScript/JavaScript基础知识/类型转化 .md"
     },
     {
-      "basename": "交互 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/交互 .md"
-    },
-    {
       "basename": " 数据类型 ",
       "path": "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "代码的引用",
       "path": "前端学习/JavaScript/JavaScript基础知识/代码的引用.md"
-    },
-    {
-      "basename": "调试 ",
-      "path": "前端学习/JavaScript/代码质量 （未完成）/调试 .md"
-    },
-    {
-      "basename": "盒子模型 ",
-      "path": "前端学习/html&&css/盒子模型/盒子模型 .md"
-    },
-    {
-      "basename": "重置默认样式 ",
-      "path": "前端学习/html&&css/重置默认样式/重置默认样式 .md"
     }
   ],
   "omittedPaths": [],

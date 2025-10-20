@@ -125,3 +125,8 @@ alert( worker.slow(3, 5) ); // works
 alert( "Again " + worker.slow(3, 5) ); // same (cached)
 ```
 
+
+
+## arguments
+
+本身相当于一个数组，他记录着函数所传入的所有的参数。

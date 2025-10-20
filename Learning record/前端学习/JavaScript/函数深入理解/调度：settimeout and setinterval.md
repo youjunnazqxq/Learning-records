@@ -35,3 +35,15 @@ setTimeout(()=>clearInterval(timerId),5000);
 ```
 
 
+# 嵌套调用
+
+## setTimeout
+
+```
+let timerId = setTimeout(function tick(){
+	timerID = setTimeout(tick,2000)
+},2000);
+```
+
+
+
