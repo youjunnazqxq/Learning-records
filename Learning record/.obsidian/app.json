@@ -7,5 +7,5 @@
   "livePreview": true,
   "strictLineBreaks": false,
   "showLineNumber": false,
-  "readableLineLength": false
+  "readableLineLength": true
 }
