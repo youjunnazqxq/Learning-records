@@ -68,8 +68,6 @@
     "//CS61B/CS61B/project/CS61B/project/priject1/CS61B/project/priject1/双向循环数组",
     "//CS61B/CS61B/JAVA基本语法/CS61B/JAVA基本语法/迭代器/CS61B/JAVA基本语法/迭代器/迭代器",
     "//CS61B/CS61B/并查集 ",
-    "//CS61B/CS61B/JAVA基本语法/CS61B/JAVA基本语法/迭代器",
-    "//CS61B/CS61B/JAVA基本语法/CS61B/JAVA基本语法/遍历一个映射（Map）",
     "//CS61B/CS61B/Git/CS61B/Git/基本指令",
     "//CS61B/CS61B/Git/CS61B/Git/基本指令/CS61B/Git/基本指令/远程合并",
     "//CS61B/CS61B/Git",
@@ -82,8 +80,8 @@
     "//前端学习/前端学习/JavaScript/前端学习/JavaScript/数据类型1",
     "//Tags",
     "//Tags/Tags/CS61B",
-    "//前端学习/前端学习/JavaScript/前端学习/JavaScript/函数深入理解",
-    "//前端学习/前端学习/JavaScript/前端学习/JavaScript/JavaScript基础知识"
+    "//前端学习/前端学习/JavaScript/前端学习/JavaScript/类",
+    "//CS61B/CS61B/JAVA基本语法"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

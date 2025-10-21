@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md",
+                "file": "前端学习/JavaScript/类/继承 .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "调度：settimeout and setinterval"
+              "title": "继承"
             }
           },
           {
@@ -113,7 +113,7 @@
             }
           },
           {
-            "id": "5b77a09d71e267d0",
+            "id": "6fc267c3c366afb0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,9 +261,24 @@
   },
   "active": "2c878f12df1eca82",
   "lastOpenFiles": [
+    "前端学习/JavaScript/类/Class基本语法.md",
+    "CS61B/JAVA基本语法/继承/静态类型和动态类型 .md",
+    "CS61B/JAVA基本语法/继承/运行和编译时候的区别 .md",
+    "前端学习/JavaScript/类/继承 .md",
+    "附件文件夹/Pasted image 20251021200927.png",
+    "前端学习/JavaScript/对象属性配置/属性标志和属性描述符.md",
+    "前端学习/JavaScript/对象属性配置/属性的getter和setter.md",
+    "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md",
+    "前端学习/JavaScript/原型，继承/原生的原型.md",
+    "附件文件夹/Pasted image 20251021190352.png",
+    "前端学习/JavaScript/原型，继承/F.prototype.md",
+    "前端学习/JavaScript/原型，继承/原型继承.md",
+    "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md",
+    "前端学习/JavaScript/类",
+    "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象.md",
+    "前端学习/JavaScript/原型，继承",
     "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md",
     "前端学习/JavaScript/函数深入理解/函数绑定 .md",
-    "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md",
     "前端学习/JavaScript/函数深入理解/new Function语法.md",
     "前端学习/JavaScript/函数深入理解/函数对象，NFE.md",
     "前端学习/JavaScript/函数深入理解/全局对象.md",
@@ -274,20 +289,9 @@
     "前端学习/JavaScript/数据类型/数组方法 .md",
     "前端学习/JavaScript/函数深入理解/递归和堆栈.md",
     "前端学习/JavaScript/函数深入理解/变量作用域，闭包.md",
-    "前端学习/JavaScript/对象属性配置/属性的getter和setter.md",
-    "前端学习/JavaScript/对象属性配置/属性标志和属性描述符.md",
     "前端学习/JavaScript/对象属性配置",
     "前端学习/JavaScript/JavaScript基础知识/交互 .md",
     "前端学习/JavaScript/JavaScript基础知识/类型转化 .md",
-    "前端学习/JavaScript/JavaScript基础知识/函数 .md",
-    "前端学习/JavaScript/JavaScript基础知识/空值合并运算符 ？？.md",
-    "前端学习/JavaScript/函数深入理解/Rest参数与Spread语法.md",
-    "前端学习/JavaScript/函数深入理解/箭头函数的深入理解.md",
-    "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md",
-    "前端学习/JavaScript/Object（对象）/symbol.md",
-    "前端学习/JavaScript/数据类型/Json.md",
-    "前端学习/JavaScript/数据类型/日期和时间（未完成）.md",
-    "前端学习/JavaScript/数据类型/数组.md",
     "前端学习/JavaScript/数据类型/未命名.base",
     "前端学习/JavaScript/数据类型/未命名 2.base",
     "前端学习/JavaScript/数据类型/未命名 1.base",
@@ -295,8 +299,6 @@
     "前端学习/JavaScript/函数深入理解",
     "前端学习/JavaScript/数据类型",
     "前端学习/JavaScript/Object（对象）/未命名.base",
-    "未命名 4.base",
-    "未命名 3.base",
     "附件文件夹/Pasted image 20251012152116.png",
     "附件文件夹/Pasted image 20251010213340.png",
     "未命名.canvas",
@@ -306,8 +308,6 @@
     "前端学习/satellite@2x.jpg",
     "前端学习/satellite-expanded@2x.jpg",
     "前端学习/inspect.svg",
-    "前端学习/domconsole0.svg",
-    "前端学习/elk.svg",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
   ]
