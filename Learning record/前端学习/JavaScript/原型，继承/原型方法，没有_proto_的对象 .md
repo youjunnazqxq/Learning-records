@@ -30,3 +30,13 @@ let clone = Object.create(
 );
 ```
 `Object.getOwnPropertyDescriptors()` 方法最核心、最独特的作用，就是**它能获取属性的完整“状态”**（即**属性描述符**），而不仅仅是属性的“值”。
+
+
+# 深度理解_proto_
+
+_proto_本质上是一个访问器，当我设置了一个`obj`的时候我们通过_proto_来访问这个`[[Prototype]]`属性，其中这个访问器方法继承与Object.prototype,
+- _proto_只能接受null和对象
+
+![[Screenshot_20251022_163425_md.obsidian.png]]
+
+

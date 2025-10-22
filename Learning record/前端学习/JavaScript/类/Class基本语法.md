@@ -17,8 +17,16 @@ user.sayHi();
 
 # class本质
 
-class本质是一个构造函数函数，当创建它的时候会自动调用其constructor属性，用其方法是时候也是会自动沿着原型链来寻找方法。
+对于class来说，实际上他就做了两件事：
+- 创建了一个类名相同的构造函数，
+- 类中的方法会存储在其prototype的值中
 
+
+# class不仅仅是语法糖 
+
+- 类中有一个特殊的属性`[[IsClassConstructor]]`这个方法太确定他是否是一个类
+- 类中的方法不可以枚举，他们的enumerable为false
+- 类总是是哟给ues strict模式
 
 
 # 类表达式 
@@ -65,5 +73,8 @@ class Button {
 }
 ```
 
+
+# 计算属性 
+类似于【】内这样解析的
 
 
