@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/JavaScript/类/继承 .md",
+                "file": "前端学习/JavaScript/类/扩展内建类 .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "继承"
+              "title": "扩展内建类"
             }
           },
           {
@@ -113,7 +113,7 @@
             }
           },
           {
-            "id": "6fc267c3c366afb0",
+            "id": "17a224e8fdd5add3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,21 +261,25 @@
   },
   "active": "2c878f12df1eca82",
   "lastOpenFiles": [
+    "前端学习/JavaScript/类/私有的和受保护的属性和方法.md",
+    "前端学习/JavaScript/类/静态属性和静态方法.md",
+    "前端学习/JavaScript/类/扩展内建类 .md",
+    "前端学习/JavaScript/原型，继承/原生的原型.md",
+    "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md",
+    "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象.md",
     "前端学习/JavaScript/类/Class基本语法.md",
+    "前端学习/JavaScript/类/继承 .md",
+    "前端学习/JavaScript/函数深入理解/var.md",
     "CS61B/JAVA基本语法/继承/静态类型和动态类型 .md",
     "CS61B/JAVA基本语法/继承/运行和编译时候的区别 .md",
-    "前端学习/JavaScript/类/继承 .md",
     "附件文件夹/Pasted image 20251021200927.png",
     "前端学习/JavaScript/对象属性配置/属性标志和属性描述符.md",
     "前端学习/JavaScript/对象属性配置/属性的getter和setter.md",
-    "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md",
-    "前端学习/JavaScript/原型，继承/原生的原型.md",
     "附件文件夹/Pasted image 20251021190352.png",
     "前端学习/JavaScript/原型，继承/F.prototype.md",
     "前端学习/JavaScript/原型，继承/原型继承.md",
     "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md",
     "前端学习/JavaScript/类",
-    "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象.md",
     "前端学习/JavaScript/原型，继承",
     "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md",
     "前端学习/JavaScript/函数深入理解/函数绑定 .md",
@@ -287,11 +291,7 @@
     "前端学习/JavaScript/数据类型/Iterable object.md",
     "前端学习/JavaScript/数据类型/字符串.md",
     "前端学习/JavaScript/数据类型/数组方法 .md",
-    "前端学习/JavaScript/函数深入理解/递归和堆栈.md",
-    "前端学习/JavaScript/函数深入理解/变量作用域，闭包.md",
     "前端学习/JavaScript/对象属性配置",
-    "前端学习/JavaScript/JavaScript基础知识/交互 .md",
-    "前端学习/JavaScript/JavaScript基础知识/类型转化 .md",
     "前端学习/JavaScript/数据类型/未命名.base",
     "前端学习/JavaScript/数据类型/未命名 2.base",
     "前端学习/JavaScript/数据类型/未命名 1.base",

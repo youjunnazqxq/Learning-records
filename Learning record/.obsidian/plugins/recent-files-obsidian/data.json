@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "继承 ",
-      "path": "前端学习/JavaScript/类/继承 .md"
+      "basename": "扩展内建类 ",
+      "path": "前端学习/JavaScript/类/扩展内建类 .md"
+    },
+    {
+      "basename": "私有的和受保护的属性和方法",
+      "path": "前端学习/JavaScript/类/私有的和受保护的属性和方法.md"
+    },
+    {
+      "basename": "静态属性和静态方法",
+      "path": "前端学习/JavaScript/类/静态属性和静态方法.md"
+    },
+    {
+      "basename": "原生的原型",
+      "path": "前端学习/JavaScript/原型，继承/原生的原型.md"
+    },
+    {
+      "basename": "原型方法，没有_proto_的对象 ",
+      "path": "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md"
     },
     {
       "basename": "Class基本语法",
       "path": "前端学习/JavaScript/类/Class基本语法.md"
+    },
+    {
+      "basename": "继承 ",
+      "path": "前端学习/JavaScript/类/继承 .md"
     },
     {
       "basename": "静态类型和动态类型 ",
@@ -23,14 +43,6 @@
     {
       "basename": "属性的getter和setter",
       "path": "前端学习/JavaScript/对象属性配置/属性的getter和setter.md"
-    },
-    {
-      "basename": "原型方法，没有_proto_的对象 ",
-      "path": "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md"
-    },
-    {
-      "basename": "原生的原型",
-      "path": "前端学习/JavaScript/原型，继承/原生的原型.md"
     },
     {
       "basename": "F.prototype",
@@ -183,22 +195,6 @@
     {
       "basename": "对象方法 ，“this”",
       "path": "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md"
-    },
-    {
-      "basename": "对象的引用和复制 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象的引用和复制 .md"
-    },
-    {
-      "basename": "对象 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象 .md"
-    },
-    {
-      "basename": "垃圾回收机制 ",
-      "path": "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md"
-    },
-    {
-      "basename": "函数表达式 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/函数表达式 .md"
     }
   ],
   "omittedPaths": [],
