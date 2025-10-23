@@ -32,8 +32,21 @@ Error 名称。例如，对于一个未定义的变量，名称是 `"ReferenceE
 `stack`
 
 当前的调用栈：用于调试目的的一个字符串，其中包含有关导致 error 的嵌套调用序列的信息。
+## 创建error对象
+
+```
+let error = new Error("message");
+```
 
 # throw
 
+当我们想要自定义错误的时候，可以这样在try中尝试抛出错误：
+```
+if(!user.name){
+	throw new Error(错误)；
+}
+```
 
+
+# finally
 

@@ -17,7 +17,6 @@ let arr = [];
 
 alert(pbjectToString.call(arr));//[object Array];
 ```
-
 ```
 let user = {
 	[Symbol.toStringTag]: "User"
@@ -26,4 +25,13 @@ let user = {
 alert({}.toString.call(user));
 ```
 
-![[Screenshot_20251022_192054_mark.via.png]]
+对于正常的类型检查来说我们使用`{}.toString.call(obj)`
+即可检查他的类型，其中我们也可以自定义类型，例如：
+```
+let user = {
+	[Symbol.toStringTag] = "User"
+};
+	alert({}.toString.call(user));//[object User];
+```
+
+
