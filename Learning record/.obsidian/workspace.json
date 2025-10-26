@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/JavaScript/类/扩展内建类 .md",
+                "file": "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "扩展内建类"
+              "title": "使用promise进行错误处理"
             }
           },
           {
@@ -113,7 +113,21 @@
             }
           },
           {
-            "id": "17a224e8fdd5add3",
+            "id": "ded9b3d7abdbc317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Promise链条"
+            }
+          },
+          {
+            "id": "33dac31c023d973e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -123,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -261,53 +275,53 @@
   },
   "active": "2c878f12df1eca82",
   "lastOpenFiles": [
+    "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md",
+    "前端学习/JavaScript/JavaScript基础知识/变量 .md",
+    "前端学习/JavaScript/JavaScript基础知识/现代模式 .md",
+    "前端学习/JavaScript/JavaScript基础知识/代码的引用.md",
+    "前端学习/JavaScript/原型，继承/原生的原型.md",
+    "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md",
+    "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md",
+    "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md",
+    "前端学习/JavaScript/异步：Promise，async and await/Promise .md",
+    "前端学习/JavaScript/异步：Promise，async and await/回调 .md",
+    "前端学习/JavaScript/错误处理/自定义Error.md",
+    "前端学习/JavaScript/错误处理/try...catch.md",
+    "前端学习/JavaScript/异步：Promise，async and await/回调.md",
+    "附件文件夹/Pasted image 20251025191337.png",
+    "附件文件夹/Pasted image 20251025191119.png",
+    "Vault.md",
+    "CS61A NOTE/CS61A NOTE.md",
+    "附件文件夹/Pasted image 20251025154040.png",
+    "前端学习/JavaScript/异步：Promise，async and await",
+    "前端学习/JavaScript/类/扩展内建类 .md",
+    "前端学习/JavaScript/错误处理",
+    "前端学习/JavaScript/类/类检查：“instanceof”.md",
+    "前端学习/JavaScript/类/Mixin 模式.md",
     "前端学习/JavaScript/类/私有的和受保护的属性和方法.md",
     "前端学习/JavaScript/类/静态属性和静态方法.md",
-    "前端学习/JavaScript/类/扩展内建类 .md",
-    "前端学习/JavaScript/原型，继承/原生的原型.md",
     "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md",
     "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象.md",
     "前端学习/JavaScript/类/Class基本语法.md",
     "前端学习/JavaScript/类/继承 .md",
     "前端学习/JavaScript/函数深入理解/var.md",
     "CS61B/JAVA基本语法/继承/静态类型和动态类型 .md",
-    "CS61B/JAVA基本语法/继承/运行和编译时候的区别 .md",
     "附件文件夹/Pasted image 20251021200927.png",
-    "前端学习/JavaScript/对象属性配置/属性标志和属性描述符.md",
-    "前端学习/JavaScript/对象属性配置/属性的getter和setter.md",
     "附件文件夹/Pasted image 20251021190352.png",
-    "前端学习/JavaScript/原型，继承/F.prototype.md",
-    "前端学习/JavaScript/原型，继承/原型继承.md",
-    "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md",
     "前端学习/JavaScript/类",
     "前端学习/JavaScript/原型，继承",
-    "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md",
-    "前端学习/JavaScript/函数深入理解/函数绑定 .md",
-    "前端学习/JavaScript/函数深入理解/new Function语法.md",
-    "前端学习/JavaScript/函数深入理解/函数对象，NFE.md",
-    "前端学习/JavaScript/函数深入理解/全局对象.md",
-    "前端学习/JavaScript/数据类型/object.keys,values,entries.md",
-    "前端学习/JavaScript/数据类型/Map and Set.md",
-    "前端学习/JavaScript/数据类型/Iterable object.md",
-    "前端学习/JavaScript/数据类型/字符串.md",
-    "前端学习/JavaScript/数据类型/数组方法 .md",
     "前端学习/JavaScript/对象属性配置",
     "前端学习/JavaScript/数据类型/未命名.base",
     "前端学习/JavaScript/数据类型/未命名 2.base",
     "前端学习/JavaScript/数据类型/未命名 1.base",
     "Tags",
     "前端学习/JavaScript/函数深入理解",
-    "前端学习/JavaScript/数据类型",
-    "前端学习/JavaScript/Object（对象）/未命名.base",
     "附件文件夹/Pasted image 20251012152116.png",
     "附件文件夹/Pasted image 20251010213340.png",
     "未命名.canvas",
     "前端学习/limitations.svg",
     "前端学习/web-components-twitter.svg",
     "前端学习/domconsole1.svg",
-    "前端学习/satellite@2x.jpg",
-    "前端学习/satellite-expanded@2x.jpg",
-    "前端学习/inspect.svg",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
   ]

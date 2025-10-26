@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "使用promise进行错误处理 ",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md"
+    },
+    {
+      "basename": " 数据类型 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md"
+    },
+    {
+      "basename": "变量 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/变量 .md"
+    },
+    {
+      "basename": "现代模式 ",
+      "path": "前端学习/JavaScript/JavaScript基础知识/现代模式 .md"
+    },
+    {
+      "basename": "代码的引用",
+      "path": "前端学习/JavaScript/JavaScript基础知识/代码的引用.md"
+    },
+    {
+      "basename": "原生的原型",
+      "path": "前端学习/JavaScript/原型，继承/原生的原型.md"
+    },
+    {
+      "basename": "Promise链条",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md"
+    },
+    {
+      "basename": "异步：Promise，async and await",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md"
+    },
+    {
+      "basename": "Promise ",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise .md"
+    },
+    {
+      "basename": "回调 ",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/回调 .md"
+    },
+    {
+      "basename": "自定义Error",
+      "path": "前端学习/JavaScript/错误处理/自定义Error.md"
+    },
+    {
+      "basename": "try...catch",
+      "path": "前端学习/JavaScript/错误处理/try...catch.md"
+    },
+    {
       "basename": "扩展内建类 ",
       "path": "前端学习/JavaScript/类/扩展内建类 .md"
     },
@@ -11,10 +59,6 @@
     {
       "basename": "静态属性和静态方法",
       "path": "前端学习/JavaScript/类/静态属性和静态方法.md"
-    },
-    {
-      "basename": "原生的原型",
-      "path": "前端学习/JavaScript/原型，继承/原生的原型.md"
     },
     {
       "basename": "原型方法，没有_proto_的对象 ",
@@ -155,46 +199,6 @@
     {
       "basename": "原始类型的方法 ",
       "path": "前端学习/JavaScript/数据类型/原始类型的方法 .md"
-    },
-    {
-      "basename": "未命名",
-      "path": "前端学习/JavaScript/数据类型/未命名.base"
-    },
-    {
-      "basename": "WeakMap and WeakSet",
-      "path": "前端学习/JavaScript/数据类型/WeakMap and WeakSet.md"
-    },
-    {
-      "basename": "解构赋值 ",
-      "path": "前端学习/JavaScript/数据类型/解构赋值 .md"
-    },
-    {
-      "basename": "箭头函数 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/箭头函数 .md"
-    },
-    {
-      "basename": "构造函数和new操作符 ",
-      "path": "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md"
-    },
-    {
-      "basename": "可选链 ？.",
-      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
-    },
-    {
-      "basename": "二分查找 ",
-      "path": "CS61B/二分查找/二分查找 .md"
-    },
-    {
-      "basename": "dis04 List ",
-      "path": "CS61B/dis/dis04 List .md"
-    },
-    {
-      "basename": "dis 05 迭代 ",
-      "path": "CS61B/dis/dis 05 迭代 .md"
-    },
-    {
-      "basename": "对象方法 ，“this”",
-      "path": "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md"
     }
   ],
   "omittedPaths": [],
