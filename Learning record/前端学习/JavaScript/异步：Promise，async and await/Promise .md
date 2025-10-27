@@ -25,7 +25,7 @@ executor(resolve, reject)：`executor` 立即执行，它有两个“开关”�
 
 语法：
 ```
-promise.then()
+promise.then(
 	function(result){handle successfule result};
 	function(error){handle an error};
 )
