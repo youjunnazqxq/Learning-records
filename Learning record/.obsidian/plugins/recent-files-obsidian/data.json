@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "前端学习/JavaScript/Generator/未命名.md"
+    },
+    {
+      "basename": "generator",
+      "path": "前端学习/JavaScript/Generator/generator.md"
+    },
+    {
+      "basename": "Promise API",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise API.md"
+    },
+    {
+      "basename": "Promisification",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promisification.md"
+    },
+    {
+      "basename": "async_await",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/async_await.md"
+    },
+    {
+      "basename": "异步：Promise，async and await",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md"
+    },
+    {
       "basename": "使用promise进行错误处理 ",
       "path": "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md"
+    },
+    {
+      "basename": "Promise链条",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md"
+    },
+    {
+      "basename": "Promise ",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise .md"
+    },
+    {
+      "basename": "回调 ",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/回调 .md"
     },
     {
       "basename": " 数据类型 ",
@@ -23,22 +59,6 @@
     {
       "basename": "原生的原型",
       "path": "前端学习/JavaScript/原型，继承/原生的原型.md"
-    },
-    {
-      "basename": "Promise链条",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md"
-    },
-    {
-      "basename": "异步：Promise，async and await",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md"
-    },
-    {
-      "basename": "Promise ",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise .md"
-    },
-    {
-      "basename": "回调 ",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/回调 .md"
     },
     {
       "basename": "自定义Error",
@@ -179,26 +199,6 @@
     {
       "basename": "symbol",
       "path": "前端学习/JavaScript/Object（对象）/symbol.md"
-    },
-    {
-      "basename": "Json",
-      "path": "前端学习/JavaScript/数据类型/Json.md"
-    },
-    {
-      "basename": "日期和时间（未完成）",
-      "path": "前端学习/JavaScript/数据类型/日期和时间（未完成）.md"
-    },
-    {
-      "basename": "数组",
-      "path": "前端学习/JavaScript/数据类型/数组.md"
-    },
-    {
-      "basename": "Number 类型 ",
-      "path": "前端学习/JavaScript/数据类型/Number 类型 .md"
-    },
-    {
-      "basename": "原始类型的方法 ",
-      "path": "前端学习/JavaScript/数据类型/原始类型的方法 .md"
     }
   ],
   "omittedPaths": [],
