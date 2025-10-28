@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning record/前端学习/JavaScript/Generator/generator.md",
+                "file": "Learning record/前端学习/JavaScript/模块/Modoule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "generator"
+              "title": "Modoule"
             }
           }
         ]
@@ -155,6 +155,9 @@
   },
   "active": "3d42e71233bc7e40",
   "lastOpenFiles": [
+    "Learning record/前端学习/JavaScript/Generator/异步迭代和generator.md",
+    "Learning record/前端学习/JavaScript/模块/Modoule.md",
+    "Learning record/前端学习/JavaScript/模块",
     "Learning record/前端学习/JavaScript/异步：Promise，async and await/async_await.md",
     "Learning record/前端学习/JavaScript/Generator/generator.md",
     "Learning record/前端学习/JavaScript/Generator",
@@ -188,8 +191,6 @@
     "Learning record/附件文件夹/Pasted image 20251021200927.png",
     "Learning record/附件文件夹/Pasted image 20251021190352.png",
     "Learning record/前端学习/JavaScript/类",
-    "Prototype.md",
-    "Learning record/前端学习/JavaScript/对象属性配置/属性的getter和setter.md",
     "Learning record/前端学习/JavaScript/原型，继承",
     "Learning record/前端学习/JavaScript/对象属性配置",
     "未命名.canvas",

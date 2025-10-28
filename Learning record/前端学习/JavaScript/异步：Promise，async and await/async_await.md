@@ -15,6 +15,10 @@ async” 这个单词表达了一个简单的事情：即这个函数总是返�
 关键字 `await` 让 JavaScript 引擎等待直到 promise 完成（settle）并返回结果
 
 让我们强调一下：`await` 实际上会暂停函数的执行，直到 promise 状态变为 settled，然后以 promise 的结果继续执行。这个行为不会耗费任何 CPU 资源，因为 JavaScript 引擎可以同时处理其他任务：执行其他脚本，处理事件等。
+```
+let value = await promise;
+```
+
 
 
 # Error 处理 
