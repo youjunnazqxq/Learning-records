@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning record/前端学习/JavaScript/模块/Modoule.md",
+                "file": "Learning record/前端学习/杂项/Proxy Reflect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modoule"
+              "title": "Proxy Reflect"
             }
           }
         ]
@@ -155,8 +155,16 @@
   },
   "active": "3d42e71233bc7e40",
   "lastOpenFiles": [
-    "Learning record/前端学习/JavaScript/Generator/异步迭代和generator.md",
+    "Learning record/前端学习/杂项/Eval：执行代码字符串.md",
+    "Learning record/前端学习/杂项/柯里化.md",
+    "Learning record/前端学习/杂项/Reference Type.md",
+    "Learning record/前端学习/杂项/Proxy Reflect.md",
+    "Learning record/前端学习/未命名.md",
+    "Learning record/前端学习/杂项",
     "Learning record/前端学习/JavaScript/模块/Modoule.md",
+    "Learning record/前端学习/JavaScript/模块 1/Modoule.md",
+    "Learning record/前端学习/JavaScript/模块 1",
+    "Learning record/前端学习/JavaScript/Generator/异步迭代和generator.md",
     "Learning record/前端学习/JavaScript/模块",
     "Learning record/前端学习/JavaScript/异步：Promise，async and await/async_await.md",
     "Learning record/前端学习/JavaScript/Generator/generator.md",
@@ -181,20 +189,13 @@
     "Learning record/前端学习/JavaScript/类/静态属性和静态方法.md",
     "Learning record/前端学习/JavaScript/类/继承 .md",
     "Learning record/前端学习/JavaScript/类/Class基本语法.md",
-    "Learning record/前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md",
     "Screenshot_20251022_163425_md.obsidian.png",
-    "Learning record/前端学习/JavaScript/原型，继承/原生的原型.md",
-    "Learning record/前端学习/JavaScript/原型，继承/F.prototype.md",
-    "Learning record/前端学习/JavaScript/原型，继承/原型继承.md",
-    "Learning record/前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象.md",
-    "Learning record/前端学习/JavaScript/函数深入理解/var.md",
     "Learning record/附件文件夹/Pasted image 20251021200927.png",
     "Learning record/附件文件夹/Pasted image 20251021190352.png",
     "Learning record/前端学习/JavaScript/类",
     "Learning record/前端学习/JavaScript/原型，继承",
     "Learning record/前端学习/JavaScript/对象属性配置",
     "未命名.canvas",
-    "Learning record/前端学习/JavaScript/数据类型/未命名.base",
-    "Learning record/前端学习/JavaScript/函数深入理解"
+    "Learning record/前端学习/JavaScript/数据类型/未命名.base"
   ]
 }
