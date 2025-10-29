@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/浏览器环境，规格.md",
+                "file": "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浏览器环境，规格"
+              "title": "遍历 DOM"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Learning record/前端学习/JavaScript/错误处理/try...catch.md",
+            "file": "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,8 +155,10 @@
   },
   "active": "3d42e71233bc7e40",
   "lastOpenFiles": [
-    "Learning record/前端学习/JavaScript/杂项/Unicode -- 字符串内幕.md",
+    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/DOM 树.md",
+    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/浏览器环境，规格.md",
+    "Learning record/前端学习/JavaScript/杂项/Unicode -- 字符串内幕.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口",
     "Learning record/前端学习/JavaScript/杂项/BigInt.md",
@@ -186,9 +188,7 @@
     "Learning record/前端学习/JavaScript/异步：Promise，async and await/Promise .md",
     "Learning record/前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md",
     "Learning record/前端学习/JavaScript/错误处理/自定义Error.md",
-    "Learning record/前端学习/JavaScript/异步：Promise，async and await/回调.md",
     "Learning record/前端学习/JavaScript/异步：Promise，async and await",
-    "Learning record/前端学习/JavaScript/错误处理/try...catch.md",
     "Learning record/前端学习/JavaScript/错误处理",
     "Screenshot_20251022_192054_mark.via.png",
     "Capture_20251022_191224.jpg",
