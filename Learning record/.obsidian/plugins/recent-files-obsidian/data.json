@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "前端学习/JavaScript/Generator/未命名.md"
+      "basename": "Proxy和Reflect",
+      "path": "前端学习/JavaScript/杂项/Proxy和Reflect.md"
+    },
+    {
+      "basename": "动态导入 ",
+      "path": "前端学习/JavaScript/模块/动态导入 .md"
+    },
+    {
+      "basename": "导入和导出  ",
+      "path": "前端学习/JavaScript/模块/导入和导出  .md"
+    },
+    {
+      "basename": "Modoule",
+      "path": "前端学习/JavaScript/模块/Modoule.md"
+    },
+    {
+      "basename": "数组方法 ",
+      "path": "前端学习/JavaScript/数据类型/数组方法 .md"
     },
     {
       "basename": "generator",
@@ -157,10 +173,6 @@
       "path": "前端学习/JavaScript/数据类型/字符串.md"
     },
     {
-      "basename": "数组方法 ",
-      "path": "前端学习/JavaScript/数据类型/数组方法 .md"
-    },
-    {
       "basename": "递归和堆栈",
       "path": "前端学习/JavaScript/函数深入理解/递归和堆栈.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Rest参数与Spread语法",
       "path": "前端学习/JavaScript/函数深入理解/Rest参数与Spread语法.md"
-    },
-    {
-      "basename": "箭头函数的深入理解",
-      "path": "前端学习/JavaScript/函数深入理解/箭头函数的深入理解.md"
-    },
-    {
-      "basename": "对象-原始值转换 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
-    },
-    {
-      "basename": "symbol",
-      "path": "前端学习/JavaScript/Object（对象）/symbol.md"
     }
   ],
   "omittedPaths": [],
