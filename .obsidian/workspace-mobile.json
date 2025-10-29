@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning record/前端学习/杂项/Proxy Reflect.md",
+                "file": "Learning record/前端学习/JavaScript/杂项/Proxy和Reflect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy Reflect"
+              "title": "Proxy和Reflect"
             }
           }
         ]
@@ -155,10 +155,15 @@
   },
   "active": "3d42e71233bc7e40",
   "lastOpenFiles": [
+    "Learning record/前端学习/JavaScript/杂项/杂项.md",
+    "Learning record/前端学习/杂项/Proxy Reflect.md",
+    "Learning record/前端学习/JavaScript/模块/导入和导出  .md",
+    "Learning record/前端学习/JavaScript/模块/动态导入 .md",
+    "Learning record/前端学习/JavaScript/杂项/Proxy和Reflect.md",
+    "Learning record/前端学习/JavaScript/杂项",
     "Learning record/前端学习/杂项/Eval：执行代码字符串.md",
     "Learning record/前端学习/杂项/柯里化.md",
     "Learning record/前端学习/杂项/Reference Type.md",
-    "Learning record/前端学习/杂项/Proxy Reflect.md",
     "Learning record/前端学习/未命名.md",
     "Learning record/前端学习/杂项",
     "Learning record/前端学习/JavaScript/模块/Modoule.md",
@@ -185,17 +190,12 @@
     "Screenshot_20251022_192054_mark.via.png",
     "Learning record/前端学习/JavaScript/类/扩展内建类 .md",
     "Capture_20251022_191224.jpg",
-    "Learning record/前端学习/JavaScript/类/私有的和受保护的属性和方法.md",
-    "Learning record/前端学习/JavaScript/类/静态属性和静态方法.md",
-    "Learning record/前端学习/JavaScript/类/继承 .md",
-    "Learning record/前端学习/JavaScript/类/Class基本语法.md",
     "Screenshot_20251022_163425_md.obsidian.png",
     "Learning record/附件文件夹/Pasted image 20251021200927.png",
     "Learning record/附件文件夹/Pasted image 20251021190352.png",
     "Learning record/前端学习/JavaScript/类",
     "Learning record/前端学习/JavaScript/原型，继承",
     "Learning record/前端学习/JavaScript/对象属性配置",
-    "未命名.canvas",
-    "Learning record/前端学习/JavaScript/数据类型/未命名.base"
+    "未命名.canvas"
   ]
 }
