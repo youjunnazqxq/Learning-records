@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "节点属性：type，tag和content",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/节点属性：type，tag和content.md"
+    },
+    {
+      "basename": "特性和属性",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/特性和属性.md"
+    },
+    {
+      "basename": "搜索： getelement，queryselector",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/搜索： getelement，queryselector.md"
+    },
+    {
       "basename": "遍历 DOM",
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md"
+    },
+    {
+      "basename": "修改文档",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/修改文档.md"
+    },
+    {
+      "basename": "样式和类",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/样式和类.md"
     },
     {
       "basename": "DOM 树",
@@ -179,26 +199,6 @@
     {
       "basename": "字符串",
       "path": "前端学习/JavaScript/数据类型/字符串.md"
-    },
-    {
-      "basename": "递归和堆栈",
-      "path": "前端学习/JavaScript/函数深入理解/递归和堆栈.md"
-    },
-    {
-      "basename": "变量作用域，闭包",
-      "path": "前端学习/JavaScript/函数深入理解/变量作用域，闭包.md"
-    },
-    {
-      "basename": "交互 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/交互 .md"
-    },
-    {
-      "basename": "类型转化 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/类型转化 .md"
-    },
-    {
-      "basename": "函数 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/函数 .md"
     }
   ],
   "omittedPaths": [],

@@ -21,8 +21,28 @@
 **`hildNodes` 集合列出了所有子节点，包括文本节点。**
 **`firstChild` 和 `lastChild` 属性是访问第一个和最后一个子元素的快捷方式。**
 
+```
+document.body.firstElementChild
+
+    document.body.children[0];
+
+    doucment.body.childNodes[1];
+```
+
+**`children`**：
+
+- 返回一个 `HTMLCollection`。
+    
+- 只包含**元素节点** (Element nodes)，比如 `<h1>`, `<p>`, `<div>`。
+    
+- 它会**自动忽略**文本节点（比如空格、换行）和注释节点。
 
 
+**`childNodes`**：
+
+- 返回一个 `NodeList`。
+    
+- 包含**所有类型**的子节点，包括**元素节点**、**文本节点** (Text nodes) 和**注释节点** (Comment nodes) 等。
 
 
 # DOM集合 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md",
+                "file": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/节点属性：type，tag和content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "遍历 DOM"
+              "title": "节点属性：type，tag和content"
             }
           }
         ]
@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "8d51138f9d3095cf",
+            "id": "2faab56c3897b428",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -245,12 +245,17 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "7c469b6b71040d01",
+  "active": "2faab56c3897b428",
   "lastOpenFiles": [
+    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/特性和属性.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/节点属性：type，tag和content.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/搜索： getelement，queryselector.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/修改文档.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/样式和类.md",
     "附件文件夹/Pasted image 20251029222336.png",
     "前端学习/JavaScript/浏览器：文档，事件，接口/Document/DOM 树.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/Document/浏览器环境，规格.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md",
     "前端学习/JavaScript/杂项/Proxy和Reflect.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/Document",
     "前端学习/JavaScript/浏览器：文档，事件，接口",
@@ -273,10 +278,6 @@
     "前端学习/JavaScript/Generator/generator.md",
     "前端学习/JavaScript/异步：Promise，async and await/Promise API.md",
     "前端学习/JavaScript/异步：Promise，async and await/Promisification.md",
-    "前端学习/JavaScript/异步：Promise，async and await/async_await.md",
-    "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md",
-    "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md",
-    "前端学习/JavaScript/异步：Promise，async and await/Microtask.md",
     "前端学习/JavaScript/Generator",
     "附件文件夹/Pasted image 20251025191337.png",
     "附件文件夹/Pasted image 20251025191119.png",
@@ -293,7 +294,6 @@
     "未命名.canvas",
     "前端学习/limitations.svg",
     "前端学习/web-components-twitter.svg",
-    "前端学习/domconsole1.svg",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
   ]

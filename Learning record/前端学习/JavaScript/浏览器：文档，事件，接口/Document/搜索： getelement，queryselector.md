@@ -10,7 +10,7 @@
 </script>
 ```
 
-# querySelectorAll
+# querySelectorAll（查询-选择-全部）
 
 到目前为止，最通用的方法是 `elem.querySelectorAll(css)`，它返回 `elem` 中与给定 CSS 选择器匹配的所有元素。
 
@@ -21,6 +21,8 @@ let elements = document.querySelectorAll('ul > li:last-chi');
 # querySelector
 `elem.querySelector(css)` 调用会返回给定 CSS 选择器的第一个元素。
 换句话说，结果与 `elem.querySelectorAll(css)[0]` 相同，但是后者会查找 **所有** 元素，并从中选取一个，而 `elem.querySelector` 只会查找一个。因此它在速度上更快，并且写起来更短。
+
+其返回的是一个Nodelist，节点列表，类似于伪数组。
 
 # matches
 
