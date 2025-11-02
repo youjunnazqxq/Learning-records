@@ -1,36 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "节点属性：type，tag和content",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/节点属性：type，tag和content.md"
+      "basename": "坐标 ",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/坐标 .md"
     },
     {
-      "basename": "特性和属性",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/特性和属性.md"
+      "basename": "Window 大小和滚动 ",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/Window 大小和滚动 .md"
     },
     {
-      "basename": "搜索： getelement，queryselector",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/搜索： getelement，queryselector.md"
-    },
-    {
-      "basename": "遍历 DOM",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md"
-    },
-    {
-      "basename": "修改文档",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/修改文档.md"
+      "basename": "元素大小和滚动",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/元素大小和滚动.md"
     },
     {
       "basename": "样式和类",
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/样式和类.md"
     },
     {
-      "basename": "DOM 树",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/DOM 树.md"
+      "basename": "修改文档",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/修改文档.md"
+    },
+    {
+      "basename": "特性和属性",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/特性和属性.md"
+    },
+    {
+      "basename": "节点属性：type，tag和content",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/节点属性：type，tag和content.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Tags/未命名.md"
+    },
+    {
+      "basename": "搜索： getelement，queryselector",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/搜索： getelement，queryselector.md"
+    },
+    {
+      "basename": "类检查：“instanceof”",
+      "path": "前端学习/JavaScript/类/类检查：“instanceof”.md"
+    },
+    {
+      "basename": "Mixin 模式",
+      "path": "前端学习/JavaScript/类/Mixin 模式.md"
+    },
+    {
+      "basename": "扩展内建类 ",
+      "path": "前端学习/JavaScript/类/扩展内建类 .md"
+    },
+    {
+      "basename": "私有的和受保护的属性和方法",
+      "path": "前端学习/JavaScript/类/私有的和受保护的属性和方法.md"
+    },
+    {
+      "basename": "静态属性和静态方法",
+      "path": "前端学习/JavaScript/类/静态属性和静态方法.md"
+    },
+    {
+      "basename": "继承 ",
+      "path": "前端学习/JavaScript/类/继承 .md"
+    },
+    {
+      "basename": "Class基本语法",
+      "path": "前端学习/JavaScript/类/Class基本语法.md"
+    },
+    {
+      "basename": "遍历 DOM",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md"
     },
     {
       "basename": "浏览器环境，规格",
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/浏览器环境，规格.md"
+    },
+    {
+      "basename": "DOM 树",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/DOM 树.md"
     },
     {
       "basename": "动态导入 ",
@@ -113,28 +157,8 @@
       "path": "前端学习/JavaScript/错误处理/try...catch.md"
     },
     {
-      "basename": "扩展内建类 ",
-      "path": "前端学习/JavaScript/类/扩展内建类 .md"
-    },
-    {
-      "basename": "私有的和受保护的属性和方法",
-      "path": "前端学习/JavaScript/类/私有的和受保护的属性和方法.md"
-    },
-    {
-      "basename": "静态属性和静态方法",
-      "path": "前端学习/JavaScript/类/静态属性和静态方法.md"
-    },
-    {
       "basename": "原型方法，没有_proto_的对象 ",
       "path": "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md"
-    },
-    {
-      "basename": "Class基本语法",
-      "path": "前端学习/JavaScript/类/Class基本语法.md"
-    },
-    {
-      "basename": "继承 ",
-      "path": "前端学习/JavaScript/类/继承 .md"
     },
     {
       "basename": "静态类型和动态类型 ",
@@ -175,30 +199,6 @@
     {
       "basename": "new Function语法",
       "path": "前端学习/JavaScript/函数深入理解/new Function语法.md"
-    },
-    {
-      "basename": "函数对象，NFE",
-      "path": "前端学习/JavaScript/函数深入理解/函数对象，NFE.md"
-    },
-    {
-      "basename": "全局对象",
-      "path": "前端学习/JavaScript/函数深入理解/全局对象.md"
-    },
-    {
-      "basename": "object.keys,values,entries",
-      "path": "前端学习/JavaScript/数据类型/object.keys,values,entries.md"
-    },
-    {
-      "basename": "Map and Set",
-      "path": "前端学习/JavaScript/数据类型/Map and Set.md"
-    },
-    {
-      "basename": "Iterable object",
-      "path": "前端学习/JavaScript/数据类型/Iterable object.md"
-    },
-    {
-      "basename": "字符串",
-      "path": "前端学习/JavaScript/数据类型/字符串.md"
     }
   ],
   "omittedPaths": [],

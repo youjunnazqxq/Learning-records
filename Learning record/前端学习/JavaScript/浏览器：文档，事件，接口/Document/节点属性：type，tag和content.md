@@ -1,12 +1,18 @@
+
+
+
+
 # DOM 节点类 
 每个 DOM 节点都属于相应的内建类。
 层次结构（hierarchy）的根节点是 [EventTarget](https://dom.spec.whatwg.org/#eventtarget)，[Node](https://dom.spec.whatwg.org/#interface-node) 继承自它，其他 DOM 节点继承自 Node。
 
-- [EventTarget](https://dom.spec.whatwg.org/#eventtarget) —— 是一切的根“抽象（abstract）”类。
+![[Pasted image 20251102193824.png]]
+
+- EventTarget —— 是一切的根“抽象（abstract）”类。
     
-    该类的对象从未被创建。它作为一个基础，以便让所有 DOM 节点都支持所谓的“事件（event）”，我们会在之后学习它。
-    
-- [Node](http://dom.spec.whatwg.org/#interface-node) —— 也是一个“抽象”类，充当 DOM 节点的基础。
+    该类的对象从未被创建。它作为一个基础，以便让所有 DOM 节点都支持所谓的“（event）”，我们会在之后学习它。
+
+- Node —— 也是一个“抽象”类，充当 DOM 节点的基础。
     
     它提供了树的核心功能：`parentNode`，`nextSibling`，`childNodes` 等（它们都是 getter）。`Node` 类的对象从未被创建。但是还有一些继承自它的其他类（因此继承了 `Node` 的功能）。
     
@@ -46,7 +52,7 @@
 - 对于 document 对象 `elem.nodeType == 9`，
 - 在 [规范](https://dom.spec.whatwg.org/#node) 中还有一些其他值。
 
-# 标签：nodename和tagname
+# 标签：nodename和tagname（注意这是属性！）
 
 - `tagName` 属性仅适用于 `Element` 节点。
 - `nodeName` 是为任意 `Node` 定义的：

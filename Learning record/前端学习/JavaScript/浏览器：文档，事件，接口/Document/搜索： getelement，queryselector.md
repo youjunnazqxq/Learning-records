@@ -1,16 +1,12 @@
 
-# document.getElementByld 或者只用id
+# document.getElementByld（‘ID’） 或者只用id（查找ID的时候最快）
 
 ```
-<div id = "elem">
-</div>
-<script>
 	let elem = document.getElementById('elem');
 	elem.style.background = 'red';
-</script>
 ```
 
-# querySelectorAll（查询-选择-全部）
+# querySelectorAll（'CSS选择器'）（查询-选择-全部/最为通用）
 
 到目前为止，最通用的方法是 `elem.querySelectorAll(css)`，它返回 `elem` 中与给定 CSS 选择器匹配的所有元素。
 
@@ -18,7 +14,7 @@
 let elements = document.querySelectorAll('ul > li:last-chi');
 ```
 
-# querySelector
+# querySelector（同上）
 `elem.querySelector(css)` 调用会返回给定 CSS 选择器的第一个元素。
 换句话说，结果与 `elem.querySelectorAll(css)[0]` 相同，但是后者会查找 **所有** 元素，并从中选取一个，而 `elem.querySelector` 只会查找一个。因此它在速度上更快，并且写起来更短。
 
@@ -26,7 +22,7 @@ let elements = document.querySelectorAll('ul > li:last-chi');
 
 # matches
 
-[elem.matches(css)](https://dom.spec.whatwg.org/#dom-element-matches) 不会查找任何内容，它只会检查 `elem` 是否与给定的 CSS 选择器匹配。它返回 `true` 或 `false`。
+elem.matches(css) 不会查找任何内容，它只会检查 `elem` 是否与给定的 CSS 选择器匹配。它返回 `true` 或 `false`。
 
 
 # closest
