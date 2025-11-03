@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "创建自定义事件 ",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md"
+    },
+    {
+      "basename": "浏览器默认行为",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md"
+    },
+    {
+      "basename": "冒泡和捕获",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md"
+    },
+    {
+      "basename": "事件委托",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md"
+    },
+    {
+      "basename": "浏览器环境，规格",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器环境，规格.md"
+    },
+    {
+      "basename": "CS61A NOTE",
+      "path": "CS61A NOTE/CS61A NOTE.md"
+    },
+    {
       "basename": "坐标 ",
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/坐标 .md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "属性的getter和setter",
       "path": "前端学习/JavaScript/对象属性配置/属性的getter和setter.md"
-    },
-    {
-      "basename": "F.prototype",
-      "path": "前端学习/JavaScript/原型，继承/F.prototype.md"
-    },
-    {
-      "basename": "原型继承",
-      "path": "前端学习/JavaScript/原型，继承/原型继承.md"
-    },
-    {
-      "basename": "调度：settimeout and setinterval",
-      "path": "前端学习/JavaScript/函数深入理解/调度：settimeout and setinterval.md"
-    },
-    {
-      "basename": "装饰器模式和转发，callapply",
-      "path": "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md"
-    },
-    {
-      "basename": "函数绑定 ",
-      "path": "前端学习/JavaScript/函数深入理解/函数绑定 .md"
-    },
-    {
-      "basename": "new Function语法",
-      "path": "前端学习/JavaScript/函数深入理解/new Function语法.md"
     }
   ],
   "omittedPaths": [],
