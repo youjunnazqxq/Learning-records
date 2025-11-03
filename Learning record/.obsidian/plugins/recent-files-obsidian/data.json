@@ -9,12 +9,12 @@
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md"
     },
     {
-      "basename": "冒泡和捕获",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md"
-    },
-    {
       "basename": "事件委托",
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md"
+    },
+    {
+      "basename": "冒泡和捕获",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md"
     },
     {
       "basename": "浏览器环境，规格",

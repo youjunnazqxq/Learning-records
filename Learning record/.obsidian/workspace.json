@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "32b4a4129d45892d",
+            "id": "8cb019dda691e6ae",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -249,9 +249,11 @@
   "lastOpenFiles": [
     "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器环境，规格.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标事件.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件",
     "CS61A NOTE/CS61A NOTE.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/Document/坐标 .md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍",
@@ -283,7 +285,6 @@
     "附件文件夹/Pasted image 20251102095327.png",
     "附件文件夹/Pasted image 20251102095251.png",
     "附件文件夹/Pasted image 20251029222336.png",
-    "前端学习/JavaScript/杂项/Proxy和Reflect.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/Document",
     "前端学习/JavaScript/浏览器：文档，事件，接口",
     "前端学习/JavaScript/杂项",
@@ -292,7 +293,6 @@
     "前端学习/JavaScript/异步：Promise，async and await",
     "前端学习/JavaScript/错误处理",
     "前端学习/JavaScript/类",
-    "前端学习/JavaScript/原型，继承",
     "未命名.canvas",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
