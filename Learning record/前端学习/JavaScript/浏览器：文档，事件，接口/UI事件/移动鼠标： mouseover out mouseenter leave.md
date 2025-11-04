@@ -1,12 +1,7 @@
 
-![[Screenshot_20251104_084220_mark.via.png]]
-当鼠标指针移到某个元素上时，`mouseover` 事件就会发生，而当鼠标离开该元素时，`mouseout` 事件就会发生。
-
-
-
 简单来说：每次鼠标触发  mouseover  或  mouseout  事件时， relatedTarget  都会根据鼠标的移动方向（从哪个元素来、到哪个元素去）重新赋值。只有当鼠标再次移动时，它才会跟着变化~
 
-
+[[]()]()
 对于 `mouseover`：
 
 - `event.target` —— 是鼠标移过的那个元素。

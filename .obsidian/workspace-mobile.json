@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标拖放事件.md",
+                "file": "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "鼠标拖放事件"
+              "title": "滚动"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md",
+            "file": "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,12 +155,19 @@
   },
   "active": "4c648e283130c776",
   "lastOpenFiles": [
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/移动鼠标： mouseover out mouseenter leave.md",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/坐标 .md",
+    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/指针事件.md",
+    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md",
+    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/键盘： keydown和keyup.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标拖放事件.md",
+    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/移动鼠标： mouseover out mouseenter leave.md",
+    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标事件.md",
+    "Learning record/附件文件夹/Pasted image 20251102193824.png",
+    "Learning record/附件文件夹/Pasted image 20251025191337.png",
+    "Learning record/附件文件夹/Pasted image 20251008103912.png",
+    "Screenshot_20251103_102246_md.obsidian.png",
+    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/坐标 .md",
     "Screenshot_20251104_090049_md.obsidian.png",
     "Screenshot_20251104_084220_mark.via.png",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标事件.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/Window 大小和滚动 .md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/元素大小和滚动.md",
@@ -170,7 +177,6 @@
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md",
-    "Screenshot_20251103_102246_md.obsidian.png",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器环境，规格.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document/节点属性：type，tag和content.md",
@@ -185,9 +191,6 @@
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口",
     "Learning record/前端学习/JavaScript/杂项/BigInt.md",
     "Learning record/前端学习/JavaScript/杂项/Reference Type.md",
-    "Learning record/前端学习/JavaScript/杂项/Proxy Reflect.md",
-    "Learning record/前端学习/JavaScript/杂项/Eval：执行代码字符串.md",
-    "Learning record/前端学习/JavaScript/杂项/杂项.md",
     "Learning record/前端学习/JavaScript/杂项",
     "Learning record/前端学习/JavaScript/杂项",
     "Learning record/前端学习/JavaScript/模块 1",
@@ -198,7 +201,6 @@
     "Capture_20251022_191224.jpg",
     "Screenshot_20251022_163425_md.obsidian.png",
     "Learning record/附件文件夹/Pasted image 20251021200927.png",
-    "Learning record/附件文件夹/Pasted image 20251021190352.png",
     "未命名.canvas"
   ]
 }

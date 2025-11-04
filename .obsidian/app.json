@@ -1,4 +1,14 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "mobilePullAction": "editor:insert-link",
+  "attachmentFolderPath": "Learning record/附件文件夹",
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file"
+  ],
+  "mobileQuickRibbonItem": "templates:插入模板",
+  "showInlineTitle": true
 }
