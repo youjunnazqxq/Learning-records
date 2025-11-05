@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "创建自定义事件 ",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md"
+      "basename": "未命名",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/未命名.md"
     },
     {
-      "basename": "浏览器默认行为",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md"
+      "basename": "表单，控件",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单，控件.md"
     },
     {
-      "basename": "事件委托",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md"
+      "basename": "滚动",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md"
+    },
+    {
+      "basename": "鼠标拖放事件",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标拖放事件.md"
+    },
+    {
+      "basename": "鼠标事件",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标事件.md"
+    },
+    {
+      "basename": "移动鼠标： mouseover out mouseenter leave",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/移动鼠标： mouseover out mouseenter leave.md"
+    },
+    {
+      "basename": "键盘： keydown和keyup",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/键盘： keydown和keyup.md"
+    },
+    {
+      "basename": "指针事件",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/指针事件.md"
     },
     {
       "basename": "冒泡和捕获",
@@ -19,6 +39,18 @@
     {
       "basename": "浏览器环境，规格",
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器环境，规格.md"
+    },
+    {
+      "basename": "事件委托",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md"
+    },
+    {
+      "basename": "浏览器默认行为",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md"
+    },
+    {
+      "basename": "创建自定义事件 ",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md"
     },
     {
       "basename": "CS61A NOTE",
@@ -167,38 +199,6 @@
     {
       "basename": "代码的引用",
       "path": "前端学习/JavaScript/JavaScript基础知识/代码的引用.md"
-    },
-    {
-      "basename": "原生的原型",
-      "path": "前端学习/JavaScript/原型，继承/原生的原型.md"
-    },
-    {
-      "basename": "自定义Error",
-      "path": "前端学习/JavaScript/错误处理/自定义Error.md"
-    },
-    {
-      "basename": "try...catch",
-      "path": "前端学习/JavaScript/错误处理/try...catch.md"
-    },
-    {
-      "basename": "原型方法，没有_proto_的对象 ",
-      "path": "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md"
-    },
-    {
-      "basename": "静态类型和动态类型 ",
-      "path": "CS61B/JAVA基本语法/继承/静态类型和动态类型 .md"
-    },
-    {
-      "basename": "运行和编译时候的区别 ",
-      "path": "CS61B/JAVA基本语法/继承/运行和编译时候的区别 .md"
-    },
-    {
-      "basename": "属性标志和属性描述符",
-      "path": "前端学习/JavaScript/对象属性配置/属性标志和属性描述符.md"
-    },
-    {
-      "basename": "属性的getter和setter",
-      "path": "前端学习/JavaScript/对象属性配置/属性的getter和setter.md"
     }
   ],
   "omittedPaths": [],

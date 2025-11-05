@@ -11,14 +11,12 @@
             "id": "7c469b6b71040d01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md",
-                "mode": "source",
-                "source": false
+                "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件"
               },
               "icon": "lucide-file",
-              "title": "创建自定义事件"
+              "title": "UI事件"
             }
           }
         ]
@@ -99,7 +97,7 @@
             }
           },
           {
-            "id": "8cb019dda691e6ae",
+            "id": "de555fa8f7b302f9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -247,12 +245,20 @@
   },
   "active": "7c469b6b71040d01",
   "lastOpenFiles": [
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/未命名.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单，控件.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标拖放事件.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标事件.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/移动鼠标： mouseover out mouseenter leave.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/键盘： keydown和keyup.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/指针事件.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器环境，规格.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标事件.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件",
     "CS61A NOTE/CS61A NOTE.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/Document/坐标 .md",
@@ -268,14 +274,7 @@
     "前端学习/JavaScript/类/类检查：“instanceof”.md",
     "前端学习/JavaScript/类/Mixin 模式.md",
     "前端学习/JavaScript/类/扩展内建类 .md",
-    "前端学习/JavaScript/类/私有的和受保护的属性和方法.md",
-    "前端学习/JavaScript/类/静态属性和静态方法.md",
-    "前端学习/JavaScript/类/继承 .md",
-    "前端学习/JavaScript/类/Class基本语法.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md",
     "附件文件夹/Pasted image 20251102193824.png",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/浏览器环境，规格.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/DOM 树.md",
     "附件文件夹/Pasted image 20251102183955.png",
     "附件文件夹/Pasted image 20251102101103.png",
     "附件文件夹/Pasted image 20251102095753.png",
@@ -292,7 +291,6 @@
     "前端学习/JavaScript/Generator",
     "前端学习/JavaScript/异步：Promise，async and await",
     "前端学习/JavaScript/错误处理",
-    "前端学习/JavaScript/类",
     "未命名.canvas",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
