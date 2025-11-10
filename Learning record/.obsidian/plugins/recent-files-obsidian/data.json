@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/未命名.md"
+      "basename": "WebSocket",
+      "path": "前端学习/JavaScript/网络请求/WebSocket.md"
     },
     {
-      "basename": "表单，控件",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单，控件.md"
+      "basename": "长轮询",
+      "path": "前端学习/JavaScript/网络请求/长轮询.md"
+    },
+    {
+      "basename": "URL 对象",
+      "path": "前端学习/JavaScript/网络请求/URL 对象.md"
+    },
+    {
+      "basename": "Fetch ：跨源请求",
+      "path": "前端学习/JavaScript/网络请求/Fetch ：跨源请求.md"
+    },
+    {
+      "basename": "Fetch：中止",
+      "path": "前端学习/JavaScript/网络请求/Fetch：中止.md"
+    },
+    {
+      "basename": "选择和范围",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/选择和范围.md"
+    },
+    {
+      "basename": "DOM变动观察器",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/DOM变动观察器.md"
+    },
+    {
+      "basename": "事件循环：微任务和宏任务",
+      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/事件循环：微任务和宏任务.md"
+    },
+    {
+      "basename": "Fetch API",
+      "path": "前端学习/JavaScript/网络请求/Fetch API.md"
+    },
+    {
+      "basename": "Fetch ：下载进度",
+      "path": "前端学习/JavaScript/网络请求/Fetch ：下载进度.md"
+    },
+    {
+      "basename": "FormData（传输图片，视频，zip包）",
+      "path": "前端学习/JavaScript/网络请求/FormData（传输图片，视频，zip包）.md"
+    },
+    {
+      "basename": "Fetch",
+      "path": "前端学习/JavaScript/网络请求/Fetch.md"
+    },
+    {
+      "basename": "http协议",
+      "path": "前端学习/JavaScript/网络请求/http协议.md"
+    },
+    {
+      "basename": "可恢复的文件上传",
+      "path": "前端学习/JavaScript/网络请求/可恢复的文件上传.md"
+    },
+    {
+      "basename": "XMLHttpRequest",
+      "path": "前端学习/JavaScript/网络请求/XMLHttpRequest.md"
     },
     {
       "basename": "滚动",
@@ -147,58 +199,6 @@
     {
       "basename": "数组方法 ",
       "path": "前端学习/JavaScript/数据类型/数组方法 .md"
-    },
-    {
-      "basename": "generator",
-      "path": "前端学习/JavaScript/Generator/generator.md"
-    },
-    {
-      "basename": "Promise API",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise API.md"
-    },
-    {
-      "basename": "Promisification",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/Promisification.md"
-    },
-    {
-      "basename": "async_await",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/async_await.md"
-    },
-    {
-      "basename": "异步：Promise，async and await",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md"
-    },
-    {
-      "basename": "使用promise进行错误处理 ",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md"
-    },
-    {
-      "basename": "Promise链条",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md"
-    },
-    {
-      "basename": "Promise ",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise .md"
-    },
-    {
-      "basename": "回调 ",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/回调 .md"
-    },
-    {
-      "basename": " 数据类型 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md"
-    },
-    {
-      "basename": "变量 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/变量 .md"
-    },
-    {
-      "basename": "现代模式 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/现代模式 .md"
-    },
-    {
-      "basename": "代码的引用",
-      "path": "前端学习/JavaScript/JavaScript基础知识/代码的引用.md"
     }
   ],
   "omittedPaths": [],

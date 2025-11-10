@@ -11,12 +11,14 @@
             "id": "7c469b6b71040d01",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件"
+                "file": "前端学习/JavaScript/网络请求/WebSocket.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "UI事件"
+              "title": "WebSocket"
             }
           }
         ]
@@ -97,7 +99,7 @@
             }
           },
           {
-            "id": "de555fa8f7b302f9",
+            "id": "ffafbfb502f50c2d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/JavaScript/数据类型/WeakMap and WeakSet.md",
+                "file": "前端学习/JavaScript/网络请求/WebSocket.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "WeakMap and WeakSet 的大纲"
+              "title": "WebSocket 的大纲"
             }
           },
           {
@@ -245,35 +247,41 @@
   },
   "active": "7c469b6b71040d01",
   "lastOpenFiles": [
+    "附件文件夹/Pasted image 20251110211936.png",
+    "前端学习/JavaScript/网络请求/长轮询.md",
+    "前端学习/JavaScript/网络请求/WebSocket.md",
+    "前端学习/JavaScript/网络请求/URL 对象.md",
+    "前端学习/JavaScript/网络请求/Fetch ：跨源请求.md",
+    "前端学习/JavaScript/网络请求/Fetch：中止.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/选择和范围.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/DOM变动观察器.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/事件循环：微任务和宏任务.md",
+    "前端学习/JavaScript/网络请求/Fetch API.md",
+    "前端学习/JavaScript/网络请求/Fetch ：下载进度.md",
+    "前端学习/JavaScript/网络请求/FormData（传输图片，视频，zip包）.md",
+    "前端学习/JavaScript/网络请求/Fetch.md",
+    "前端学习/JavaScript/网络请求/http协议.md",
+    "前端学习/JavaScript/网络请求/可恢复的文件上传.md",
+    "前端学习/JavaScript/网络请求/XMLHttpRequest.md",
+    "附件文件夹/Pasted image 20251110192603.png",
+    "前端学习/JavaScript/网络请求 /Fetch.md",
+    "附件文件夹/Screenshot_20251110_162752_com.zhihu.android.png",
+    "前端学习/JavaScript/网络请求",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单：事件和方法提交.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单属性和方法.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/聚焦： focuss blur.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/事件： change，input,cut,copy,paste.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/杂项",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/页面生命周期.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/资源加载： onlaod ，onerror.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/脚本： async,defer.md",
+    "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源",
+    "前端学习/JavaScript/网络请求 /未命名.md",
+    "前端学习/JavaScript/网络请求 ",
     "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/未命名.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单，控件.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标拖放事件.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标事件.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/移动鼠标： mouseover out mouseenter leave.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/键盘： keydown和keyup.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/指针事件.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器环境，规格.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件",
-    "CS61A NOTE/CS61A NOTE.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/坐标 .md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/Window 大小和滚动 .md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/元素大小和滚动.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/样式和类.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/修改文档.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/特性和属性.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/节点属性：type，tag和content.md",
-    "Tags/未命名.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document/搜索： getelement，queryselector.md",
-    "前端学习/JavaScript/类/类检查：“instanceof”.md",
-    "前端学习/JavaScript/类/Mixin 模式.md",
-    "前端学习/JavaScript/类/扩展内建类 .md",
     "附件文件夹/Pasted image 20251102193824.png",
     "附件文件夹/Pasted image 20251102183955.png",
     "附件文件夹/Pasted image 20251102101103.png",
@@ -282,15 +290,9 @@
     "附件文件夹/Pasted image 20251102095408.png",
     "附件文件夹/Pasted image 20251102095356.png",
     "附件文件夹/Pasted image 20251102095327.png",
-    "附件文件夹/Pasted image 20251102095251.png",
-    "附件文件夹/Pasted image 20251029222336.png",
     "前端学习/JavaScript/浏览器：文档，事件，接口/Document",
     "前端学习/JavaScript/浏览器：文档，事件，接口",
     "前端学习/JavaScript/杂项",
-    "前端学习/JavaScript/模块",
-    "前端学习/JavaScript/Generator",
-    "前端学习/JavaScript/异步：Promise，async and await",
-    "前端学习/JavaScript/错误处理",
     "未命名.canvas",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"

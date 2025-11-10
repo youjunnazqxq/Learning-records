@@ -34,3 +34,47 @@ form.Elem.onsubmit = async(e) => {
 
 表单始终以 `Content-Type: multipart/form-data` 来发送数据，这个编码允许发送文件。因此 `<input type="file">` 字段也能被发送，类似于普通的表单提交。
 
+
+
+## 应用
+上传一个文件
+```
+// 假设你有一个 <input type="file" id="fileInput">
+const fileInput = document.getElementById('fileInput');
+const file = fileInput.files[0]; // 获取用户选择的第一个文件
+
+const formData = new FormData();
+// 使用 .append() 手动添加文件
+formData.append('avatar', file, 'user-avatar.png'); // (键, 文件对象, [可选的文件名])
+formData.append('userId', '12345'); // 也可以同时添加其他文本数据
+
+fetch('/api/upload/avatar', {
+  method: 'POST',
+  body: formData
+  // 注意：此处【不要】设置 Content-Type 头部！
+  // fetch 会自动为 FormData 设置正确的 'multipart/form-data' 头部
+});
+```
+上传整个HTML表单
+
+```
+const myForm = document.getElementById('profile-form');
+
+myForm.addEventListener('submit', async (e) => {
+  e.preventDefault(); // 阻止页面刷新
+
+  // 一键打包表单中的所有数据
+  const formData = new FormData(myForm);
+  
+  // formData 现在包含了表单里所有的 name=value 对
+  const response = await fetch('/api/user/update', {
+    method: 'POST',
+    body: formData
+  });
+
+  const result = await response.json();
+  alert(result.message);
+});
+```
+
+

@@ -39,3 +39,36 @@ fetch(url,{
 # AbortController 是可伸缩的
 
 `AbortController` 是可伸缩的。它允许一次取消多个 fetch
+
+
+
+# 示例：
+```
+// 1. 创建“终止器”
+const controller = new AbortController();
+
+// 2. 从“终止器”中获取“信号”
+const signal = controller.signal;
+
+// 3. 将“信号”作为配置的一部分传递给 fetch
+fetch('https://api.example.com/data', {
+  method: 'GET',
+  
+  // 把它放在这里，与 method, headers 等同级
+  signal: signal 
+  
+  // (ES6 简写: signal)
+  
+}).catch(err => {
+  if (err.name === 'AbortError') {
+    console.log('Fetch 请求已被中止！');
+  } else {
+    console.error('Fetch 错误:', err);
+  }
+});
+
+// 4. 在未来的某个时刻（比如 1 秒后）按下“停止按钮”
+setTimeout(() => {
+  controller.abort();
+}, 1000); // 1秒后中止请求
+```
