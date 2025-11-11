@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "mobilePullAction": "editor:insert-link",
+  "mobilePullAction": "",
   "attachmentFolderPath": "Learning record/附件文件夹",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "04427f32dae65bf5",
+        "id": "a345b1cf7a0f799a",
         "type": "tabs",
         "children": [
           {
-            "id": "4c648e283130c776",
+            "id": "3537ddf5b9ca40c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning record/前端学习/JavaScript/网络请求/URL 对象.md",
+                "file": "Learning record/前端学习/JavaScript/二进制数据，文件/File 和FileReader.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "URL 对象"
+              "title": "File 和FileReader"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md",
+            "file": "Learning record/前端学习/JavaScript/二进制数据，文件/File 和FileReader.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,10 +153,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4c648e283130c776",
+  "active": "3537ddf5b9ca40c0",
   "lastOpenFiles": [
-    "Learning record/前端学习/JavaScript/网络请求/Fetch API.md",
+    "Learning record/前端学习/JavaScript/二进制数据，文件/Blob.md",
+    "Learning record/前端学习/JavaScript/二进制数据，文件/File 和FileReader.md",
+    "Learning record/附件文件夹/Screenshot_20251111_085521_mark.via.png",
+    "Learning record/前端学习/JavaScript/二进制数据，文件/TestDecoder 和 TextEncoder.md",
+    "Learning record/前端学习/JavaScript/二进制数据，文件/ArrayBuffer，二进制数组.md",
     "Learning record/前端学习/JavaScript/网络请求/URL 对象.md",
+    "Learning record/前端学习/JavaScript/网络请求/WebSocket.md",
+    "Learning record/前端学习/JavaScript/网络请求/Sever Sent Events.md",
+    "Learning record/前端学习/JavaScript/未命名.md",
+    "Learning record/前端学习/JavaScript/二进制数据，文件",
+    "Learning record/前端学习/JavaScript/网络请求/Fetch API.md",
     "Learning record/前端学习/JavaScript/网络请求/Fetch ：跨源请求.md",
     "Learning record/前端学习/JavaScript/网络请求/http协议.md",
     "Screenshot_20251103_102246_md.obsidian.png",
@@ -178,15 +187,8 @@
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/脚本： async,defer.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/杂项",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/资源加载： onlaod ，onerror.md",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/页面生命周期.md",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单：事件和方法提交.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/事件： change，input,cut,copy,paste.md",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/聚焦： focuss blur.md",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单属性和方法.md",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件",
-    "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/指针事件.md",
     "Learning record/附件文件夹/Pasted image 20251102193824.png",
     "Learning record/附件文件夹/Pasted image 20251025191337.png",
     "Learning record/附件文件夹/Pasted image 20251008103912.png",
@@ -197,10 +199,8 @@
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口/Document",
     "Learning record/前端学习/JavaScript/浏览器：文档，事件，接口",
     "Learning record/前端学习/JavaScript/杂项",
-    "Learning record/前端学习/JavaScript/杂项",
     "Screenshot_20251022_192054_mark.via.png",
     "Capture_20251022_191224.jpg",
-    "Screenshot_20251022_163425_md.obsidian.png",
     "未命名.canvas"
   ]
 }
