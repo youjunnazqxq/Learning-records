@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LocalStorage,sessionStorage（存储数据）",
+      "path": "前端学习/JavaScript/在浏览器中存储数据/LocalStorage,sessionStorage（存储数据）.md"
+    },
+    {
+      "basename": "Cookie,document.cookie（身份验证）",
+      "path": "前端学习/JavaScript/在浏览器中存储数据/Cookie,document.cookie（身份验证）.md"
+    },
+    {
       "basename": "File 和FileReader",
       "path": "前端学习/JavaScript/二进制数据，文件/File 和FileReader.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "遍历 DOM",
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md"
-    },
-    {
-      "basename": "浏览器环境，规格",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/浏览器环境，规格.md"
     }
   ],
   "omittedPaths": [],
