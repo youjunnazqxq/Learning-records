@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "File 和FileReader",
+      "path": "前端学习/JavaScript/二进制数据，文件/File 和FileReader.md"
+    },
+    {
+      "basename": "Blob",
+      "path": "前端学习/JavaScript/二进制数据，文件/Blob.md"
+    },
+    {
+      "basename": "TestDecoder 和 TextEncoder",
+      "path": "前端学习/JavaScript/二进制数据，文件/TestDecoder 和 TextEncoder.md"
+    },
+    {
+      "basename": "ArrayBuffer，二进制数组",
+      "path": "前端学习/JavaScript/二进制数据，文件/ArrayBuffer，二进制数组.md"
+    },
+    {
       "basename": "WebSocket",
       "path": "前端学习/JavaScript/网络请求/WebSocket.md"
     },
@@ -179,26 +195,6 @@
     {
       "basename": "浏览器环境，规格",
       "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/浏览器环境，规格.md"
-    },
-    {
-      "basename": "DOM 树",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/DOM 树.md"
-    },
-    {
-      "basename": "动态导入 ",
-      "path": "前端学习/JavaScript/模块/动态导入 .md"
-    },
-    {
-      "basename": "导入和导出  ",
-      "path": "前端学习/JavaScript/模块/导入和导出  .md"
-    },
-    {
-      "basename": "Modoule",
-      "path": "前端学习/JavaScript/模块/Modoule.md"
-    },
-    {
-      "basename": "数组方法 ",
-      "path": "前端学习/JavaScript/数据类型/数组方法 .md"
     }
   ],
   "omittedPaths": [],

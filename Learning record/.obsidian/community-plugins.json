@@ -9,5 +9,6 @@
   "dataview",
   "copy-as-html",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-textgenerator-plugin"
 ]

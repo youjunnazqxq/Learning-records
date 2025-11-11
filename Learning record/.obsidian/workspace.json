@@ -11,14 +11,12 @@
             "id": "7c469b6b71040d01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "前端学习/JavaScript/网络请求/WebSocket.md",
-                "mode": "source",
-                "source": false
+                "path": "前端学习/JavaScript/二进制数据，文件"
               },
               "icon": "lucide-file",
-              "title": "WebSocket"
+              "title": "二进制数据，文件"
             }
           }
         ]
@@ -99,7 +97,7 @@
             }
           },
           {
-            "id": "ffafbfb502f50c2d",
+            "id": "ebd026716f906a10",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -242,14 +240,29 @@
       "obsidian-file-cleaner:清理文件": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "7c469b6b71040d01",
   "lastOpenFiles": [
+    "前端学习/JavaScript/二进制数据，文件/File 和FileReader.md",
+    "前端学习/JavaScript/二进制数据，文件/Blob.md",
+    "前端学习/JavaScript/二进制数据，文件/TestDecoder 和 TextEncoder.md",
+    "前端学习/JavaScript/二进制数据，文件/未命名.base",
+    "textgenerator/configs/llm/config_11-11195123.json.md",
+    "textgenerator/configs/llm",
+    "textgenerator/configs",
+    "textgenerator",
+    "前端学习/JavaScript/二进制数据，文件/ArrayBuffer，二进制数组.md",
+    "附件文件夹/Pasted image 20251111191149.png",
+    "前端学习/JavaScript/网络请求/WebSocket.md",
+    "附件文件夹/Screenshot_20251111_085521_mark.via.png",
+    "前端学习/JavaScript/网络请求/Sever Sent Events.md",
+    "前端学习/JavaScript/二进制数据，文件",
     "附件文件夹/Pasted image 20251110211936.png",
     "前端学习/JavaScript/网络请求/长轮询.md",
-    "前端学习/JavaScript/网络请求/WebSocket.md",
     "前端学习/JavaScript/网络请求/URL 对象.md",
     "前端学习/JavaScript/网络请求/Fetch ：跨源请求.md",
     "前端学习/JavaScript/网络请求/Fetch：中止.md",
@@ -270,29 +283,15 @@
     "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单：事件和方法提交.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单属性和方法.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/聚焦： focuss blur.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/事件： change，input,cut,copy,paste.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/杂项",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/页面生命周期.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/资源加载： onlaod ，onerror.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源/脚本： async,defer.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源",
-    "前端学习/JavaScript/网络请求 /未命名.md",
     "前端学习/JavaScript/网络请求 ",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/未命名.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍",
     "附件文件夹/Pasted image 20251102193824.png",
     "附件文件夹/Pasted image 20251102183955.png",
     "附件文件夹/Pasted image 20251102101103.png",
     "附件文件夹/Pasted image 20251102095753.png",
     "附件文件夹/Pasted image 20251102095442.png",
-    "附件文件夹/Pasted image 20251102095408.png",
-    "附件文件夹/Pasted image 20251102095356.png",
-    "附件文件夹/Pasted image 20251102095327.png",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/Document",
-    "前端学习/JavaScript/浏览器：文档，事件，接口",
-    "前端学习/JavaScript/杂项",
     "未命名.canvas",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
