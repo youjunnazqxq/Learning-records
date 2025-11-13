@@ -33,8 +33,13 @@ let obj = {
 let map = new Map(Object.entries(obj));
 ```
 `Object.entries` 返回键/值对数组：`[ ["name","John"], ["age", 30] ]`。这就是 `Map` 所需要的格式。
+
+
 ### entries方法
 这个方法，传入进里面的对象中的属性会被转换为["键"，值]这样的数组，然后整体组成一个二维数组。
+
+
+
 ## 从Map中创建对象
 
 ```

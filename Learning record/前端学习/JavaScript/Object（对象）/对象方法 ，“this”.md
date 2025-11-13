@@ -53,3 +53,20 @@ function sayHi() {
 # 箭头函数的this
 
 箭头函数没有自己的this，他的this取决于外部正常函数的this
+
+
+# Reference type
+
+仔细看的话，我们可能注意到 `obj.method()` 语句中的两个操作：
+
+1. 首先，点 `'.'` 取了属性 `obj.method` 的值。
+2. 接着 `()` 执行了它
+
+**为确保 `user.hi()` 调用正常运行，JavaScript 玩了个小把戏 —— 点 `'.'` 返回的不是一个函数，而是一个特殊的 [Reference Type](https://tc39.github.io/ecma262/#sec-reference-specification-type) 的值。**
+
+Reference Type 的值是一个三个值的组合 `(base, name, strict)`，其中：
+
+- `base` 是对象。
+- `name` 是属性名。
+- `strict` 在 `use strict` 模式下为 true。
+

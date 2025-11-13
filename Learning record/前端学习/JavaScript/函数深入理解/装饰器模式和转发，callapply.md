@@ -52,7 +52,7 @@ func.call(obj,arg1...argn)；
 func.apply(obj,arr);
 ```
 
-与func.call的功能基本一致，主要区别在于其接受的是数组
+与func.call的功能基本一致，主要区别在于其接受的是参数数组这里的arr和call中的`...args`一样
 
 
 
@@ -69,3 +69,45 @@ func.apply(obj,arr);
 我们可以进行这样的转换
 Array.from将其转换为数组再直接应用就行。
 
+# 节流器包装器的实现 
+节流装饰器的本质是 “基于高阶函数的函数增强工具”——它通过包装目标函数
+```
+fuction throttle(fun,ms){
+	 let isThrottle = false;//判断是否在冷却，true为在冷却
+	 let saverArgs，saverThis；
+	 function wrapper(){
+		if(isThrottle){
+			savedArgs = arguments;
+			saverThis = this;
+			return;
+		}
+		isThrottled = true;
+		func.apply(this,arguments);
+		setTimeout(function{
+			isThrottled = false ;
+			if(savedArgs){
+				wrapper.apply(savedThis,savedArgs);
+				savedArgs=savedThis=null;
+			}
+		},ms);
+		return wrapper;
+	 }
+}
+
+```
+
+
+# 防抖装饰器 
+防抖的本质就是只执行最后一次操作
+
+
+```
+function debounce(func,ms){
+	let timeout;
+	return function(){
+		clearTimeout(timeout);
+		timeout = setTimeout(() => func.apply(this,arguments),ms)
+	}
+
+}
+```

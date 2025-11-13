@@ -26,3 +26,6 @@ let user = new User("Jack");
 -  如果return返回的是一个对象，则返回这个对象，而不是this
 - 如果返回的是一个原始类型，则忽略
 
+# 实际背后的逻辑
+
+当使用`let user = new User("jack");`后，函数中的this会绑定到创建的这个对象`user`中，
