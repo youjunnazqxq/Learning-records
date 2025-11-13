@@ -11,17 +11,254 @@
             "id": "7c469b6b71040d01",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "前端学习/JavaScript/杂项"
+              },
+              "icon": "lucide-file",
+              "title": "杂项"
+            }
+          },
+          {
+            "id": "cb743351e74a749e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
+          },
+          {
+            "id": "e4b3b0dcba205b30",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "前端学习/JavaScript/JavaScript基础知识"
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript基础知识"
+            }
+          },
+          {
+            "id": "9704a2c88848544b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "前端学习/JavaScript/JavaScript基础知识"
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript基础知识"
+            }
+          },
+          {
+            "id": "7c1168ca90a9ce3d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "前端学习/JavaScript/JavaScript基础知识"
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript基础知识"
+            }
+          },
+          {
+            "id": "735b4bdbb181fbfe",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "前端学习/JavaScript/JavaScript基础知识"
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript基础知识"
+            }
+          },
+          {
+            "id": "a369e7d86b5b0b65",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "前端学习/JavaScript/JavaScript基础知识"
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript基础知识"
+            }
+          },
+          {
+            "id": "8a640c7eb8840482",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "前端学习/JavaScript/JavaScript基础知识"
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript基础知识"
+            }
+          },
+          {
+            "id": "45ec68b7d098485b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/JavaScript/在浏览器中存储数据/LocalStorage,sessionStorage（存储数据）.md",
+                "file": "前端学习/JavaScript/JavaScript基础知识/基础运算符及数学运算 .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LocalStorage,sessionStorage（存储数据）"
+              "title": "基础运算符及数学运算"
+            }
+          },
+          {
+            "id": "1ad6ab7b9597ed26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/代码的引用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "代码的引用"
+            }
+          },
+          {
+            "id": "c05a75f56400e9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/注释 .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "注释"
+            }
+          },
+          {
+            "id": "bfbfec125d3c930c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/变量 .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "变量"
+            }
+          },
+          {
+            "id": "3d013a0444101c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据类型"
+            }
+          },
+          {
+            "id": "64b10b16a4d6bc4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/值的比较 .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "值的比较"
+            }
+          },
+          {
+            "id": "639d94a0dc29aaee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/？ 三元运算符 .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "？ 三元运算符"
+            }
+          },
+          {
+            "id": "fac9a504cc9f0008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/逻辑运算符 .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "逻辑运算符"
+            }
+          },
+          {
+            "id": "875b0f14446dfce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/空值合并运算符 ？？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "空值合并运算符 ？？"
+            }
+          },
+          {
+            "id": "c3116c39b1b4705f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/JavaScript基础知识/函数 .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "函数"
+            }
+          },
+          {
+            "id": "4f00b0a88a9a2824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/JavaScript/杂项/Proxy Reflect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxy Reflect"
             }
           }
-        ]
+        ],
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -99,7 +336,7 @@
             }
           },
           {
-            "id": "fa722142205508e2",
+            "id": "63942fcd2e80fdcd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -247,54 +484,54 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "7c469b6b71040d01",
+  "active": "4f00b0a88a9a2824",
   "lastOpenFiles": [
-    "前端学习/JavaScript/在浏览器中存储数据/Cookie,document.cookie（身份验证）.md",
-    "前端学习/JavaScript/在浏览器中存储数据/LocalStorage,sessionStorage（存储数据）.md",
+    "前端学习/JavaScript/杂项/Reference Type.md",
+    "前端学习/JavaScript/杂项/Eval：执行代码字符串.md",
+    "前端学习/JavaScript/杂项/BigInt.md",
+    "前端学习/JavaScript/模块/动态导入 .md",
+    "前端学习/JavaScript/模块/导入和导出  .md",
+    "前端学习/JavaScript/模块/Modoule.md",
+    "前端学习/JavaScript/Generator/异步迭代和generator.md",
+    "前端学习/JavaScript/Generator/generator.md",
+    "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md",
+    "前端学习/JavaScript/异步：Promise，async and await/async_await.md",
+    "前端学习/JavaScript/异步：Promise，async and await/Microtask.md",
+    "附件文件夹/Pasted image 20251113211428.png",
+    "前端学习/JavaScript/异步：Promise，async and await/Promisification.md",
+    "前端学习/JavaScript/异步：Promise，async and await/Promise API.md",
+    "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md",
+    "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md",
+    "前端学习/JavaScript/异步：Promise，async and await/Promise .md",
+    "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md",
+    "前端学习/JavaScript/异步：Promise，async and await/回调 .md",
+    "前端学习/JavaScript/网络请求/Sever Sent Events.md",
+    "前端学习/JavaScript/网络请求/WebSocket.md",
+    "前端学习/JavaScript/网络请求/长轮询.md",
+    "前端学习/JavaScript/网络请求/可恢复的文件上传.md",
+    "前端学习/JavaScript/网络请求/XMLHttpRequest.md",
+    "前端学习/JavaScript/网络请求/Fetch ：跨源请求.md",
+    "前端学习/JavaScript/网络请求/Fetch：中止.md",
+    "前端学习/JavaScript/网络请求/Fetch ：下载进度.md",
+    "附件文件夹/Screenshot_20251113_110943_mark.via.png",
+    "附件文件夹/Screenshot_20251113_110756_md.obsidian.png",
+    "附件文件夹/Screenshot_20251113_110315_md.obsidian.png",
+    "附件文件夹/Screenshot_20251113_105847_mark.via.png",
     "前端学习/JavaScript/在浏览器中存储数据",
-    "前端学习/JavaScript/二进制数据，文件/File 和FileReader.md",
-    "前端学习/JavaScript/二进制数据，文件/Blob.md",
-    "前端学习/JavaScript/二进制数据，文件/TestDecoder 和 TextEncoder.md",
     "前端学习/JavaScript/二进制数据，文件/未命名.base",
-    "textgenerator/configs/llm/config_11-11195123.json.md",
     "textgenerator/configs/llm",
     "textgenerator/configs",
     "textgenerator",
-    "前端学习/JavaScript/二进制数据，文件/ArrayBuffer，二进制数组.md",
     "附件文件夹/Pasted image 20251111191149.png",
-    "前端学习/JavaScript/网络请求/WebSocket.md",
     "附件文件夹/Screenshot_20251111_085521_mark.via.png",
-    "前端学习/JavaScript/网络请求/Sever Sent Events.md",
     "前端学习/JavaScript/二进制数据，文件",
     "附件文件夹/Pasted image 20251110211936.png",
-    "前端学习/JavaScript/网络请求/长轮询.md",
-    "前端学习/JavaScript/网络请求/URL 对象.md",
-    "前端学习/JavaScript/网络请求/Fetch ：跨源请求.md",
-    "前端学习/JavaScript/网络请求/Fetch：中止.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/选择和范围.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/DOM变动观察器.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/事件循环：微任务和宏任务.md",
-    "前端学习/JavaScript/网络请求/Fetch API.md",
-    "前端学习/JavaScript/网络请求/Fetch ：下载进度.md",
-    "前端学习/JavaScript/网络请求/FormData（传输图片，视频，zip包）.md",
-    "前端学习/JavaScript/网络请求/Fetch.md",
-    "前端学习/JavaScript/网络请求/http协议.md",
-    "前端学习/JavaScript/网络请求/可恢复的文件上传.md",
-    "前端学习/JavaScript/网络请求/XMLHttpRequest.md",
     "附件文件夹/Pasted image 20251110192603.png",
-    "前端学习/JavaScript/网络请求 /Fetch.md",
     "附件文件夹/Screenshot_20251110_162752_com.zhihu.android.png",
     "前端学习/JavaScript/网络请求",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单：事件和方法提交.md",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/表单，控件/表单属性和方法.md",
     "前端学习/JavaScript/浏览器：文档，事件，接口/杂项",
     "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源",
     "前端学习/JavaScript/网络请求 ",
-    "附件文件夹/Pasted image 20251102193824.png",
-    "附件文件夹/Pasted image 20251102183955.png",
-    "附件文件夹/Pasted image 20251102101103.png",
-    "附件文件夹/Pasted image 20251102095753.png",
-    "附件文件夹/Pasted image 20251102095442.png",
     "未命名.canvas",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"

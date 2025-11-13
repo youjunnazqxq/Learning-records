@@ -1,28 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "LocalStorage,sessionStorage（存储数据）",
-      "path": "前端学习/JavaScript/在浏览器中存储数据/LocalStorage,sessionStorage（存储数据）.md"
+      "basename": "Proxy Reflect",
+      "path": "前端学习/JavaScript/杂项/Proxy Reflect.md"
     },
     {
-      "basename": "Cookie,document.cookie（身份验证）",
-      "path": "前端学习/JavaScript/在浏览器中存储数据/Cookie,document.cookie（身份验证）.md"
+      "basename": "Reference Type",
+      "path": "前端学习/JavaScript/杂项/Reference Type.md"
     },
     {
-      "basename": "File 和FileReader",
-      "path": "前端学习/JavaScript/二进制数据，文件/File 和FileReader.md"
+      "basename": "Eval：执行代码字符串",
+      "path": "前端学习/JavaScript/杂项/Eval：执行代码字符串.md"
     },
     {
-      "basename": "Blob",
-      "path": "前端学习/JavaScript/二进制数据，文件/Blob.md"
+      "basename": "BigInt",
+      "path": "前端学习/JavaScript/杂项/BigInt.md"
     },
     {
-      "basename": "TestDecoder 和 TextEncoder",
-      "path": "前端学习/JavaScript/二进制数据，文件/TestDecoder 和 TextEncoder.md"
+      "basename": "动态导入 ",
+      "path": "前端学习/JavaScript/模块/动态导入 .md"
     },
     {
-      "basename": "ArrayBuffer，二进制数组",
-      "path": "前端学习/JavaScript/二进制数据，文件/ArrayBuffer，二进制数组.md"
+      "basename": "导入和导出  ",
+      "path": "前端学习/JavaScript/模块/导入和导出  .md"
+    },
+    {
+      "basename": "Modoule",
+      "path": "前端学习/JavaScript/模块/Modoule.md"
+    },
+    {
+      "basename": "异步迭代和generator",
+      "path": "前端学习/JavaScript/Generator/异步迭代和generator.md"
+    },
+    {
+      "basename": "generator",
+      "path": "前端学习/JavaScript/Generator/generator.md"
+    },
+    {
+      "basename": "异步：Promise，async and await",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md"
+    },
+    {
+      "basename": "async_await",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/async_await.md"
+    },
+    {
+      "basename": "Microtask",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Microtask.md"
+    },
+    {
+      "basename": "Promisification",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promisification.md"
+    },
+    {
+      "basename": "Promise API",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise API.md"
+    },
+    {
+      "basename": "使用promise进行错误处理 ",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md"
+    },
+    {
+      "basename": "Promise链条",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md"
+    },
+    {
+      "basename": "Promise ",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise .md"
+    },
+    {
+      "basename": "构造函数和new操作符 ",
+      "path": "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md"
+    },
+    {
+      "basename": "回调 ",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/回调 .md"
+    },
+    {
+      "basename": "Sever Sent Events",
+      "path": "前端学习/JavaScript/网络请求/Sever Sent Events.md"
     },
     {
       "basename": "WebSocket",
@@ -33,8 +89,12 @@
       "path": "前端学习/JavaScript/网络请求/长轮询.md"
     },
     {
-      "basename": "URL 对象",
-      "path": "前端学习/JavaScript/网络请求/URL 对象.md"
+      "basename": "可恢复的文件上传",
+      "path": "前端学习/JavaScript/网络请求/可恢复的文件上传.md"
+    },
+    {
+      "basename": "XMLHttpRequest",
+      "path": "前端学习/JavaScript/网络请求/XMLHttpRequest.md"
     },
     {
       "basename": "Fetch ：跨源请求",
@@ -43,22 +103,6 @@
     {
       "basename": "Fetch：中止",
       "path": "前端学习/JavaScript/网络请求/Fetch：中止.md"
-    },
-    {
-      "basename": "选择和范围",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/选择和范围.md"
-    },
-    {
-      "basename": "DOM变动观察器",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/DOM变动观察器.md"
-    },
-    {
-      "basename": "事件循环：微任务和宏任务",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/杂项/事件循环：微任务和宏任务.md"
-    },
-    {
-      "basename": "Fetch API",
-      "path": "前端学习/JavaScript/网络请求/Fetch API.md"
     },
     {
       "basename": "Fetch ：下载进度",
@@ -75,98 +119,6 @@
     {
       "basename": "http协议",
       "path": "前端学习/JavaScript/网络请求/http协议.md"
-    },
-    {
-      "basename": "可恢复的文件上传",
-      "path": "前端学习/JavaScript/网络请求/可恢复的文件上传.md"
-    },
-    {
-      "basename": "XMLHttpRequest",
-      "path": "前端学习/JavaScript/网络请求/XMLHttpRequest.md"
-    },
-    {
-      "basename": "滚动",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/滚动.md"
-    },
-    {
-      "basename": "鼠标拖放事件",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标拖放事件.md"
-    },
-    {
-      "basename": "鼠标事件",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/鼠标事件.md"
-    },
-    {
-      "basename": "移动鼠标： mouseover out mouseenter leave",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/移动鼠标： mouseover out mouseenter leave.md"
-    },
-    {
-      "basename": "键盘： keydown和keyup",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/键盘： keydown和keyup.md"
-    },
-    {
-      "basename": "指针事件",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/UI事件/指针事件.md"
-    },
-    {
-      "basename": "冒泡和捕获",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/冒泡和捕获.md"
-    },
-    {
-      "basename": "浏览器环境，规格",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器环境，规格.md"
-    },
-    {
-      "basename": "事件委托",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/事件委托.md"
-    },
-    {
-      "basename": "浏览器默认行为",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/浏览器默认行为.md"
-    },
-    {
-      "basename": "创建自定义事件 ",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/事件介绍/创建自定义事件 .md"
-    },
-    {
-      "basename": "CS61A NOTE",
-      "path": "CS61A NOTE/CS61A NOTE.md"
-    },
-    {
-      "basename": "坐标 ",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/坐标 .md"
-    },
-    {
-      "basename": "Window 大小和滚动 ",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/Window 大小和滚动 .md"
-    },
-    {
-      "basename": "元素大小和滚动",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/元素大小和滚动.md"
-    },
-    {
-      "basename": "样式和类",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/样式和类.md"
-    },
-    {
-      "basename": "修改文档",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/修改文档.md"
-    },
-    {
-      "basename": "特性和属性",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/特性和属性.md"
-    },
-    {
-      "basename": "节点属性：type，tag和content",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/节点属性：type，tag和content.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Tags/未命名.md"
-    },
-    {
-      "basename": "搜索： getelement，queryselector",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/搜索： getelement，queryselector.md"
     },
     {
       "basename": "类检查：“instanceof”",
@@ -197,8 +149,56 @@
       "path": "前端学习/JavaScript/类/Class基本语法.md"
     },
     {
-      "basename": "遍历 DOM",
-      "path": "前端学习/JavaScript/浏览器：文档，事件，接口/Document/遍历 DOM.md"
+      "basename": "原型方法，没有_proto_的对象 ",
+      "path": "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md"
+    },
+    {
+      "basename": "原生的原型",
+      "path": "前端学习/JavaScript/原型，继承/原生的原型.md"
+    },
+    {
+      "basename": "F.prototype",
+      "path": "前端学习/JavaScript/原型，继承/F.prototype.md"
+    },
+    {
+      "basename": "装饰器模式和转发，callapply",
+      "path": "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md"
+    },
+    {
+      "basename": "原型继承",
+      "path": "前端学习/JavaScript/原型，继承/原型继承.md"
+    },
+    {
+      "basename": "对象 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象 .md"
+    },
+    {
+      "basename": "symbol",
+      "path": "前端学习/JavaScript/Object（对象）/symbol.md"
+    },
+    {
+      "basename": "对象-原始值转换 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
+    },
+    {
+      "basename": "可选链 ？.",
+      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
+    },
+    {
+      "basename": "对象方法 ，“this”",
+      "path": "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md"
+    },
+    {
+      "basename": "垃圾回收机制 ",
+      "path": "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md"
+    },
+    {
+      "basename": "对象的引用和复制 ",
+      "path": "前端学习/JavaScript/Object（对象）/对象的引用和复制 .md"
+    },
+    {
+      "basename": "类型转化",
+      "path": "前端学习/JavaScript/JavaScript基础知识/类型转化.md"
     }
   ],
   "omittedPaths": [],

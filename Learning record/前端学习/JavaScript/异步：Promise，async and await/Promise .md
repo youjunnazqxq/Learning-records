@@ -10,7 +10,39 @@ executor(resolve, reject)：`executor` 立即执行，它有两个“开关”�
 成功时：你来决定何时调用 `resolve(value)`，把结果 `value` 传出去。
 失败时：你来决定何时调用 `reject(error)`，把错误 `error` 传出去。
 
+# 内部解析
 
+当进行`let promise = new Promise((resolve,reject) => {})`的时候，这个对象是立即返回的，但是其内部的数据来说并不是这样的：
+### 抽屉 1：状态记录仪 (`[[PromiseState]]`)
+
+这是最重要的数据，用来标记当前任务进行到哪一步了。 它只有三种可能的值：
+
+- **`"pending"`** (等待中)：刚 `new` 出来的时候，默认就是这个。
+    
+- **`"fulfilled"`** (已成功)：调用 `resolve()` 后变成这个。
+    
+- **`"rejected"`** (已失败)：调用 `reject()` 或报错后变成这个。
+    
+
+### 抽屉 2：结果暂存区 (`[[PromiseResult]]`)
+
+这里存放的是任务的结果数据。
+
+- **刚创建时**：这里是 `undefined`（空的）。
+    
+- **成功后**：这里存的是你传给 `resolve(数据)` 的那个**数据**。
+    
+- **失败后**：这里存的是你传给 `reject(错误)` 的那个**错误对象**。
+    
+
+### 抽屉 3：排队的小本本 (`[[PromiseFulfillReactions]]` 等)
+
+这是一个**列表（队列）**。
+
+- 当你调用 `.then(fn)` 时，JS 并不是马上执行 `fn`，而是把 `fn` 这个函数**记在这个小本本上**。
+    
+- Promise 对象一直拿着这个小本本，一旦状态变成“成功”，它就会把本子上的函数一个个拿出来去微任务队列里执行。
+这是异步等待填充的，这其中resolve和error更像是一个动作，通知数据变化的一个动作；
 ## promise内部属性 
 
 - `state` —— 最初是 `"pending"`(未发生)，然后在 `resolve` 被调用时变为 `"fulfilled"`，或者在 `reject` 被调用时变为 `"rejected"`。
