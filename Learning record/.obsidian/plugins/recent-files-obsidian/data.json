@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "vue项目的构建",
+      "path": "前端学习/vue/vue项目的构建 /vue项目的构建.md"
+    },
+    {
+      "basename": "Promise链条",
+      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md"
+    },
+    {
+      "basename": "解构赋值 ",
+      "path": "前端学习/JavaScript/数据类型/解构赋值 .md"
+    },
+    {
+      "basename": "vue",
+      "path": "前端学习/vue/vue.md"
+    },
+    {
       "basename": "Proxy Reflect",
       "path": "前端学习/JavaScript/杂项/Proxy Reflect.md"
     },
@@ -59,10 +75,6 @@
     {
       "basename": "使用promise进行错误处理 ",
       "path": "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md"
-    },
-    {
-      "basename": "Promise链条",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md"
     },
     {
       "basename": "Promise ",
@@ -187,18 +199,6 @@
     {
       "basename": "对象方法 ，“this”",
       "path": "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md"
-    },
-    {
-      "basename": "垃圾回收机制 ",
-      "path": "前端学习/JavaScript/Object（对象）/垃圾回收机制 .md"
-    },
-    {
-      "basename": "对象的引用和复制 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象的引用和复制 .md"
-    },
-    {
-      "basename": "类型转化",
-      "path": "前端学习/JavaScript/JavaScript基础知识/类型转化.md"
     }
   ],
   "omittedPaths": [],

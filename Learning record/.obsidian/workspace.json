@@ -249,12 +249,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/JavaScript/杂项/Proxy Reflect.md",
+                "file": "前端学习/vue/vue项目的构建 /vue项目的构建.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy Reflect"
+              "title": "vue项目的构建"
             }
           }
         ],
@@ -322,21 +322,7 @@
             }
           },
           {
-            "id": "ded9b3d7abdbc317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Promise链条"
-            }
-          },
-          {
-            "id": "63942fcd2e80fdcd",
+            "id": "e69b8867c4ecd216",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -346,7 +332,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -486,6 +472,15 @@
   },
   "active": "4f00b0a88a9a2824",
   "lastOpenFiles": [
+    "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md",
+    "前端学习/vue/vue项目的构建 /vue项目的构建.md",
+    "前端学习/JavaScript/数据类型/解构赋值 .md",
+    "前端学习/vue/vue.md",
+    "前端学习/vue/vue项目的构建 /未命名.md",
+    "前端学习/vue/vue项目的构建 ",
+    "前端学习/vue/未命名.md",
+    "前端学习/vue",
+    "前端学习/JavaScript/杂项/Proxy Reflect.md",
     "前端学习/JavaScript/杂项/Reference Type.md",
     "前端学习/JavaScript/杂项/Eval：执行代码字符串.md",
     "前端学习/JavaScript/杂项/BigInt.md",
@@ -501,18 +496,11 @@
     "前端学习/JavaScript/异步：Promise，async and await/Promisification.md",
     "前端学习/JavaScript/异步：Promise，async and await/Promise API.md",
     "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md",
-    "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md",
     "前端学习/JavaScript/异步：Promise，async and await/Promise .md",
     "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md",
     "前端学习/JavaScript/异步：Promise，async and await/回调 .md",
     "前端学习/JavaScript/网络请求/Sever Sent Events.md",
     "前端学习/JavaScript/网络请求/WebSocket.md",
-    "前端学习/JavaScript/网络请求/长轮询.md",
-    "前端学习/JavaScript/网络请求/可恢复的文件上传.md",
-    "前端学习/JavaScript/网络请求/XMLHttpRequest.md",
-    "前端学习/JavaScript/网络请求/Fetch ：跨源请求.md",
-    "前端学习/JavaScript/网络请求/Fetch：中止.md",
-    "前端学习/JavaScript/网络请求/Fetch ：下载进度.md",
     "附件文件夹/Screenshot_20251113_110943_mark.via.png",
     "附件文件夹/Screenshot_20251113_110756_md.obsidian.png",
     "附件文件夹/Screenshot_20251113_110315_md.obsidian.png",
@@ -530,8 +518,6 @@
     "附件文件夹/Screenshot_20251110_162752_com.zhihu.android.png",
     "前端学习/JavaScript/网络请求",
     "前端学习/JavaScript/浏览器：文档，事件，接口/杂项",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/加载文档和其它资源",
-    "前端学习/JavaScript/网络请求 ",
     "未命名.canvas",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
