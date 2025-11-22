@@ -1,6 +1,114 @@
 {
   "recentFiles": [
     {
+      "basename": "单文件组件",
+      "path": "前端学习/vue/vue基础 /组件 /单文件组件.md"
+    },
+    {
+      "basename": "组件",
+      "path": "前端学习/vue/vue基础 /组件 /组件.md"
+    },
+    {
+      "basename": "生命周期 ",
+      "path": "前端学习/vue/vue基础 /生命周期 .md"
+    },
+    {
+      "basename": "CS61A NOTE",
+      "path": "CS61A NOTE/CS61A NOTE.md"
+    },
+    {
+      "basename": "自定义指令 ",
+      "path": "前端学习/vue/vue基础 /自定义指令 .md"
+    },
+    {
+      "basename": "收集表单中的数据 ",
+      "path": "前端学习/vue/vue基础 /收集表单中的数据 .md"
+    },
+    {
+      "basename": "监视属性 ",
+      "path": "前端学习/vue/vue基础 /监视属性 .md"
+    },
+    {
+      "basename": "条件渲染",
+      "path": "前端学习/vue/vue基础 /条件渲染.md"
+    },
+    {
+      "basename": "Vue.set",
+      "path": "前端学习/vue/vue基础 /列表渲染 /Vue.set.md"
+    },
+    {
+      "basename": "数据监视 ",
+      "path": "前端学习/vue/vue基础 /列表渲染 /数据监视 .md"
+    },
+    {
+      "basename": "列表渲染",
+      "path": "前端学习/vue/vue基础 /列表渲染 /列表渲染.md"
+    },
+    {
+      "basename": "key的原理 ",
+      "path": "前端学习/vue/vue项目的构建 /key的原理 .md"
+    },
+    {
+      "basename": "基本列表 ",
+      "path": "前端学习/vue/vue基础 /列表渲染 /基本列表 .md"
+    },
+    {
+      "basename": "绑定样式 ",
+      "path": "前端学习/vue/vue基础 /绑定样式 .md"
+    },
+    {
+      "basename": "计算属性 ",
+      "path": "前端学习/vue/vue基础 /计算属性 .md"
+    },
+    {
+      "basename": "键盘事件 ",
+      "path": "前端学习/vue/vue基础 /事件处理 /键盘事件 .md"
+    },
+    {
+      "basename": "事件修饰符",
+      "path": "前端学习/vue/vue基础 /事件处理 /事件修饰符.md"
+    },
+    {
+      "basename": "事件处理（事件的基本使用）",
+      "path": "前端学习/vue/vue基础 /事件处理 /事件处理（事件的基本使用）.md"
+    },
+    {
+      "basename": "数据代理 ",
+      "path": "前端学习/vue/vue基础 /数据代理 .md"
+    },
+    {
+      "basename": "数据绑定(bind model)",
+      "path": "前端学习/vue/vue基础 /数据绑定(bind model).md"
+    },
+    {
+      "basename": "模板语法 （往html模板里填写数据）",
+      "path": "前端学习/vue/vue基础 /模板语法 （往html模板里填写数据）.md"
+    },
+    {
+      "basename": "vue响应式",
+      "path": "前端学习/vue/vue基础 /vue响应式.md"
+    },
+    {
+      "basename": "属性标志和属性描述符",
+      "path": "前端学习/JavaScript/对象属性配置/属性标志和属性描述符.md"
+    },
+    {
+      "basename": "属性的getter和setter",
+      "path": "前端学习/JavaScript/对象属性配置/属性的getter和setter.md"
+    },
+    {
+      "basename": "盒子模型 ",
+      "path": "前端学习/html&&css/盒子模型/盒子模型 .md"
+    },
+    {
+      "basename": "选择器 ",
+      "path": "前端学习/html&&css/选择器/选择器 .md"
+    },
+    {
+      "basename": "vue",
+      "path": "前端学习/vue/vue.md"
+    },
+    {
       "basename": "vue项目的构建",
       "path": "前端学习/vue/vue项目的构建 /vue项目的构建.md"
     },
@@ -11,10 +119,6 @@
     {
       "basename": "解构赋值 ",
       "path": "前端学习/JavaScript/数据类型/解构赋值 .md"
-    },
-    {
-      "basename": "vue",
-      "path": "前端学习/vue/vue.md"
     },
     {
       "basename": "Proxy Reflect",
@@ -95,110 +199,6 @@
     {
       "basename": "WebSocket",
       "path": "前端学习/JavaScript/网络请求/WebSocket.md"
-    },
-    {
-      "basename": "长轮询",
-      "path": "前端学习/JavaScript/网络请求/长轮询.md"
-    },
-    {
-      "basename": "可恢复的文件上传",
-      "path": "前端学习/JavaScript/网络请求/可恢复的文件上传.md"
-    },
-    {
-      "basename": "XMLHttpRequest",
-      "path": "前端学习/JavaScript/网络请求/XMLHttpRequest.md"
-    },
-    {
-      "basename": "Fetch ：跨源请求",
-      "path": "前端学习/JavaScript/网络请求/Fetch ：跨源请求.md"
-    },
-    {
-      "basename": "Fetch：中止",
-      "path": "前端学习/JavaScript/网络请求/Fetch：中止.md"
-    },
-    {
-      "basename": "Fetch ：下载进度",
-      "path": "前端学习/JavaScript/网络请求/Fetch ：下载进度.md"
-    },
-    {
-      "basename": "FormData（传输图片，视频，zip包）",
-      "path": "前端学习/JavaScript/网络请求/FormData（传输图片，视频，zip包）.md"
-    },
-    {
-      "basename": "Fetch",
-      "path": "前端学习/JavaScript/网络请求/Fetch.md"
-    },
-    {
-      "basename": "http协议",
-      "path": "前端学习/JavaScript/网络请求/http协议.md"
-    },
-    {
-      "basename": "类检查：“instanceof”",
-      "path": "前端学习/JavaScript/类/类检查：“instanceof”.md"
-    },
-    {
-      "basename": "Mixin 模式",
-      "path": "前端学习/JavaScript/类/Mixin 模式.md"
-    },
-    {
-      "basename": "扩展内建类 ",
-      "path": "前端学习/JavaScript/类/扩展内建类 .md"
-    },
-    {
-      "basename": "私有的和受保护的属性和方法",
-      "path": "前端学习/JavaScript/类/私有的和受保护的属性和方法.md"
-    },
-    {
-      "basename": "静态属性和静态方法",
-      "path": "前端学习/JavaScript/类/静态属性和静态方法.md"
-    },
-    {
-      "basename": "继承 ",
-      "path": "前端学习/JavaScript/类/继承 .md"
-    },
-    {
-      "basename": "Class基本语法",
-      "path": "前端学习/JavaScript/类/Class基本语法.md"
-    },
-    {
-      "basename": "原型方法，没有_proto_的对象 ",
-      "path": "前端学习/JavaScript/原型，继承/原型方法，没有_proto_的对象 .md"
-    },
-    {
-      "basename": "原生的原型",
-      "path": "前端学习/JavaScript/原型，继承/原生的原型.md"
-    },
-    {
-      "basename": "F.prototype",
-      "path": "前端学习/JavaScript/原型，继承/F.prototype.md"
-    },
-    {
-      "basename": "装饰器模式和转发，callapply",
-      "path": "前端学习/JavaScript/函数深入理解/装饰器模式和转发，callapply.md"
-    },
-    {
-      "basename": "原型继承",
-      "path": "前端学习/JavaScript/原型，继承/原型继承.md"
-    },
-    {
-      "basename": "对象 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象 .md"
-    },
-    {
-      "basename": "symbol",
-      "path": "前端学习/JavaScript/Object（对象）/symbol.md"
-    },
-    {
-      "basename": "对象-原始值转换 ",
-      "path": "前端学习/JavaScript/Object（对象）/对象-原始值转换 .md"
-    },
-    {
-      "basename": "可选链 ？.",
-      "path": "前端学习/JavaScript/Object（对象）/可选链 ？..md"
-    },
-    {
-      "basename": "对象方法 ，“this”",
-      "path": "前端学习/JavaScript/Object（对象）/对象方法 ，“this”.md"
     }
   ],
   "omittedPaths": [],

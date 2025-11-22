@@ -249,12 +249,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/vue/vue项目的构建 /vue项目的构建.md",
+                "file": "前端学习/vue/vue基础 /组件 /单文件组件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vue项目的构建"
+              "title": "单文件组件"
             }
           }
         ],
@@ -322,7 +322,7 @@
             }
           },
           {
-            "id": "e69b8867c4ecd216",
+            "id": "4e7ca72ed773e73e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -400,13 +400,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/JavaScript/网络请求/WebSocket.md",
+                "file": "前端学习/vue/vue基础 /组件 /单文件组件.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "WebSocket 的大纲"
+              "title": "单文件组件 的大纲"
             }
           },
           {
@@ -470,37 +470,42 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4f00b0a88a9a2824",
+  "active": "f2d7c362e4e76b51",
   "lastOpenFiles": [
-    "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md",
-    "前端学习/vue/vue项目的构建 /vue项目的构建.md",
-    "前端学习/JavaScript/数据类型/解构赋值 .md",
-    "前端学习/vue/vue.md",
-    "前端学习/vue/vue项目的构建 /未命名.md",
-    "前端学习/vue/vue项目的构建 ",
+    "前端学习/vue/vue基础 /组件 /组件.md",
+    "前端学习/vue/vue基础 /组件 /单文件组件.md",
+    "前端学习/vue/vue基础 /生命周期 .md",
+    "前端学习/vue/vue基础 /组件 ",
     "前端学习/vue/未命名.md",
+    "附件文件夹/Pasted image 20251122183313.png",
+    "CS61A NOTE/CS61A NOTE.md",
+    "前端学习/vue/vue基础 /自定义指令 .md",
+    "前端学习/vue/vue基础 /收集表单中的数据 .md",
+    "前端学习/vue/vue基础 /.md",
+    "前端学习/vue/vue基础 /监视属性 .md",
+    "前端学习/vue/vue基础 /条件渲染.md",
+    "前端学习/vue/vue基础 /列表渲染 /Vue.set.md",
+    "前端学习/vue/vue基础 /列表渲染 /数据监视 .md",
+    "前端学习/vue/vue基础 /列表渲染 /列表渲染.md",
+    "前端学习/vue/vue项目的构建 /key的原理 .md",
+    "前端学习/vue/vue基础 /列表渲染 /基本列表 .md",
+    "前端学习/vue/vue基础 /列表渲染 ",
+    "前端学习/vue/vue基础 /绑定样式 .md",
+    "前端学习/vue/vue基础 /计算属性 .md",
+    "前端学习/vue/vue基础 /事件处理 /事件处理.md",
+    "前端学习/vue/vue基础 /事件处理 /键盘事件 .md",
+    "前端学习/vue/vue基础 /事件处理 /事件修饰符.md",
+    "前端学习/vue/vue基础 /事件处理 /事件处理（事件的基本使用）.md",
+    "前端学习/vue/vue基础 /数据代理 .md",
+    "前端学习/vue/vue基础 /事件处理 ",
+    "前端学习/vue/vue基础 /数据绑定(bind model).md",
+    "前端学习/vue/vue基础 /模板语法 （往html模板里填写数据）.md",
+    "前端学习/vue/vue基础 /vue响应式.md",
+    "前端学习/JavaScript/对象属性配置/属性标志和属性描述符.md",
+    "前端学习/vue/vue基础 ",
+    "前端学习/vue/vue项目的构建 ",
     "前端学习/vue",
-    "前端学习/JavaScript/杂项/Proxy Reflect.md",
-    "前端学习/JavaScript/杂项/Reference Type.md",
-    "前端学习/JavaScript/杂项/Eval：执行代码字符串.md",
-    "前端学习/JavaScript/杂项/BigInt.md",
-    "前端学习/JavaScript/模块/动态导入 .md",
-    "前端学习/JavaScript/模块/导入和导出  .md",
-    "前端学习/JavaScript/模块/Modoule.md",
-    "前端学习/JavaScript/Generator/异步迭代和generator.md",
-    "前端学习/JavaScript/Generator/generator.md",
-    "前端学习/JavaScript/异步：Promise，async and await/异步：Promise，async and await.md",
-    "前端学习/JavaScript/异步：Promise，async and await/async_await.md",
-    "前端学习/JavaScript/异步：Promise，async and await/Microtask.md",
     "附件文件夹/Pasted image 20251113211428.png",
-    "前端学习/JavaScript/异步：Promise，async and await/Promisification.md",
-    "前端学习/JavaScript/异步：Promise，async and await/Promise API.md",
-    "前端学习/JavaScript/异步：Promise，async and await/使用promise进行错误处理 .md",
-    "前端学习/JavaScript/异步：Promise，async and await/Promise .md",
-    "前端学习/JavaScript/Object（对象）/构造函数和new操作符 .md",
-    "前端学习/JavaScript/异步：Promise，async and await/回调 .md",
-    "前端学习/JavaScript/网络请求/Sever Sent Events.md",
-    "前端学习/JavaScript/网络请求/WebSocket.md",
     "附件文件夹/Screenshot_20251113_110943_mark.via.png",
     "附件文件夹/Screenshot_20251113_110756_md.obsidian.png",
     "附件文件夹/Screenshot_20251113_110315_md.obsidian.png",
@@ -509,15 +514,10 @@
     "前端学习/JavaScript/二进制数据，文件/未命名.base",
     "textgenerator/configs/llm",
     "textgenerator/configs",
-    "textgenerator",
     "附件文件夹/Pasted image 20251111191149.png",
     "附件文件夹/Screenshot_20251111_085521_mark.via.png",
-    "前端学习/JavaScript/二进制数据，文件",
     "附件文件夹/Pasted image 20251110211936.png",
     "附件文件夹/Pasted image 20251110192603.png",
-    "附件文件夹/Screenshot_20251110_162752_com.zhihu.android.png",
-    "前端学习/JavaScript/网络请求",
-    "前端学习/JavaScript/浏览器：文档，事件，接口/杂项",
     "未命名.canvas",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
