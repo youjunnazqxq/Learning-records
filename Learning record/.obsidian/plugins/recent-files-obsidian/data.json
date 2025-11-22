@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "脚手架 ",
+      "path": "前端学习/vue/vue基础 /脚手架 .md"
+    },
+    {
       "basename": "单文件组件",
       "path": "前端学习/vue/vue基础 /组件 /单文件组件.md"
     },
@@ -15,6 +19,18 @@
     {
       "basename": "CS61A NOTE",
       "path": "CS61A NOTE/CS61A NOTE.md"
+    },
+    {
+      "basename": "动态导入 ",
+      "path": "前端学习/JavaScript/模块/动态导入 .md"
+    },
+    {
+      "basename": "导入和导出  ",
+      "path": "前端学习/JavaScript/模块/导入和导出  .md"
+    },
+    {
+      "basename": "Modoule",
+      "path": "前端学习/JavaScript/模块/Modoule.md"
     },
     {
       "basename": "自定义指令 ",
@@ -137,18 +153,6 @@
       "path": "前端学习/JavaScript/杂项/BigInt.md"
     },
     {
-      "basename": "动态导入 ",
-      "path": "前端学习/JavaScript/模块/动态导入 .md"
-    },
-    {
-      "basename": "导入和导出  ",
-      "path": "前端学习/JavaScript/模块/导入和导出  .md"
-    },
-    {
-      "basename": "Modoule",
-      "path": "前端学习/JavaScript/模块/Modoule.md"
-    },
-    {
       "basename": "异步迭代和generator",
       "path": "前端学习/JavaScript/Generator/异步迭代和generator.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sever Sent Events",
       "path": "前端学习/JavaScript/网络请求/Sever Sent Events.md"
-    },
-    {
-      "basename": "WebSocket",
-      "path": "前端学习/JavaScript/网络请求/WebSocket.md"
     }
   ],
   "omittedPaths": [],
