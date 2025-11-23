@@ -10,5 +10,8 @@
   "copy-as-html",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "obsidian-style-settings",
+  "table-editor-obsidian",
+  "obsidian-paste-image-rename"
 ]
