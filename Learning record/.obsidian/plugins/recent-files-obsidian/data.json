@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vue进阶",
+      "path": "前端学习/vue/vue进阶/vue进阶.md"
+    },
+    {
       "basename": "scoped样式总结 ",
       "path": "前端学习/vue/vue进阶/scoped样式总结 .md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "render",
       "path": "前端学习/vue/vue进阶/render.md"
-    },
-    {
-      "basename": "vue进阶",
-      "path": "前端学习/vue/vue进阶/vue进阶.md"
     },
     {
       "basename": "脚手架 ",

@@ -11,14 +11,12 @@
             "id": "7c469b6b71040d01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "前端学习/vue/vue进阶/scoped样式总结 .md",
-                "mode": "source",
-                "source": false
+                "path": "前端学习/vue/vue进阶"
               },
               "icon": "lucide-file",
-              "title": "scoped样式总结"
+              "title": "vue进阶"
             }
           }
         ]
@@ -246,14 +244,14 @@
   },
   "active": "7c469b6b71040d01",
   "lastOpenFiles": [
-    "前端学习/vue/vue进阶/插件 .md",
+    "前端学习/vue/vue进阶/vue进阶.md",
     "前端学习/vue/vue进阶/scoped样式总结 .md",
+    "前端学习/vue/vue进阶/插件 .md",
     "前端学习/vue/vue进阶/mixin.md",
     "前端学习/vue/vue进阶/props.md",
     "前端学习/vue/vue进阶/.md",
     "前端学习/vue/vue进阶/ref.md",
     "前端学习/vue/vue进阶/render.md",
-    "前端学习/vue/vue进阶/vue进阶.md",
     "前端学习/vue/vue基础 /vue基础.md",
     "前端学习/vue/vue进阶",
     "前端学习/vue/vue基础 /脚手架 .md",
