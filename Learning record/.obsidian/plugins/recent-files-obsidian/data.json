@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "render",
+      "path": "前端学习/vue/vue进阶/render.md"
+    },
+    {
+      "basename": "ref",
+      "path": "前端学习/vue/vue进阶/ref.md"
+    },
+    {
+      "basename": "entrySet",
+      "path": "CS61B/JAVA基本语法/遍历一个映射（Map）/entrySet.md"
+    },
+    {
       "basename": "vue进阶",
       "path": "前端学习/vue/vue进阶/vue进阶.md"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "props",
       "path": "前端学习/vue/vue进阶/props.md"
-    },
-    {
-      "basename": "ref",
-      "path": "前端学习/vue/vue进阶/ref.md"
-    },
-    {
-      "basename": "render",
-      "path": "前端学习/vue/vue进阶/render.md"
     },
     {
       "basename": "脚手架 ",
@@ -195,10 +199,6 @@
     {
       "basename": "vue项目的构建",
       "path": "前端学习/vue/vue项目的构建 /vue项目的构建.md"
-    },
-    {
-      "basename": "Promise链条",
-      "path": "前端学习/JavaScript/异步：Promise，async and await/Promise链条.md"
     }
   ],
   "omittedPaths": [],

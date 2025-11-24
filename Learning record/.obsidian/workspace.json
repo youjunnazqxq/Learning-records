@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "前端学习/vue/vue进阶"
+                "path": "前端学习/vue/vue项目的构建 "
               },
               "icon": "lucide-file",
-              "title": "vue进阶"
+              "title": "vue项目的构建"
             }
           }
         ]
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "04f514358b122a56",
+            "id": "cd9f9bfc0f199674",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -242,16 +242,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04f514358b122a56",
+  "active": "7c469b6b71040d01",
   "lastOpenFiles": [
+    "前端学习/vue/vue进阶/render.md",
+    "前端学习/vue/vue进阶/ref.md",
+    "CS61B/JAVA基本语法/遍历一个映射（Map）/entrySet.md",
     "前端学习/vue/vue进阶/vue进阶.md",
     "前端学习/vue/vue进阶/scoped样式总结 .md",
     "前端学习/vue/vue进阶/插件 .md",
     "前端学习/vue/vue进阶/mixin.md",
     "前端学习/vue/vue进阶/props.md",
     "前端学习/vue/vue进阶/.md",
-    "前端学习/vue/vue进阶/ref.md",
-    "前端学习/vue/vue进阶/render.md",
     "前端学习/vue/vue基础/vue基础.md",
     "前端学习/vue/vue进阶",
     "前端学习/vue/vue基础/脚手架 .md",
@@ -270,7 +271,6 @@
     "前端学习/JavaScript/JavaScript基础知识/值的比较 .md",
     "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md",
     "前端学习/JavaScript/JavaScript基础知识/变量 .md",
-    "前端学习/JavaScript/JavaScript基础知识/注释 .md",
     "前端学习/vue/vue基础 /脚手架",
     "前端学习/vue/vue基础/组件 ",
     "附件文件夹/Pasted image 20251122183313.png",
