@@ -1,28 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "render",
-      "path": "前端学习/vue/vue进阶/render.md"
+      "basename": "路由的两种工作模式  ",
+      "path": "前端学习/vue/路由  /路由的两种工作模式  .md"
     },
     {
-      "basename": "ref",
-      "path": "前端学习/vue/vue进阶/ref.md"
+      "basename": "路由守卫",
+      "path": "前端学习/vue/路由  /路由守卫.md"
     },
     {
-      "basename": "entrySet",
-      "path": "CS61B/JAVA基本语法/遍历一个映射（Map）/entrySet.md"
+      "basename": "缓存路由组件 ",
+      "path": "前端学习/vue/路由  /缓存路由组件 .md"
+    },
+    {
+      "basename": "编程式路由 ",
+      "path": "前端学习/vue/路由  /编程式路由 .md"
+    },
+    {
+      "basename": "replace属性 ",
+      "path": "前端学习/vue/路由  /replace属性 .md"
+    },
+    {
+      "basename": "props参数 ",
+      "path": "前端学习/vue/路由  /props参数 .md"
+    },
+    {
+      "basename": "params参数 ",
+      "path": "前端学习/vue/路由  /params参数 .md"
+    },
+    {
+      "basename": "命名 ",
+      "path": "前端学习/vue/路由  /命名 .md"
+    },
+    {
+      "basename": "query",
+      "path": "前端学习/vue/路由  /query.md"
+    },
+    {
+      "basename": "嵌套路由 ",
+      "path": "前端学习/vue/路由  /嵌套路由 .md"
+    },
+    {
+      "basename": "基本使用 ",
+      "path": "前端学习/vue/路由  /基本使用 .md"
+    },
+    {
+      "basename": "路由（基本的概念）",
+      "path": "前端学习/vue/路由  /路由（基本的概念）.md"
     },
     {
       "basename": "vue进阶",
       "path": "前端学习/vue/vue进阶/vue进阶.md"
     },
     {
+      "basename": "vuex",
+      "path": "前端学习/vue/vuex/vuex.md"
+    },
+    {
+      "basename": "模块化和命名空间 ",
+      "path": "前端学习/vue/vuex/模块化和命名空间 .md"
+    },
+    {
+      "basename": "四种map方法 ",
+      "path": "前端学习/vue/vuex/四种map方法 .md"
+    },
+    {
+      "basename": "使用过程 ",
+      "path": "前端学习/vue/vuex/使用过程 .md"
+    },
+    {
+      "basename": "getter ",
+      "path": "前端学习/vue/vuex/getter .md"
+    },
+    {
+      "basename": "vuex的流程解析 ",
+      "path": "前端学习/vue/vuex/vuex的流程解析 .md"
+    },
+    {
+      "basename": "组件",
+      "path": "前端学习/vue/vue基础/组件 /组件.md"
+    },
+    {
+      "basename": "单文件组件",
+      "path": "前端学习/vue/vue基础/组件 /单文件组件.md"
+    },
+    {
+      "basename": "render",
+      "path": "前端学习/vue/vue进阶/render.md"
+    },
+    {
+      "basename": "组件的自定义事件",
+      "path": "前端学习/vue/vue进阶/组件的自定义事件.md"
+    },
+    {
+      "basename": "本地存储 ",
+      "path": "前端学习/vue/vue进阶/本地存储 .md"
+    },
+    {
       "basename": "scoped样式总结 ",
       "path": "前端学习/vue/vue进阶/scoped样式总结 .md"
     },
     {
+      "basename": "自定义指令 ",
+      "path": "前端学习/vue/vue基础/自定义指令 .md"
+    },
+    {
+      "basename": "计算属性 ",
+      "path": "前端学习/vue/vue基础/计算属性 .md"
+    },
+    {
+      "basename": "脚手架 ",
+      "path": "前端学习/vue/vue基础/脚手架 .md"
+    },
+    {
       "basename": "插件 ",
       "path": "前端学习/vue/vue进阶/插件 .md"
+    },
+    {
+      "basename": "vue基础",
+      "path": "前端学习/vue/vue基础/vue基础.md"
+    },
+    {
+      "basename": "动态导入 ",
+      "path": "前端学习/JavaScript/模块/动态导入 .md"
+    },
+    {
+      "basename": "导入和导出  ",
+      "path": "前端学习/JavaScript/模块/导入和导出  .md"
+    },
+    {
+      "basename": "插槽 ",
+      "path": "前端学习/vue/vue进阶/插槽 .md"
+    },
+    {
+      "basename": "脚手架配置代理",
+      "path": "前端学习/vue/vue进阶/脚手架配置代理.md"
+    },
+    {
+      "basename": "全局总线 ",
+      "path": "前端学习/vue/vue进阶/全局总线 .md"
+    },
+    {
+      "basename": "CS61A NOTE",
+      "path": "CS61A NOTE/CS61A NOTE.md"
     },
     {
       "basename": "mixin",
@@ -33,20 +153,16 @@
       "path": "前端学习/vue/vue进阶/props.md"
     },
     {
-      "basename": "脚手架 ",
-      "path": "前端学习/vue/vue基础/脚手架 .md"
+      "basename": "ref",
+      "path": "前端学习/vue/vue进阶/ref.md"
+    },
+    {
+      "basename": "entrySet",
+      "path": "CS61B/JAVA基本语法/遍历一个映射（Map）/entrySet.md"
     },
     {
       "basename": "生命周期 ",
       "path": "前端学习/vue/vue基础/生命周期 .md"
-    },
-    {
-      "basename": "自定义指令 ",
-      "path": "前端学习/vue/vue基础/自定义指令 .md"
-    },
-    {
-      "basename": "CS61A NOTE",
-      "path": "CS61A NOTE/CS61A NOTE.md"
     },
     {
       "basename": "模板语法 （往html模板里填写数据）",
@@ -55,10 +171,6 @@
     {
       "basename": "vue响应式",
       "path": "前端学习/vue/vue基础/vue响应式.md"
-    },
-    {
-      "basename": "导入和导出  ",
-      "path": "前端学习/JavaScript/模块/导入和导出  .md"
     },
     {
       "basename": "Modoule",
@@ -87,118 +199,6 @@
     {
       "basename": " 数据类型 ",
       "path": "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md"
-    },
-    {
-      "basename": "变量 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/变量 .md"
-    },
-    {
-      "basename": "注释 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/注释 .md"
-    },
-    {
-      "basename": "代码的引用",
-      "path": "前端学习/JavaScript/JavaScript基础知识/代码的引用.md"
-    },
-    {
-      "basename": "基础运算符及数学运算 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/基础运算符及数学运算 .md"
-    },
-    {
-      "basename": "单文件组件",
-      "path": "前端学习/vue/vue基础/组件 /单文件组件.md"
-    },
-    {
-      "basename": "组件",
-      "path": "前端学习/vue/vue基础/组件 /组件.md"
-    },
-    {
-      "basename": "动态导入 ",
-      "path": "前端学习/JavaScript/模块/动态导入 .md"
-    },
-    {
-      "basename": "收集表单中的数据 ",
-      "path": "前端学习/vue/vue基础/收集表单中的数据 .md"
-    },
-    {
-      "basename": "监视属性 ",
-      "path": "前端学习/vue/vue基础/监视属性 .md"
-    },
-    {
-      "basename": "条件渲染",
-      "path": "前端学习/vue/vue基础/条件渲染.md"
-    },
-    {
-      "basename": "Vue.set",
-      "path": "前端学习/vue/vue基础/列表渲染 /Vue.set.md"
-    },
-    {
-      "basename": "数据监视 ",
-      "path": "前端学习/vue/vue基础/列表渲染 /数据监视 .md"
-    },
-    {
-      "basename": "列表渲染",
-      "path": "前端学习/vue/vue基础/列表渲染 /列表渲染.md"
-    },
-    {
-      "basename": "key的原理 ",
-      "path": "前端学习/vue/vue项目的构建 /key的原理 .md"
-    },
-    {
-      "basename": "基本列表 ",
-      "path": "前端学习/vue/vue基础/列表渲染 /基本列表 .md"
-    },
-    {
-      "basename": "绑定样式 ",
-      "path": "前端学习/vue/vue基础/绑定样式 .md"
-    },
-    {
-      "basename": "计算属性 ",
-      "path": "前端学习/vue/vue基础/计算属性 .md"
-    },
-    {
-      "basename": "键盘事件 ",
-      "path": "前端学习/vue/vue基础/事件处理 /键盘事件 .md"
-    },
-    {
-      "basename": "事件修饰符",
-      "path": "前端学习/vue/vue基础/事件处理 /事件修饰符.md"
-    },
-    {
-      "basename": "事件处理（事件的基本使用）",
-      "path": "前端学习/vue/vue基础/事件处理 /事件处理（事件的基本使用）.md"
-    },
-    {
-      "basename": "数据代理 ",
-      "path": "前端学习/vue/vue基础/数据代理 .md"
-    },
-    {
-      "basename": "数据绑定(bind model)",
-      "path": "前端学习/vue/vue基础/数据绑定(bind model).md"
-    },
-    {
-      "basename": "属性标志和属性描述符",
-      "path": "前端学习/JavaScript/对象属性配置/属性标志和属性描述符.md"
-    },
-    {
-      "basename": "属性的getter和setter",
-      "path": "前端学习/JavaScript/对象属性配置/属性的getter和setter.md"
-    },
-    {
-      "basename": "盒子模型 ",
-      "path": "前端学习/html&&css/盒子模型/盒子模型 .md"
-    },
-    {
-      "basename": "选择器 ",
-      "path": "前端学习/html&&css/选择器/选择器 .md"
-    },
-    {
-      "basename": "vue",
-      "path": "前端学习/vue/vue.md"
-    },
-    {
-      "basename": "vue项目的构建",
-      "path": "前端学习/vue/vue项目的构建 /vue项目的构建.md"
     }
   ],
   "omittedPaths": [],
