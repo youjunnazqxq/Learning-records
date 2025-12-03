@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "vue进阶",
-      "path": "前端学习/vue/vue进阶/vue进阶.md"
-    },
-    {
-      "basename": "vuex",
-      "path": "前端学习/vue/vuex/vuex.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "学校应对/数据结构/数据结构.md"
-    },
-    {
       "basename": "树",
       "path": "学校应对/数据结构/二叉树/树.md"
     },
     {
       "basename": "二叉树",
       "path": "学校应对/数据结构/二叉树/二叉树.md"
+    },
+    {
+      "basename": "队列 ",
+      "path": "学校应对/数据结构/队列/队列 .md"
+    },
+    {
+      "basename": "队列",
+      "path": "学校应对/数据结构/队列/队列.md"
+    },
+    {
+      "basename": "链表 ",
+      "path": "学校应对/数据结构/链表/链表 .md"
+    },
+    {
+      "basename": "绪论 ",
+      "path": "学校应对/数据结构/绪论/绪论 .md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "学校应对/数据结构/数据结构.md"
+    },
+    {
+      "basename": "vue进阶",
+      "path": "前端学习/vue/vue进阶/vue进阶.md"
+    },
+    {
+      "basename": "vuex",
+      "path": "前端学习/vue/vuex/vuex.md"
     },
     {
       "basename": "学校应对",
@@ -183,22 +199,6 @@
     {
       "basename": "生命周期 ",
       "path": "前端学习/vue/vue基础/生命周期 .md"
-    },
-    {
-      "basename": "模板语法 （往html模板里填写数据）",
-      "path": "前端学习/vue/vue基础/模板语法 （往html模板里填写数据）.md"
-    },
-    {
-      "basename": "vue响应式",
-      "path": "前端学习/vue/vue基础/vue响应式.md"
-    },
-    {
-      "basename": "Modoule",
-      "path": "前端学习/JavaScript/模块/Modoule.md"
-    },
-    {
-      "basename": "函数 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/函数 .md"
     }
   ],
   "omittedPaths": [],
