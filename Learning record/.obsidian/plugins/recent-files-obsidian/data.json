@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vue进阶",
+      "path": "前端学习/vue/vue进阶/vue进阶.md"
+    },
+    {
       "basename": "vuex",
       "path": "前端学习/vue/vuex/vuex.md"
     },
@@ -26,55 +30,51 @@
     },
     {
       "basename": "路由的两种工作模式  ",
-      "path": "前端学习/vue/路由  /路由的两种工作模式  .md"
+      "path": "前端学习/vue/路由/路由的两种工作模式  .md"
     },
     {
       "basename": "路由守卫",
-      "path": "前端学习/vue/路由  /路由守卫.md"
+      "path": "前端学习/vue/路由/路由守卫.md"
     },
     {
       "basename": "缓存路由组件 ",
-      "path": "前端学习/vue/路由  /缓存路由组件 .md"
+      "path": "前端学习/vue/路由/缓存路由组件 .md"
     },
     {
       "basename": "编程式路由 ",
-      "path": "前端学习/vue/路由  /编程式路由 .md"
+      "path": "前端学习/vue/路由/编程式路由 .md"
     },
     {
       "basename": "replace属性 ",
-      "path": "前端学习/vue/路由  /replace属性 .md"
+      "path": "前端学习/vue/路由/replace属性 .md"
     },
     {
       "basename": "props参数 ",
-      "path": "前端学习/vue/路由  /props参数 .md"
+      "path": "前端学习/vue/路由/props参数 .md"
     },
     {
       "basename": "params参数 ",
-      "path": "前端学习/vue/路由  /params参数 .md"
+      "path": "前端学习/vue/路由/params参数 .md"
     },
     {
       "basename": "命名 ",
-      "path": "前端学习/vue/路由  /命名 .md"
+      "path": "前端学习/vue/路由/命名 .md"
     },
     {
       "basename": "query",
-      "path": "前端学习/vue/路由  /query.md"
+      "path": "前端学习/vue/路由/query.md"
     },
     {
       "basename": "嵌套路由 ",
-      "path": "前端学习/vue/路由  /嵌套路由 .md"
+      "path": "前端学习/vue/路由/嵌套路由 .md"
     },
     {
       "basename": "基本使用 ",
-      "path": "前端学习/vue/路由  /基本使用 .md"
+      "path": "前端学习/vue/路由/基本使用 .md"
     },
     {
       "basename": "路由（基本的概念）",
-      "path": "前端学习/vue/路由  /路由（基本的概念）.md"
-    },
-    {
-      "basename": "vue进阶",
-      "path": "前端学习/vue/vue进阶/vue进阶.md"
+      "path": "前端学习/vue/路由/路由（基本的概念）.md"
     },
     {
       "basename": "模块化和命名空间 ",
