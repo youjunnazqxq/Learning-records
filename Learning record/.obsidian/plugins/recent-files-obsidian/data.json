@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vuex",
+      "path": "前端学习/vue/vuex/vuex.md"
+    },
+    {
       "basename": "数据结构",
       "path": "学校应对/数据结构/数据结构.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "vue进阶",
       "path": "前端学习/vue/vue进阶/vue进阶.md"
-    },
-    {
-      "basename": "vuex",
-      "path": "前端学习/vue/vuex/vuex.md"
     },
     {
       "basename": "模块化和命名空间 ",

@@ -27,10 +27,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "学校应对/数据结构"
+                "path": "前端学习/vue/vuex"
               },
               "icon": "lucide-file",
-              "title": "数据结构"
+              "title": "vuex"
             }
           }
         ],
@@ -259,6 +259,7 @@
   },
   "active": "caa7854515e2c155",
   "lastOpenFiles": [
+    "前端学习/vue/vuex/vuex.md",
     "学校应对/数据结构/数据结构.md",
     "学校应对/数据结构/二叉树/树.md",
     "学校应对/数据结构/二叉树/二叉树.md",
@@ -283,7 +284,6 @@
     "前端学习/vue/路由  ",
     "前端学习/vue/vue进阶/vue进阶.md",
     "前端学习/vue/未命名.md",
-    "前端学习/vue/vuex/vuex.md",
     "前端学习/vue/vuex/模块化和命名空间 .md",
     "前端学习/vue/vuex/四种map方法 .md",
     "前端学习/vue/vuex/使用过程 .md",
