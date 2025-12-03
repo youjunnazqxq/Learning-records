@@ -25,12 +25,14 @@
             "id": "cfbc4b514783a1d0",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "前端学习/vue/路由"
+                "file": "学校应对/数据结构/二叉树/树.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "路由"
+              "title": "树"
             }
           }
         ],
@@ -98,7 +100,7 @@
             }
           },
           {
-            "id": "caa7854515e2c155",
+            "id": "e4d3ff3e74001480",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -257,13 +259,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "caa7854515e2c155",
+  "active": "cfbc4b514783a1d0",
   "lastOpenFiles": [
+    "学校应对/数据结构/二叉树/二叉树.md",
+    "学校应对/数据结构/二叉树/树.md",
+    "学校应对/数据结构/队列/队列 .md",
+    "学校应对/数据结构/队列/队列.md",
+    "学校应对/数据结构/链表/链表 .md",
+    "学校应对/数据结构/队列",
+    "学校应对/数据结构/绪论/绪论 .md",
+    "学校应对/数据结构/链表/链表.md",
+    "学校应对/数据结构/链表",
+    "学校应对/数据结构/绪论/绪论.md",
+    "学校应对/数据结构/绪论",
+    "学校应对/数据结构/数据结构.md",
     "前端学习/vue/vue进阶/vue进阶.md",
     "前端学习/vue/vuex/vuex.md",
-    "学校应对/数据结构/数据结构.md",
-    "学校应对/数据结构/二叉树/树.md",
-    "学校应对/数据结构/二叉树/二叉树.md",
     "学校应对/数据结构/树.md",
     "学校应对/数据结构/二叉树",
     "学校应对/数据结构",
@@ -283,20 +294,11 @@
     "前端学习/vue/路由/基本使用 .md",
     "前端学习/vue/路由/路由（基本的概念）.md",
     "前端学习/vue/路由",
-    "前端学习/vue/未命名.md",
-    "前端学习/vue/vuex/模块化和命名空间 .md",
-    "前端学习/vue/vuex/四种map方法 .md",
-    "前端学习/vue/vuex/使用过程 .md",
-    "前端学习/vue/vuex/getter .md",
-    "前端学习/vue/vuex/vuex的流程解析 .md",
     "附件文件夹/vuex.png",
     "前端学习/vue/vuex",
     "前端学习/vue/vue进阶",
     "前端学习/vue/vue基础 /脚手架",
-    "前端学习/vue/vue基础/组件 ",
     "附件文件夹/Pasted image 20251122183313.png",
-    "前端学习/vue/vue基础/列表渲染 ",
-    "前端学习/vue/vue基础/事件处理 ",
     "附件文件夹/Pasted image 20251113211428.png",
     "附件文件夹/Screenshot_20251113_110943_mark.via.png",
     "附件文件夹/Screenshot_20251113_110756_md.obsidian.png",
