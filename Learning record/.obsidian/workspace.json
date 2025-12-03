@@ -11,15 +11,32 @@
             "id": "7c469b6b71040d01",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "前端学习/vue/vue进阶"
+                "file": "前端学习/vue/路由  /基本使用 .md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "vue进阶"
+              "title": "基本使用"
+            }
+          },
+          {
+            "id": "cfbc4b514783a1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/vue/路由  /路由的两种工作模式  .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "路由的两种工作模式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +100,7 @@
             }
           },
           {
-            "id": "04f514358b122a56",
+            "id": "4cf385659cd9068e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -161,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/vue/vue基础 /脚手架 .md",
+                "file": "前端学习/vue/路由  /路由的两种工作模式  .md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "脚手架  的大纲"
+              "title": "路由的两种工作模式   的大纲"
             }
           },
           {
@@ -242,35 +259,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04f514358b122a56",
+  "active": "080894fe9f6aa073",
   "lastOpenFiles": [
+    "前端学习/vue/路由  /路由守卫.md",
+    "前端学习/vue/路由  /路由的两种工作模式  .md",
+    "前端学习/vue/路由  /缓存路由组件 .md",
+    "前端学习/vue/路由  /编程式路由 .md",
+    "前端学习/vue/路由  /replace属性 .md",
+    "前端学习/vue/路由  /props参数 .md",
+    "前端学习/vue/路由  /params参数 .md",
+    "前端学习/vue/路由  /命名 .md",
+    "前端学习/vue/路由  /query.md",
+    "前端学习/vue/路由  /嵌套路由 .md",
+    "前端学习/vue/路由  /基本使用 .md",
+    "前端学习/vue/路由  /路由（基本的概念）.md",
+    "前端学习/vue/路由  ",
     "前端学习/vue/vue进阶/vue进阶.md",
-    "前端学习/vue/vue进阶/scoped样式总结 .md",
-    "前端学习/vue/vue进阶/插件 .md",
-    "前端学习/vue/vue进阶/mixin.md",
-    "前端学习/vue/vue进阶/props.md",
-    "前端学习/vue/vue进阶/.md",
-    "前端学习/vue/vue进阶/ref.md",
-    "前端学习/vue/vue进阶/render.md",
-    "前端学习/vue/vue基础/vue基础.md",
-    "前端学习/vue/vue进阶",
-    "前端学习/vue/vue基础/脚手架 .md",
     "前端学习/vue/未命名.md",
-    "前端学习/vue/vue基础/生命周期 .md",
-    "前端学习/vue/vue基础/自定义指令 .md",
-    "CS61A NOTE/CS61A NOTE.md",
-    "前端学习/vue/vue基础/模板语法 （往html模板里填写数据）.md",
-    "前端学习/vue/vue基础/vue响应式.md",
-    "前端学习/JavaScript/模块/导入和导出  .md",
-    "前端学习/JavaScript/模块/Modoule.md",
-    "前端学习/JavaScript/JavaScript基础知识/函数 .md",
-    "前端学习/JavaScript/JavaScript基础知识/空值合并运算符 ？？.md",
-    "前端学习/JavaScript/JavaScript基础知识/逻辑运算符 .md",
-    "前端学习/JavaScript/JavaScript基础知识/？ 三元运算符 .md",
-    "前端学习/JavaScript/JavaScript基础知识/值的比较 .md",
-    "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md",
-    "前端学习/JavaScript/JavaScript基础知识/变量 .md",
-    "前端学习/JavaScript/JavaScript基础知识/注释 .md",
+    "前端学习/vue/vuex/vuex.md",
+    "前端学习/vue/vuex/模块化和命名空间 .md",
+    "前端学习/vue/vuex/四种map方法 .md",
+    "前端学习/vue/vuex/使用过程 .md",
+    "前端学习/vue/vuex/getter .md",
+    "前端学习/vue/vuex/vuex的流程解析 .md",
+    "前端学习/vue/vue基础/组件 /组件.md",
+    "前端学习/vue/vue基础/组件 /单文件组件.md",
+    "前端学习/vue/vue进阶/render.md",
+    "前端学习/vue/vue进阶/组件的自定义事件.md",
+    "前端学习/vue/vue进阶/本地存储 .md",
+    "前端学习/vue/vue进阶/scoped样式总结 .md",
+    "附件文件夹/vuex.png",
+    "前端学习/vue/vuex",
+    "前端学习/vue/vue进阶",
     "前端学习/vue/vue基础 /脚手架",
     "前端学习/vue/vue基础/组件 ",
     "附件文件夹/Pasted image 20251122183313.png",
@@ -284,12 +304,9 @@
     "附件文件夹/Screenshot_20251113_110756_md.obsidian.png",
     "附件文件夹/Screenshot_20251113_110315_md.obsidian.png",
     "附件文件夹/Screenshot_20251113_105847_mark.via.png",
-    "前端学习/JavaScript/在浏览器中存储数据",
-    "前端学习/JavaScript/二进制数据，文件/未命名.base",
     "附件文件夹/Pasted image 20251111191149.png",
     "附件文件夹/Screenshot_20251111_085521_mark.via.png",
     "附件文件夹/Pasted image 20251110211936.png",
-    "附件文件夹/Pasted image 20251110192603.png",
     "未命名.canvas",
     "未命名 1.canvas",
     "CS61A NOTE/第二单元（新）/Untitled.canvas"
