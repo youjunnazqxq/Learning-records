@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "数据结构",
+      "path": "学校应对/数据结构/数据结构.md"
+    },
+    {
+      "basename": "树",
+      "path": "学校应对/数据结构/二叉树/树.md"
+    },
+    {
+      "basename": "二叉树",
+      "path": "学校应对/数据结构/二叉树/二叉树.md"
+    },
+    {
+      "basename": "学校应对",
+      "path": "学校应对/学校应对.md"
+    },
+    {
+      "basename": "Vault",
+      "path": "Vault.md"
+    },
+    {
       "basename": "路由的两种工作模式  ",
       "path": "前端学习/vue/路由  /路由的两种工作模式  .md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "函数 ",
       "path": "前端学习/JavaScript/JavaScript基础知识/函数 .md"
-    },
-    {
-      "basename": "空值合并运算符 ？？",
-      "path": "前端学习/JavaScript/JavaScript基础知识/空值合并运算符 ？？.md"
-    },
-    {
-      "basename": "逻辑运算符 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/逻辑运算符 .md"
-    },
-    {
-      "basename": "？ 三元运算符 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/？ 三元运算符 .md"
-    },
-    {
-      "basename": "值的比较 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/值的比较 .md"
-    },
-    {
-      "basename": " 数据类型 ",
-      "path": "前端学习/JavaScript/JavaScript基础知识/ 数据类型 .md"
     }
   ],
   "omittedPaths": [],
