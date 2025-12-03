@@ -27,10 +27,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "学校应对/数据结构"
+                "path": "前端学习/vue/路由"
               },
               "icon": "lucide-file",
-              "title": "数据结构"
+              "title": "路由"
             }
           }
         ],
@@ -259,6 +259,8 @@
   },
   "active": "caa7854515e2c155",
   "lastOpenFiles": [
+    "前端学习/vue/vue进阶/vue进阶.md",
+    "前端学习/vue/vuex/vuex.md",
     "学校应对/数据结构/数据结构.md",
     "学校应对/数据结构/二叉树/树.md",
     "学校应对/数据结构/二叉树/二叉树.md",
@@ -268,22 +270,20 @@
     "学校应对/学校应对.md",
     "学校应对",
     "Vault.md",
-    "前端学习/vue/路由  /路由的两种工作模式  .md",
-    "前端学习/vue/路由  /路由守卫.md",
-    "前端学习/vue/路由  /缓存路由组件 .md",
-    "前端学习/vue/路由  /编程式路由 .md",
-    "前端学习/vue/路由  /replace属性 .md",
-    "前端学习/vue/路由  /props参数 .md",
-    "前端学习/vue/路由  /params参数 .md",
-    "前端学习/vue/路由  /命名 .md",
-    "前端学习/vue/路由  /query.md",
-    "前端学习/vue/路由  /嵌套路由 .md",
-    "前端学习/vue/路由  /基本使用 .md",
-    "前端学习/vue/路由  /路由（基本的概念）.md",
-    "前端学习/vue/路由  ",
-    "前端学习/vue/vue进阶/vue进阶.md",
+    "前端学习/vue/路由/路由的两种工作模式  .md",
+    "前端学习/vue/路由/路由守卫.md",
+    "前端学习/vue/路由/缓存路由组件 .md",
+    "前端学习/vue/路由/编程式路由 .md",
+    "前端学习/vue/路由/replace属性 .md",
+    "前端学习/vue/路由/props参数 .md",
+    "前端学习/vue/路由/params参数 .md",
+    "前端学习/vue/路由/命名 .md",
+    "前端学习/vue/路由/query.md",
+    "前端学习/vue/路由/嵌套路由 .md",
+    "前端学习/vue/路由/基本使用 .md",
+    "前端学习/vue/路由/路由（基本的概念）.md",
+    "前端学习/vue/路由",
     "前端学习/vue/未命名.md",
-    "前端学习/vue/vuex/vuex.md",
     "前端学习/vue/vuex/模块化和命名空间 .md",
     "前端学习/vue/vuex/四种map方法 .md",
     "前端学习/vue/vuex/使用过程 .md",
