@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "TypeScript",
+      "path": "前端学习/TypeScript/TypeScript.md"
+    },
+    {
+      "basename": "02_Composition API_其它部分",
+      "path": "前端学习/docs/chapter4/02_Composition API_其它部分.md"
+    },
+    {
+      "basename": "01_Composition API_常用部分",
+      "path": "前端学习/docs/chapter4/01_Composition API_常用部分.md"
+    },
+    {
+      "basename": "02_创建vue3项目",
+      "path": "前端学习/docs/chapter3/02_创建vue3项目.md"
+    },
+    {
+      "basename": "01_认识Vue3",
+      "path": "前端学习/docs/chapter3/01_认识Vue3.md"
+    },
+    {
+      "basename": "泛型 ",
+      "path": "前端学习/TypeScript/泛型 .md"
+    },
+    {
+      "basename": "类 ",
+      "path": "前端学习/TypeScript/类 .md"
+    },
+    {
+      "basename": "函数 ",
+      "path": "前端学习/TypeScript/函数 .md"
+    },
+    {
+      "basename": "接口 ",
+      "path": "前端学习/TypeScript/接口 .md"
+    },
+    {
+      "basename": "类型注解+类型",
+      "path": "前端学习/TypeScript/类型注解+类型.md"
+    },
+    {
       "basename": "树",
       "path": "学校应对/数据结构/二叉树/树.md"
+    },
+    {
+      "basename": "链表",
+      "path": "学校应对/数据结构/期中相关代码/链表.md"
     },
     {
       "basename": "队列",
       "path": "学校应对/数据结构/期中相关代码/队列.md"
     },
     {
+      "basename": "队列 ",
+      "path": "学校应对/数据结构/队列/队列 .md"
+    },
+    {
+      "basename": "链表 ",
+      "path": "学校应对/数据结构/链表/链表 .md"
+    },
+    {
       "basename": "链表",
-      "path": "学校应对/数据结构/期中相关代码/链表.md"
+      "path": "学校应对/数据结构/链表/链表.md"
+    },
+    {
+      "basename": "绪论 ",
+      "path": "学校应对/数据结构/绪论/绪论 .md"
     },
     {
       "basename": "期中相关代码",
@@ -21,20 +77,8 @@
       "path": "学校应对/数据结构/二叉树/二叉树.md"
     },
     {
-      "basename": "队列 ",
-      "path": "学校应对/数据结构/队列/队列 .md"
-    },
-    {
       "basename": "队列",
       "path": "学校应对/数据结构/队列/队列.md"
-    },
-    {
-      "basename": "链表 ",
-      "path": "学校应对/数据结构/链表/链表 .md"
-    },
-    {
-      "basename": "绪论 ",
-      "path": "学校应对/数据结构/绪论/绪论 .md"
     },
     {
       "basename": "数据结构",
@@ -155,50 +199,6 @@
     {
       "basename": "计算属性 ",
       "path": "前端学习/vue/vue基础/计算属性 .md"
-    },
-    {
-      "basename": "脚手架 ",
-      "path": "前端学习/vue/vue基础/脚手架 .md"
-    },
-    {
-      "basename": "插件 ",
-      "path": "前端学习/vue/vue进阶/插件 .md"
-    },
-    {
-      "basename": "vue基础",
-      "path": "前端学习/vue/vue基础/vue基础.md"
-    },
-    {
-      "basename": "动态导入 ",
-      "path": "前端学习/JavaScript/模块/动态导入 .md"
-    },
-    {
-      "basename": "导入和导出  ",
-      "path": "前端学习/JavaScript/模块/导入和导出  .md"
-    },
-    {
-      "basename": "插槽 ",
-      "path": "前端学习/vue/vue进阶/插槽 .md"
-    },
-    {
-      "basename": "脚手架配置代理",
-      "path": "前端学习/vue/vue进阶/脚手架配置代理.md"
-    },
-    {
-      "basename": "全局总线 ",
-      "path": "前端学习/vue/vue进阶/全局总线 .md"
-    },
-    {
-      "basename": "CS61A NOTE",
-      "path": "CS61A NOTE/CS61A NOTE.md"
-    },
-    {
-      "basename": "mixin",
-      "path": "前端学习/vue/vue进阶/mixin.md"
-    },
-    {
-      "basename": "props",
-      "path": "前端学习/vue/vue进阶/props.md"
     }
   ],
   "omittedPaths": [],
