@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "TypeScript",
-      "path": "前端学习/TypeScript/TypeScript.md"
-    },
-    {
-      "basename": "02_Composition API_其它部分",
-      "path": "前端学习/docs/chapter4/02_Composition API_其它部分.md"
-    },
-    {
       "basename": "01_Composition API_常用部分",
       "path": "前端学习/docs/chapter4/01_Composition API_常用部分.md"
+    },
+    {
+      "basename": "02_安装TS",
+      "path": "前端学习/docs/chapter1/02_安装TS.md"
     },
     {
       "basename": "02_创建vue3项目",
@@ -19,6 +15,14 @@
     {
       "basename": "01_认识Vue3",
       "path": "前端学习/docs/chapter3/01_认识Vue3.md"
+    },
+    {
+      "basename": "TypeScript",
+      "path": "前端学习/TypeScript/TypeScript.md"
+    },
+    {
+      "basename": "02_Composition API_其它部分",
+      "path": "前端学习/docs/chapter4/02_Composition API_其它部分.md"
     },
     {
       "basename": "泛型 ",
@@ -195,10 +199,6 @@
     {
       "basename": "自定义指令 ",
       "path": "前端学习/vue/vue基础/自定义指令 .md"
-    },
-    {
-      "basename": "计算属性 ",
-      "path": "前端学习/vue/vue基础/计算属性 .md"
     }
   ],
   "omittedPaths": [],
