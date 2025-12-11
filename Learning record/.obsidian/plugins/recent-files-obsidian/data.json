@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "to的写法 ",
+      "path": "前端学习/Vue3/路由/to的写法 .md"
+    },
+    {
+      "basename": "路由的创建",
+      "path": "前端学习/Vue3/路由/路由的创建.md"
+    },
+    {
+      "basename": "路由的工作模式 ",
+      "path": "前端学习/Vue3/路由/路由的工作模式 .md"
+    },
+    {
       "basename": "Vue3快速上手",
       "path": "前端学习/Vue3快速上手.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "使用过程 ",
       "path": "前端学习/vue/vuex/使用过程 .md"
-    },
-    {
-      "basename": "getter ",
-      "path": "前端学习/vue/vuex/getter .md"
-    },
-    {
-      "basename": "vuex的流程解析 ",
-      "path": "前端学习/vue/vuex/vuex的流程解析 .md"
     }
   ],
   "omittedPaths": [],
