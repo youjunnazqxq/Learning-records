@@ -1,108 +1,139 @@
-Vue3 Hook 核心总结（作用+实例）
- 
-Vue3 的 Hook（自定义钩子） 是基于 Composition API 封装的可复用响应式逻辑函数（命名需以 use 开头），核心解决 Options API 中逻辑复用难、代码分散的问题。
- 
-一、Hook 核心作用
- 
-- 逻辑复用：抽取计数器、数据请求等重复响应式逻辑，多组件直接调用，避免重复编码。
-- 逻辑聚合：将组件内分散的关联逻辑（如请求数据+加载状态+错误处理）聚合到单个 Hook，提升可读性。
-- 替代 mixins：解决 mixins 命名冲突、逻辑来源模糊的问题，Hook 返回值明确，逻辑归属清晰。
- 
-二、实战实例（基于  <script setup>  语法）
- 
-实例 1：基础计数器 Hook -  useCounter 
- 
-1.1 编写 Hook（ src/hooks/useCounter.js ）
- 
-javascript
-  
-import { ref } from 'vue'
 
-// 接收初始计数，返回响应式状态与操作方法
-export function useCounter(initialValue = 0) {
-  const count = ref(initialValue) // 响应式计数
-  const increment = () => count.value++ // 递增
-  const decrement = () => count.value > 0 && count.value-- // 递减（防负）
-  const reset = () => count.value = initialValue // 重置
+# 🧩 Vue 3: Composables (自定义 Hooks) 核心速查
 
-  return { count, increment, decrement, reset }
-}
- 
- 
-1.2 组件中使用
- 
-vue
-  
-<script setup>
-import { useCounter } from '@/hooks/useCounter'
-// 调用 Hook，传入初始值 10
-const { count, increment, decrement, reset } = useCounter(10)
-</script>
+## 1. 🧠 核心心智模型 (Mental Model)
 
-<template>
-  <p>当前计数：{{ count }}</p>
-  <button @click="increment">+1</button>
-  <button @click="decrement">-1</button>
-  <button @click="reset">重置</button>
-</template>
- 
- 
-实例 2：数据请求 Hook -  useFetch 
- 
-2.1 编写 Hook（ src/hooks/useFetch.js ）
- 
-javascript
-  
+- **定义**：本质是一个**函数**。它将 `setup` 中使用的 Composition API（Ref, Reactive, Computed, Watch, Lifecycle）封装在一起。
+    
+- **作用**：**逻辑复用**。
+    
+    - 将 UI (Template) 与 逻辑 (Script) 分离。
+        
+    - 解决 Vue 2 `Mixin` 的命名冲突和来源不清问题。
+        
+- **命名规范**：通常以 `use` 开头，例如 `useUser`, `useScroll`。
+    
+
+---
+
+## 2. ⚡ 标准代码模板 (Copy-Paste Ready)
+
+### 2.1 定义 Hook (封装逻辑)
+
+> 场景：我们把“加法计算”和“获取狗狗图片”的逻辑分别提取出来。
+
+**📂 hooks/useSum.ts (同步逻辑示例)**
+
+TypeScript
+
+```
 import { ref, onMounted } from 'vue'
 
-// 接收请求地址，返回数据、状态与请求方法
-export function useFetch(url) {
-  const data = ref(null)    // 响应数据
-  const loading = ref(false)// 加载状态
-  const error = ref(null)   // 错误信息
+export default function() {
+  // 1. 定义数据 (State)
+  let sum = ref(0)
 
-  // 核心请求逻辑
-  const fetchData = async () => {
-    loading.value = true
+  // 2. 定义操作数据的方法 (Action)
+  const increment = () => { sum.value += 1 }
+  const decrement = () => { sum.value -= 1 }
+
+  // 3. 使用生命周期钩子
+  onMounted(() => {
+    increment()
+  })
+
+  // 4. 【关键】向外部暴露数据和方法
+  return { sum, increment, decrement }
+}
+```
+
+**📂 hooks/useDog.ts (异步逻辑示例)**
+
+TypeScript
+
+```
+import { reactive, onMounted } from 'vue'
+import axios, { type AxiosError } from 'axios'
+
+export default function() {
+  // 1. 定义数据
+  let dogList = reactive<string[]>([])
+
+  // 2. 定义异步方法
+  async function getDog() {
     try {
-      const res = await fetch(url)
-      if (!res.ok) throw new Error(`请求失败：${res.status}`)
-      data.value = await res.json()
-    } catch (err) {
-      error.value = err.message
-    } finally {
-      loading.value = false
+      // 发请求
+      let { data } = await axios.get('https://dog.ceo/api/breed/pembroke/images/random')
+      // 维护数据
+      dogList.push(data.message)
+    } catch (error) {
+      const err = <AxiosError>error
+      console.log(err.message)
     }
   }
 
-  onMounted(() => fetchData()) // 组件挂载后自动请求
-
-  return { data, loading, error, fetchData }
-}
- 
- 
-2.2 组件中使用
- 
-vue
+  // 3. 挂载时自动调用
+  onMounted(() => {
+    getDog()
+  })
   
-<script setup>
-import { useFetch } from '@/hooks/useFetch'
-// 调用 Hook，重命名 data 为 userList（语义化）
-const { data: userList, loading, error, fetchData } = useFetch('https://jsonplaceholder.typicode.com/users')
+  // 4. 暴露给组件
+  return { dogList, getDog }
+}
+```
+
+### 2.2 组件中使用 (复用逻辑)
+
+在组件中，这看起来非常像 React 的 Hooks 写法。
+
+**📄 App.vue**
+
+代码段
+
+```
+<script setup lang="ts">
+  // 1. 引入 Hooks
+  import useSum from './hooks/useSum'
+  import useDog from './hooks/useDog'
+  
+  // 2. 执行函数并解构返回值 (就像解构 ref 一样自然)
+  const { sum, increment, decrement } = useSum()
+  const { dogList, getDog } = useDog()
 </script>
 
 <template>
-  <div v-if="loading">加载中...</div>
-  <div v-else-if="error" style="color: red;">{{ error }}</div>
-  <ul v-else>
-    <li v-for="user in userList" :key="user.id">{{ user.name }}</li>
-  </ul>
-  <button @click="fetchData" style="margin-top: 12px;">刷新列表</button>
+  <div>
+    <h2>当前求和: {{ sum }}</h2>
+    <button @click="increment">+1</button>
+    <button @click="decrement">-1</button>
+    
+    <hr>
+    
+    <img v-for="(url, index) in dogList" :key="index" :src="url" style="height: 100px; margin-right: 10px;">
+    <button @click="getDog">再来一只狗</button>
+  </div>
 </template>
- 
- 
-三、使用注意事项
- 
-- 命名规范：必须以 use 开头（如 useStorage 、 useWindowSize ），便于识别和 IDE 语法提示。
-- 调用限制：仅能在  <script setup>  或其他自定义 Hook 中调用，不可在普通函数、模板内直接使用。
-- 响应式依赖：Hook 内部需依赖 Vue 响应式 API（ ref / reactive ）和生命周期 API（ onMounted 等），确保逻辑响应式。
+```
+
+---
+
+## 3. ⚖️ 核心对比：Hook vs Mixin (Interview)
+
+这是面试中关于“为什么升级 Vue 3”的高频考点。
+
+|**维度**|**Vue 3 Composables (Hook) 🏆**|**Vue 2 Mixins**|
+|---|---|---|
+|**数据来源**|**清晰**。`const { x } = useX()`，一眼便知 `x` 来自哪里。|**模糊**。`this.x` 是来自组件本身还是哪个 Mixin？很难找。|
+|**命名冲突**|**无**。可以在解构时重命名：`const { x: x1 } = useX()`。|**有**。如果两个 Mixin 都有 `data.x`，会发生覆盖冲突。|
+|**逻辑复用**|极其灵活，可以传递参数给 Hook。|较僵硬，参数传递依赖约定的属性。|
+
+---
+
+## 4. 🛑 最佳实践 (Best Practices)
+
+1. **单一职责**：一个 Hook 最好只做一件事（例如 `useLocalStorage`, `useMousePosition`）。
+    
+2. **返回值**：建议始终返回一个**对象**，以便使用方进行解构。
+    
+3. **Ref 解包**：Hook 返回的数据通常是 `ref` 或 `reactive`，组件拿到后保持响应性，可以像普通响应式数据一样传递给子组件或在模板使用。
+    
