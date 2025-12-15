@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Anxios ",
+      "path": "前端学习/Vue3/网络请求/Anxios .md"
+    },
+    {
+      "basename": "网络请求",
+      "path": "前端学习/Vue3/网络请求/网络请求.md"
+    },
+    {
+      "basename": "存储+读取数据",
+      "path": "前端学习/Vue3/状态管理/pinia/存储+读取数据.md"
+    },
+    {
+      "basename": "搭建pinia环境",
+      "path": "前端学习/Vue3/状态管理/pinia/搭建pinia环境.md"
+    },
+    {
+      "basename": "props",
+      "path": "前端学习/Vue3/状态管理/props.md"
+    },
+    {
+      "basename": "mitt",
+      "path": "前端学习/Vue3/状态管理/mitt.md"
+    },
+    {
+      "basename": "emit",
+      "path": "前端学习/Vue3/状态管理/emit.md"
+    },
+    {
+      "basename": "嵌套路由",
+      "path": "前端学习/Vue3/路由/嵌套路由.md"
+    },
+    {
+      "basename": "getter（computers）",
+      "path": "前端学习/Vue3/状态管理/pinia/getter（computers）.md"
+    },
+    {
+      "basename": "stortToRefs",
+      "path": "前端学习/Vue3/状态管理/pinia/stortToRefs.md"
+    },
+    {
+      "basename": "修改数据",
+      "path": "前端学习/Vue3/状态管理/pinia/修改数据.md"
+    },
+    {
+      "basename": "路由的props配置",
+      "path": "前端学习/Vue3/路由/路由的props配置.md"
+    },
+    {
+      "basename": "命名路由",
+      "path": "前端学习/Vue3/路由/命名路由.md"
+    },
+    {
+      "basename": "路由的传参",
+      "path": "前端学习/Vue3/路由/路由的传参.md"
+    },
+    {
       "basename": "to的写法 ",
       "path": "前端学习/Vue3/路由/to的写法 .md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "路由的两种工作模式  ",
       "path": "前端学习/vue/路由/路由的两种工作模式  .md"
-    },
-    {
-      "basename": "路由守卫",
-      "path": "前端学习/vue/路由/路由守卫.md"
-    },
-    {
-      "basename": "缓存路由组件 ",
-      "path": "前端学习/vue/路由/缓存路由组件 .md"
-    },
-    {
-      "basename": "编程式路由 ",
-      "path": "前端学习/vue/路由/编程式路由 .md"
-    },
-    {
-      "basename": "replace属性 ",
-      "path": "前端学习/vue/路由/replace属性 .md"
-    },
-    {
-      "basename": "props参数 ",
-      "path": "前端学习/vue/路由/props参数 .md"
-    },
-    {
-      "basename": "params参数 ",
-      "path": "前端学习/vue/路由/params参数 .md"
-    },
-    {
-      "basename": "命名 ",
-      "path": "前端学习/vue/路由/命名 .md"
-    },
-    {
-      "basename": "query",
-      "path": "前端学习/vue/路由/query.md"
-    },
-    {
-      "basename": "嵌套路由 ",
-      "path": "前端学习/vue/路由/嵌套路由 .md"
-    },
-    {
-      "basename": "基本使用 ",
-      "path": "前端学习/vue/路由/基本使用 .md"
-    },
-    {
-      "basename": "路由（基本的概念）",
-      "path": "前端学习/vue/路由/路由（基本的概念）.md"
-    },
-    {
-      "basename": "模块化和命名空间 ",
-      "path": "前端学习/vue/vuex/模块化和命名空间 .md"
-    },
-    {
-      "basename": "四种map方法 ",
-      "path": "前端学习/vue/vuex/四种map方法 .md"
-    },
-    {
-      "basename": "使用过程 ",
-      "path": "前端学习/vue/vuex/使用过程 .md"
     }
   ],
   "omittedPaths": [],
