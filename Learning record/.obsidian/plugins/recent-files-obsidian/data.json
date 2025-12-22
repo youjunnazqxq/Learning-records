@@ -1,12 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Anxios ",
-      "path": "前端学习/Vue3/网络请求/Anxios .md"
+      "basename": "解析项目的顺序 ",
+      "path": "前端学习/geek-admin/解析项目的顺序 .md"
+    },
+    {
+      "basename": "Pinia",
+      "path": "前端学习/geek-admin/组件间的状态管理/Pinia.md"
+    },
+    {
+      "basename": "导入和导出  ",
+      "path": "前端学习/JavaScript/模块/导入和导出  .md"
+    },
+    {
+      "basename": "Modoule",
+      "path": "前端学习/JavaScript/模块/Modoule.md"
+    },
+    {
+      "basename": "axios的解耦 ",
+      "path": "前端学习/geek-admin/网络请求axios/axios的解耦 .md"
+    },
+    {
+      "basename": "axios的封装 ",
+      "path": "前端学习/geek-admin/网络请求axios/axios的封装 .md"
+    },
+    {
+      "basename": "axios实例 ",
+      "path": "前端学习/geek-admin/网络请求axios/axios实例 .md"
+    },
+    {
+      "basename": "axios的基本使用",
+      "path": "前端学习/geek-admin/网络请求axios/axios的基本使用.md"
+    },
+    {
+      "basename": "登录 login",
+      "path": "前端学习/geek-admin/登录 login/登录 login.md"
+    },
+    {
+      "basename": "axios ",
+      "path": "前端学习/geek-admin/登录 login/网络请求/axios .md"
+    },
+    {
+      "basename": "el-form-item",
+      "path": "前端学习/geek-admin/Element Plus/el-form-item.md"
+    },
+    {
+      "basename": "el-icon",
+      "path": "前端学习/geek-admin/Element Plus/el-icon.md"
+    },
+    {
+      "basename": "el -input",
+      "path": "前端学习/geek-admin/Element Plus/el -input.md"
+    },
+    {
+      "basename": "el-form",
+      "path": "前端学习/geek-admin/Element Plus/el-form.md"
     },
     {
       "basename": "网络请求",
       "path": "前端学习/Vue3/网络请求/网络请求.md"
+    },
+    {
+      "basename": "插槽 ",
+      "path": "前端学习/vue/vue进阶/插槽 .md"
+    },
+    {
+      "basename": "el部分 ",
+      "path": "前端学习/geek-admin/登录 login/el部分 .md"
+    },
+    {
+      "basename": "v-bind ",
+      "path": "前端学习/geek-admin/登录 login/v-bind .md"
+    },
+    {
+      "basename": "Element Plus",
+      "path": "前端学习/geek-admin/Element Plus/Element Plus.md"
+    },
+    {
+      "basename": "props",
+      "path": "前端学习/Vue3/组件/组合式API/props.md"
+    },
+    {
+      "basename": "收集表单中的数据 ",
+      "path": "前端学习/vue/vue基础/收集表单中的数据 .md"
+    },
+    {
+      "basename": "vue响应式",
+      "path": "前端学习/vue/vue基础/vue响应式.md"
+    },
+    {
+      "basename": "geek-admin",
+      "path": "前端学习/geek-admin/geek-admin.md"
+    },
+    {
+      "basename": "各个文件夹的作用 ",
+      "path": "前端学习/geek-admin/各个文件夹的作用 .md"
+    },
+    {
+      "basename": "项目的启动 ",
+      "path": "前端学习/geek-admin/项目的启动 .md"
+    },
+    {
+      "basename": "TypeScript",
+      "path": "前端学习/TypeScript/TypeScript.md"
+    },
+    {
+      "basename": "Anxios ",
+      "path": "前端学习/Vue3/网络请求/Anxios .md"
     },
     {
       "basename": "存储+读取数据",
@@ -85,10 +185,6 @@
       "path": "前端学习/Vue3/组件/组合式API/自定义hook函数.md"
     },
     {
-      "basename": "props",
-      "path": "前端学习/Vue3/组件/组合式API/props.md"
-    },
-    {
       "basename": "监视属性",
       "path": "前端学习/Vue3/组件/组合式API/监视属性.md"
     },
@@ -103,102 +199,6 @@
     {
       "basename": "Proxy Reflect",
       "path": "前端学习/JavaScript/杂项/Proxy Reflect.md"
-    },
-    {
-      "basename": "ref",
-      "path": "前端学习/Vue3/组件/组合式API/ref.md"
-    },
-    {
-      "basename": "setup",
-      "path": "前端学习/Vue3/组件/组合式API/setup.md"
-    },
-    {
-      "basename": "TypeScript",
-      "path": "前端学习/TypeScript/TypeScript.md"
-    },
-    {
-      "basename": "泛型 ",
-      "path": "前端学习/TypeScript/泛型 .md"
-    },
-    {
-      "basename": "类 ",
-      "path": "前端学习/TypeScript/类 .md"
-    },
-    {
-      "basename": "函数 ",
-      "path": "前端学习/TypeScript/函数 .md"
-    },
-    {
-      "basename": "接口 ",
-      "path": "前端学习/TypeScript/接口 .md"
-    },
-    {
-      "basename": "类型注解+类型",
-      "path": "前端学习/TypeScript/类型注解+类型.md"
-    },
-    {
-      "basename": "树",
-      "path": "学校应对/数据结构/二叉树/树.md"
-    },
-    {
-      "basename": "链表",
-      "path": "学校应对/数据结构/期中相关代码/链表.md"
-    },
-    {
-      "basename": "队列",
-      "path": "学校应对/数据结构/期中相关代码/队列.md"
-    },
-    {
-      "basename": "队列 ",
-      "path": "学校应对/数据结构/队列/队列 .md"
-    },
-    {
-      "basename": "链表 ",
-      "path": "学校应对/数据结构/链表/链表 .md"
-    },
-    {
-      "basename": "链表",
-      "path": "学校应对/数据结构/链表/链表.md"
-    },
-    {
-      "basename": "绪论 ",
-      "path": "学校应对/数据结构/绪论/绪论 .md"
-    },
-    {
-      "basename": "期中相关代码",
-      "path": "学校应对/数据结构/期中相关代码/期中相关代码.md"
-    },
-    {
-      "basename": "二叉树",
-      "path": "学校应对/数据结构/二叉树/二叉树.md"
-    },
-    {
-      "basename": "队列",
-      "path": "学校应对/数据结构/队列/队列.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "学校应对/数据结构/数据结构.md"
-    },
-    {
-      "basename": "vue进阶",
-      "path": "前端学习/vue/vue进阶/vue进阶.md"
-    },
-    {
-      "basename": "vuex",
-      "path": "前端学习/vue/vuex/vuex.md"
-    },
-    {
-      "basename": "学校应对",
-      "path": "学校应对/学校应对.md"
-    },
-    {
-      "basename": "Vault",
-      "path": "Vault.md"
-    },
-    {
-      "basename": "路由的两种工作模式  ",
-      "path": "前端学习/vue/路由/路由的两种工作模式  .md"
     }
   ],
   "omittedPaths": [],
