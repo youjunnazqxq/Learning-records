@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "布尔代数 ",
+      "path": "学校应对/计算机组成原理 /day2 布尔代数与电路图/布尔代数 .md"
+    },
+    {
+      "basename": "计算机组成原理-复习计划 ",
+      "path": "学校应对/计算机组成原理 /计算机组成原理-复习计划 .md"
+    },
+    {
+      "basename": "day1 浮点数转换 不恢复余数除法",
+      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/day1 浮点数转换 不恢复余数除法.md"
+    },
+    {
+      "basename": "不恢复余数除法",
+      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/不恢复余数除法.md"
+    },
+    {
+      "basename": "进制的转换 ",
+      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/进制的转换 .md"
+    },
+    {
+      "basename": "浮点数转换",
+      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/浮点数转换.md"
+    },
+    {
+      "basename": "二叉树",
+      "path": "学校应对/数据结构/二叉树/二叉树.md"
+    },
+    {
+      "basename": "学校应对",
+      "path": "学校应对/学校应对.md"
+    },
+    {
+      "basename": "命名限制 ",
+      "path": "前端学习/geek-admin/登录 login/命名限制 .md"
+    },
+    {
+      "basename": "登录 login",
+      "path": "前端学习/geek-admin/登录 login/登录 login.md"
+    },
+    {
+      "basename": "项目的启动 ",
+      "path": "前端学习/geek-admin/项目的启动 .md"
+    },
+    {
       "basename": "解析项目的顺序 ",
       "path": "前端学习/geek-admin/解析项目的顺序 .md"
     },
@@ -31,10 +75,6 @@
     {
       "basename": "axios的基本使用",
       "path": "前端学习/geek-admin/网络请求axios/axios的基本使用.md"
-    },
-    {
-      "basename": "登录 login",
-      "path": "前端学习/geek-admin/登录 login/登录 login.md"
     },
     {
       "basename": "axios ",
@@ -97,10 +137,6 @@
       "path": "前端学习/geek-admin/各个文件夹的作用 .md"
     },
     {
-      "basename": "项目的启动 ",
-      "path": "前端学习/geek-admin/项目的启动 .md"
-    },
-    {
       "basename": "TypeScript",
       "path": "前端学习/TypeScript/TypeScript.md"
     },
@@ -159,46 +195,6 @@
     {
       "basename": "to的写法 ",
       "path": "前端学习/Vue3/路由/to的写法 .md"
-    },
-    {
-      "basename": "路由的创建",
-      "path": "前端学习/Vue3/路由/路由的创建.md"
-    },
-    {
-      "basename": "路由的工作模式 ",
-      "path": "前端学习/Vue3/路由/路由的工作模式 .md"
-    },
-    {
-      "basename": "Vue3快速上手",
-      "path": "前端学习/Vue3快速上手.md"
-    },
-    {
-      "basename": "生命周期 ",
-      "path": "前端学习/Vue3/组件/组合式API/生命周期 .md"
-    },
-    {
-      "basename": "template refs",
-      "path": "前端学习/Vue3/组件/组合式API/template refs.md"
-    },
-    {
-      "basename": "自定义hook函数",
-      "path": "前端学习/Vue3/组件/组合式API/自定义hook函数.md"
-    },
-    {
-      "basename": "监视属性",
-      "path": "前端学习/Vue3/组件/组合式API/监视属性.md"
-    },
-    {
-      "basename": "计算属性与监视",
-      "path": "前端学习/Vue3/组件/组合式API/计算属性与监视.md"
-    },
-    {
-      "basename": "reactive",
-      "path": "前端学习/Vue3/组件/组合式API/reactive.md"
-    },
-    {
-      "basename": "Proxy Reflect",
-      "path": "前端学习/JavaScript/杂项/Proxy Reflect.md"
     }
   ],
   "omittedPaths": [],
