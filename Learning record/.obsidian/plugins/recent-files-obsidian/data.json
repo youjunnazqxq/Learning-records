@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "布尔代数 ",
-      "path": "学校应对/计算机组成原理 /day2 布尔代数与电路图/布尔代数 .md"
+      "basename": "大小端",
+      "path": "学校应对/计算机组成原理 /day4 /大小端.md"
     },
     {
       "basename": "计算机组成原理-复习计划 ",
       "path": "学校应对/计算机组成原理 /计算机组成原理-复习计划 .md"
+    },
+    {
+      "basename": "day3 Cache映射",
+      "path": "学校应对/计算机组成原理 /day3 Cache映射/day3 Cache映射.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "学校应对/计算机组成原理 /day3 Cache映射/Untitled.md"
+    },
+    {
+      "basename": "cache映射",
+      "path": "学校应对/计算机组成原理 /day3 Cache映射/cache映射.md"
+    },
+    {
+      "basename": "真值表转布尔",
+      "path": "学校应对/计算机组成原理 /day2 布尔代数与电路图/真值表转布尔.md"
+    },
+    {
+      "basename": "状态机",
+      "path": "学校应对/计算机组成原理 /day2 布尔代数与电路图/状态机.md"
+    },
+    {
+      "basename": "布尔代数 ",
+      "path": "学校应对/计算机组成原理 /day2 布尔代数与电路图/布尔代数 .md"
+    },
+    {
+      "basename": "浮点数转换",
+      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/浮点数转换.md"
     },
     {
       "basename": "day1 浮点数转换 不恢复余数除法",
@@ -19,10 +47,6 @@
     {
       "basename": "进制的转换 ",
       "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/进制的转换 .md"
-    },
-    {
-      "basename": "浮点数转换",
-      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/浮点数转换.md"
     },
     {
       "basename": "二叉树",
@@ -175,26 +199,6 @@
     {
       "basename": "stortToRefs",
       "path": "前端学习/Vue3/状态管理/pinia/stortToRefs.md"
-    },
-    {
-      "basename": "修改数据",
-      "path": "前端学习/Vue3/状态管理/pinia/修改数据.md"
-    },
-    {
-      "basename": "路由的props配置",
-      "path": "前端学习/Vue3/路由/路由的props配置.md"
-    },
-    {
-      "basename": "命名路由",
-      "path": "前端学习/Vue3/路由/命名路由.md"
-    },
-    {
-      "basename": "路由的传参",
-      "path": "前端学习/Vue3/路由/路由的传参.md"
-    },
-    {
-      "basename": "to的写法 ",
-      "path": "前端学习/Vue3/路由/to的写法 .md"
     }
   ],
   "omittedPaths": [],
