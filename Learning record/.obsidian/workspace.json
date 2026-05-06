@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/前端八股/js/10 js原型，原型链？有什么特点？.md",
+                "file": "前端学习/前端八股/js/typeof 和instancdof的区别.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 js原型，原型链？有什么特点？"
+              "title": "typeof 和instancdof的区别"
             }
           }
         ]
@@ -244,10 +244,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "080894fe9f6aa073",
+  "active": "51a48665d4599ba4",
   "lastOpenFiles": [
-    "前端学习/前端八股/js/9 谈谈你对作用域的理解.md",
+    "前端学习/前端八股/js/14 js中的事件模型.md",
+    "前端学习/前端八股/js/typeof 和instancdof的区别.md",
+    "前端学习/前端八股/js/13 js中执行上下文和执行栈是什么.md",
+    "前端学习/前端八股/js/12 this指向问题.md",
+    "前端学习/前端八股/js/11 继承.md",
     "前端学习/前端八股/js/10 js原型，原型链？有什么特点？.md",
+    "前端学习/前端八股/js/9 谈谈你对作用域的理解.md",
     "前端学习/前端八股/js/.md",
     "前端学习/前端八股/js/8 闭包.md",
     "前端学习/前端八股/js/6 == 和===的区别.md",
@@ -271,13 +276,8 @@
     "前后端交互/前后端交互.md",
     "前后端交互",
     "前端学习/前端八股/js/js.md",
-    "前端学习/五大件的思考/页面/layout/主题的编写/el-switch.md",
     "前端学习/前端八股/js",
-    "前端学习/前端八股/前端八股.md",
     "前端学习/前端八股",
-    "前端学习/五大件的思考/页面/layout/主题的编写/el-color-picker.md",
-    "前端学习/五大件的思考/页面/layout/主题的编写/el-drawer.md",
-    "前端学习/五大件的思考/页面/layout/主题的编写/主题的编写.md",
     "前端学习/五大件的思考/页面/layout/主题的编写",
     "前端学习/五大件的思考/组件之间的通信/mittBus",
     "前端学习/五大件的思考/页面/布局",

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "typeof 和instancdof的区别",
+      "path": "前端学习/前端八股/js/typeof 和instancdof的区别.md"
+    },
+    {
+      "basename": "14 js中的事件模型",
+      "path": "前端学习/前端八股/js/14 js中的事件模型.md"
+    },
+    {
+      "basename": "13 js中执行上下文和执行栈是什么",
+      "path": "前端学习/前端八股/js/13 js中执行上下文和执行栈是什么.md"
+    },
+    {
+      "basename": "12 this指向问题",
+      "path": "前端学习/前端八股/js/12 this指向问题.md"
+    },
+    {
+      "basename": "11 继承",
+      "path": "前端学习/前端八股/js/11 继承.md"
+    },
+    {
       "basename": "10 js原型，原型链？有什么特点？",
       "path": "前端学习/前端八股/js/10 js原型，原型链？有什么特点？.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "具名插槽",
       "path": "前端学习/五大件的思考/页面/插槽/具名插槽.md"
-    },
-    {
-      "basename": "插槽",
-      "path": "前端学习/五大件的思考/页面/插槽/插槽.md"
-    },
-    {
-      "basename": "maxize",
-      "path": "前端学习/五大件的思考/页面/layout/header/maxize/maxize.md"
-    },
-    {
-      "basename": "el-tooltip",
-      "path": "前端学习/五大件的思考/页面/layout/header/maxize/el-tooltip.md"
-    },
-    {
-      "basename": "固定定位 ",
-      "path": "前端学习/五大件的思考/页面/css编写/定位/固定定位 .md"
-    },
-    {
-      "basename": "定位",
-      "path": "前端学习/五大件的思考/页面/css编写/定位/定位.md"
     }
   ],
   "omittedPaths": [],
