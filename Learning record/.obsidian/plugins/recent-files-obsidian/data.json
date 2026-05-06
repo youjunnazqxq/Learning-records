@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "大小端",
-      "path": "学校应对/计算机组成原理 /day4 /大小端.md"
+      "basename": "10 js原型，原型链？有什么特点？",
+      "path": "前端学习/前端八股/js/10 js原型，原型链？有什么特点？.md"
     },
     {
-      "basename": "计算机组成原理-复习计划 ",
-      "path": "学校应对/计算机组成原理 /计算机组成原理-复习计划 .md"
+      "basename": "9 谈谈你对作用域的理解",
+      "path": "前端学习/前端八股/js/9 谈谈你对作用域的理解.md"
     },
     {
-      "basename": "day3 Cache映射",
-      "path": "学校应对/计算机组成原理 /day3 Cache映射/day3 Cache映射.md"
+      "basename": "8 闭包",
+      "path": "前端学习/前端八股/js/8 闭包.md"
     },
     {
-      "basename": "Untitled",
-      "path": "学校应对/计算机组成原理 /day3 Cache映射/Untitled.md"
+      "basename": "6 == 和===的区别",
+      "path": "前端学习/前端八股/js/6 == 和===的区别.md"
     },
     {
-      "basename": "cache映射",
-      "path": "学校应对/计算机组成原理 /day3 Cache映射/cache映射.md"
+      "basename": "4类型转换机制",
+      "path": "前端学习/前端八股/js/4类型转换机制.md"
     },
     {
-      "basename": "真值表转布尔",
-      "path": "学校应对/计算机组成原理 /day2 布尔代数与电路图/真值表转布尔.md"
+      "basename": "3字符串方法",
+      "path": "前端学习/前端八股/js/3字符串方法.md"
     },
     {
-      "basename": "状态机",
-      "path": "学校应对/计算机组成原理 /day2 布尔代数与电路图/状态机.md"
+      "basename": "2数组常见的方法",
+      "path": "前端学习/前端八股/js/2数组常见的方法.md"
     },
     {
-      "basename": "布尔代数 ",
-      "path": "学校应对/计算机组成原理 /day2 布尔代数与电路图/布尔代数 .md"
+      "basename": "1数据类型以及存储上的区别",
+      "path": "前端学习/前端八股/js/1数据类型以及存储上的区别.md"
     },
     {
-      "basename": "浮点数转换",
-      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/浮点数转换.md"
+      "basename": "7 深拷贝和浅拷贝的区别",
+      "path": "前端学习/前端八股/js/7 深拷贝和浅拷贝的区别.md"
     },
     {
-      "basename": "day1 浮点数转换 不恢复余数除法",
-      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/day1 浮点数转换 不恢复余数除法.md"
+      "basename": "5对象在转换为基本类型，底层的具体过程",
+      "path": "前端学习/前端八股/js/5对象在转换为基本类型，底层的具体过程.md"
     },
     {
-      "basename": "不恢复余数除法",
-      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/不恢复余数除法.md"
+      "basename": "el-table",
+      "path": "前端学习/五大件的思考/组件/ProTable/el-table.md"
     },
     {
-      "basename": "进制的转换 ",
-      "path": "学校应对/计算机组成原理 /day1 浮点数转换 不恢复余数除法/进制的转换 .md"
+      "basename": "接口",
+      "path": "前端学习/五大件的思考/组件/ProTable/接口.md"
     },
     {
-      "basename": "二叉树",
-      "path": "学校应对/数据结构/二叉树/二叉树.md"
+      "basename": "ProTable",
+      "path": "前端学习/五大件的思考/组件/ProTable/ProTable.md"
     },
     {
-      "basename": "学校应对",
-      "path": "学校应对/学校应对.md"
+      "basename": "五大件的思考",
+      "path": "前端学习/五大件的思考/五大件的思考.md"
     },
     {
-      "basename": "命名限制 ",
-      "path": "前端学习/geek-admin/登录 login/命名限制 .md"
+      "basename": "页面",
+      "path": "前端学习/五大件的思考/页面/页面.md"
     },
     {
-      "basename": "登录 login",
-      "path": "前端学习/geek-admin/登录 login/登录 login.md"
+      "basename": "常见语法",
+      "path": "前后端交互/数据库/常见语法.md"
     },
     {
-      "basename": "项目的启动 ",
-      "path": "前端学习/geek-admin/项目的启动 .md"
+      "basename": "js",
+      "path": "前端学习/前端八股/js/js.md"
     },
     {
-      "basename": "解析项目的顺序 ",
-      "path": "前端学习/geek-admin/解析项目的顺序 .md"
+      "basename": "el-switch",
+      "path": "前端学习/五大件的思考/页面/layout/主题的编写/el-switch.md"
     },
     {
-      "basename": "Pinia",
-      "path": "前端学习/geek-admin/组件间的状态管理/Pinia.md"
+      "basename": "el-color-picker",
+      "path": "前端学习/五大件的思考/页面/layout/主题的编写/el-color-picker.md"
     },
     {
-      "basename": "导入和导出  ",
-      "path": "前端学习/JavaScript/模块/导入和导出  .md"
+      "basename": "el-drawer",
+      "path": "前端学习/五大件的思考/页面/layout/主题的编写/el-drawer.md"
     },
     {
-      "basename": "Modoule",
-      "path": "前端学习/JavaScript/模块/Modoule.md"
+      "basename": "layout",
+      "path": "前端学习/五大件的思考/页面/layout/layout.md"
     },
     {
-      "basename": "axios的解耦 ",
-      "path": "前端学习/geek-admin/网络请求axios/axios的解耦 .md"
+      "basename": "基本通信",
+      "path": "前端学习/五大件的思考/组件之间的通信/mittBus/基本通信.md"
     },
     {
-      "basename": "axios的封装 ",
-      "path": "前端学习/geek-admin/网络请求axios/axios的封装 .md"
+      "basename": "路由",
+      "path": "前端学习/五大件的思考/路由/路由.md"
     },
     {
-      "basename": "axios实例 ",
-      "path": "前端学习/geek-admin/网络请求axios/axios实例 .md"
+      "basename": "组件之间的通信",
+      "path": "前端学习/五大件的思考/组件之间的通信/组件之间的通信.md"
     },
     {
-      "basename": "axios的基本使用",
-      "path": "前端学习/geek-admin/网络请求axios/axios的基本使用.md"
+      "basename": "ThemeDrawer",
+      "path": "前端学习/五大件的思考/页面/ThemeDrawer/ThemeDrawer.md"
     },
     {
-      "basename": "axios ",
-      "path": "前端学习/geek-admin/登录 login/网络请求/axios .md"
+      "basename": "var",
+      "path": "前端学习/五大件的思考/页面/css编写/定义颜色/var.md"
     },
     {
-      "basename": "el-form-item",
-      "path": "前端学习/geek-admin/Element Plus/el-form-item.md"
+      "basename": "setAttribute",
+      "path": "前端学习/五大件的思考/typescript/DOM操控的方法/setAttribute.md"
     },
     {
-      "basename": "el-icon",
-      "path": "前端学习/geek-admin/Element Plus/el-icon.md"
+      "basename": "parseInt",
+      "path": "前端学习/五大件的思考/typescript/进制的转换/parseInt.md"
     },
     {
-      "basename": "el -input",
-      "path": "前端学习/geek-admin/Element Plus/el -input.md"
+      "basename": "match",
+      "path": "前端学习/五大件的思考/typescript/字符串/match.md"
     },
     {
-      "basename": "el-form",
-      "path": "前端学习/geek-admin/Element Plus/el-form.md"
+      "basename": "正则表达式",
+      "path": "前端学习/五大件的思考/typescript/不常见的语法/正则表达式.md"
     },
     {
-      "basename": "网络请求",
-      "path": "前端学习/Vue3/网络请求/网络请求.md"
+      "basename": "进制的转换",
+      "path": "前端学习/五大件的思考/页面/css编写/Hex&&RGB/进制的转换.md"
     },
     {
-      "basename": "插槽 ",
-      "path": "前端学习/vue/vue进阶/插槽 .md"
+      "basename": "setProperty",
+      "path": "前端学习/五大件的思考/typescript/DOM操控的方法/setProperty.md"
     },
     {
-      "basename": "el部分 ",
-      "path": "前端学习/geek-admin/登录 login/el部分 .md"
+      "basename": "h函数",
+      "path": "前端学习/五大件的思考/页面/layout/main/h函数.md"
     },
     {
-      "basename": "v-bind ",
-      "path": "前端学习/geek-admin/登录 login/v-bind .md"
+      "basename": "main",
+      "path": "前端学习/五大件的思考/页面/layout/main/main.md"
     },
     {
-      "basename": "Element Plus",
-      "path": "前端学习/geek-admin/Element Plus/Element Plus.md"
+      "basename": "用户信息与注销",
+      "path": "前端学习/五大件的思考/页面/layout/header/用户信息与注销/用户信息与注销.md"
     },
     {
-      "basename": "props",
-      "path": "前端学习/Vue3/组件/组合式API/props.md"
+      "basename": "Record",
+      "path": "前端学习/五大件的思考/typescript/Record.md"
     },
     {
-      "basename": "收集表单中的数据 ",
-      "path": "前端学习/vue/vue基础/收集表单中的数据 .md"
+      "basename": "gap",
+      "path": "前端学习/五大件的思考/页面/css编写/gap.md"
     },
     {
-      "basename": "vue响应式",
-      "path": "前端学习/vue/vue基础/vue响应式.md"
+      "basename": "el-side",
+      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/el-side.md"
     },
     {
-      "basename": "geek-admin",
-      "path": "前端学习/geek-admin/geek-admin.md"
+      "basename": "菜单的编写",
+      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/菜单的编写.md"
     },
     {
-      "basename": "各个文件夹的作用 ",
-      "path": "前端学习/geek-admin/各个文件夹的作用 .md"
+      "basename": "title插槽",
+      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/title插槽.md"
     },
     {
-      "basename": "TypeScript",
-      "path": "前端学习/TypeScript/TypeScript.md"
+      "basename": "el-sub-menu",
+      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/el-sub-menu.md"
     },
     {
-      "basename": "Anxios ",
-      "path": "前端学习/Vue3/网络请求/Anxios .md"
+      "basename": "el-menu-item",
+      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/el-menu-item.md"
     },
     {
-      "basename": "存储+读取数据",
-      "path": "前端学习/Vue3/状态管理/pinia/存储+读取数据.md"
+      "basename": "定义颜色",
+      "path": "前端学习/五大件的思考/页面/css编写/定义颜色/定义颜色.md"
     },
     {
-      "basename": "搭建pinia环境",
-      "path": "前端学习/Vue3/状态管理/pinia/搭建pinia环境.md"
+      "basename": "tab",
+      "path": "前端学习/五大件的思考/页面/layout/tab/tab.md"
     },
     {
-      "basename": "props",
-      "path": "前端学习/Vue3/状态管理/props.md"
+      "basename": "具名插槽",
+      "path": "前端学习/五大件的思考/页面/插槽/具名插槽.md"
     },
     {
-      "basename": "mitt",
-      "path": "前端学习/Vue3/状态管理/mitt.md"
+      "basename": "插槽",
+      "path": "前端学习/五大件的思考/页面/插槽/插槽.md"
     },
     {
-      "basename": "emit",
-      "path": "前端学习/Vue3/状态管理/emit.md"
+      "basename": "maxize",
+      "path": "前端学习/五大件的思考/页面/layout/header/maxize/maxize.md"
     },
     {
-      "basename": "嵌套路由",
-      "path": "前端学习/Vue3/路由/嵌套路由.md"
+      "basename": "el-tooltip",
+      "path": "前端学习/五大件的思考/页面/layout/header/maxize/el-tooltip.md"
     },
     {
-      "basename": "getter（computers）",
-      "path": "前端学习/Vue3/状态管理/pinia/getter（computers）.md"
+      "basename": "固定定位 ",
+      "path": "前端学习/五大件的思考/页面/css编写/定位/固定定位 .md"
     },
     {
-      "basename": "stortToRefs",
-      "path": "前端学习/Vue3/状态管理/pinia/stortToRefs.md"
+      "basename": "定位",
+      "path": "前端学习/五大件的思考/页面/css编写/定位/定位.md"
     }
   ],
   "omittedPaths": [],

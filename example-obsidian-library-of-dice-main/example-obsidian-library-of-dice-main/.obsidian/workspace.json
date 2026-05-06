@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "e5c359a42971ea97",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bf31a0ab0db26d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5f0d5ea2eef9cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 关于下载后如何与自己的原有库融合.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📚 关于下载后如何与自己的原有库融合"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f061e76d8ac75ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc366122a69d90b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f496d20a5cbe685",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "256c44c5e93b5258",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mood/life/mood",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "237733bb8279c68b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9344acce23bb7116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8ec8cd16ea7ae91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {},
+              "icon": "lucide-calendar-check",
+              "title": "日历"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3de31d58a0941ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa6a2e34f104744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df0f38d10fa094a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📚 关于下载后如何与自己的原有库融合.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 📚 关于下载后如何与自己的原有库融合"
+            }
+          },
+          {
+            "id": "558a1e15acb5ffd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "244a4e7a1d0f17e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "3e5169cf6316b3b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70a702eea06f1679",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "16f370cc207326f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48649c76ebcf63df",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "📚 关于下载后如何与自己的原有库融合.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.67631022135417,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1111571745636137,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 📚 关于下载后如何与自己的原有库融合"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false,
+      "callout-manager:Insert Callout": false,
+      "homepage:Open homepage": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "d5f0d5ea2eef9cee",
+  "lastOpenFiles": [
+    "01. Daily/MOC.md",
+    "01. Daily/Weekly/2026-W01.md",
+    "⏰ 时间管理系统简介.md",
+    "Attachment/Pasted image 20260103142641.png",
+    "Template/日记模版.md",
+    "📚 关于下载后如何与自己的原有库融合.md",
+    "README.md",
+    "Attachment/donate-alipay.png",
+    "Attachment/Pasted image 20260102185428.png",
+    "Attachment/Pasted image 20260102185055.png",
+    "Attachment/IMG_6282.jpeg",
+    "Attachment/image.png",
+    "Attachment/Screenshot 2026-01-02 at 18.34.51.png",
+    "00. Readme/image.png",
+    "Template/月度反思模版.md",
+    "Template/年度反思模版.md",
+    "Template/季度计划模版.md",
+    "Template/周记模版.md",
+    "Template/Idea记录模版.md",
+    "Template",
+    "core/年度反思模版 2.md",
+    "00. Readme/📚 关于下载后如何与自己的原有库融合 2.md",
+    "core/Idea记录模版 2.md",
+    "core/日记模版 2.md",
+    "core/周记模版 2.md",
+    "core/季度计划模版 2.md",
+    "core/月度反思模版 2.md",
+    "README 2.md",
+    "examples/README.md",
+    "examples",
+    "user/Idea记录模版.override.md",
+    "user/年度反思模版.override.md",
+    "core/年度反思模版.md",
+    "user/季度计划模版.override.md",
+    "core/季度计划模版.md",
+    "user/月度反思模版.override.md",
+    "user",
+    "core",
+    "01. Daily/Weekly",
+    "01. Daily/Day",
+    "01. Daily/Phase",
+    "01. Daily/Month",
+    "01. Daily/Year",
+    "01. Daily/Month0",
+    "Attachment/Pasted image 20260101011500.png",
+    "Attachment/Pasted image 20260101011439.png"
+  ]
+}
