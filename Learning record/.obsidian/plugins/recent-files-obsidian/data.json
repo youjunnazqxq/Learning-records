@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "typeof 和instancdof的区别",
-      "path": "前端学习/前端八股/js/typeof 和instancdof的区别.md"
+      "basename": "20 事件循环的理解",
+      "path": "前端学习/前端八股/js/20 事件循环的理解.md"
     },
     {
-      "basename": "14 js中的事件模型",
-      "path": "前端学习/前端八股/js/14 js中的事件模型.md"
+      "basename": "19 bind call apply 区别，如何实现一个bind",
+      "path": "前端学习/前端八股/js/19 bind call apply 区别，如何实现一个bind.md"
     },
     {
-      "basename": "13 js中执行上下文和执行栈是什么",
-      "path": "前端学习/前端八股/js/13 js中执行上下文和执行栈是什么.md"
+      "basename": "17 new操作符的原理",
+      "path": "前端学习/前端八股/js/17 new操作符的原理.md"
+    },
+    {
+      "basename": "18.1 请求的组成",
+      "path": "前端学习/前端八股/js/18.1 请求的组成.md"
+    },
+    {
+      "basename": "18.2ajax的原理及其实现",
+      "path": "前端学习/前端八股/js/18.2ajax的原理及其实现.md"
+    },
+    {
+      "basename": "16 事件代理及其应用场景",
+      "path": "前端学习/前端八股/js/16 事件代理及其应用场景.md"
+    },
+    {
+      "basename": "15 typeof和instanceof的区别",
+      "path": "前端学习/前端八股/js/15 typeof和instanceof的区别.md"
     },
     {
       "basename": "12 this指向问题",
@@ -19,6 +35,22 @@
     {
       "basename": "11 继承",
       "path": "前端学习/前端八股/js/11 继承.md"
+    },
+    {
+      "basename": "13 js中执行上下文和执行栈是什么",
+      "path": "前端学习/前端八股/js/13 js中执行上下文和执行栈是什么.md"
+    },
+    {
+      "basename": "14 js中的事件模型",
+      "path": "前端学习/前端八股/js/14 js中的事件模型.md"
+    },
+    {
+      "basename": "前端八股",
+      "path": "前端学习/前端八股/前端八股.md"
+    },
+    {
+      "basename": "js",
+      "path": "前端学习/前端八股/js/js.md"
     },
     {
       "basename": "10 js原型，原型链？有什么特点？",
@@ -83,10 +115,6 @@
     {
       "basename": "常见语法",
       "path": "前后端交互/数据库/常见语法.md"
-    },
-    {
-      "basename": "js",
-      "path": "前端学习/前端八股/js/js.md"
     },
     {
       "basename": "el-switch",
@@ -171,34 +199,6 @@
     {
       "basename": "el-side",
       "path": "前端学习/五大件的思考/页面/layout/菜单的编写/el-side.md"
-    },
-    {
-      "basename": "菜单的编写",
-      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/菜单的编写.md"
-    },
-    {
-      "basename": "title插槽",
-      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/title插槽.md"
-    },
-    {
-      "basename": "el-sub-menu",
-      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/el-sub-menu.md"
-    },
-    {
-      "basename": "el-menu-item",
-      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/el-menu-item.md"
-    },
-    {
-      "basename": "定义颜色",
-      "path": "前端学习/五大件的思考/页面/css编写/定义颜色/定义颜色.md"
-    },
-    {
-      "basename": "tab",
-      "path": "前端学习/五大件的思考/页面/layout/tab/tab.md"
-    },
-    {
-      "basename": "具名插槽",
-      "path": "前端学习/五大件的思考/页面/插槽/具名插槽.md"
     }
   ],
   "omittedPaths": [],
