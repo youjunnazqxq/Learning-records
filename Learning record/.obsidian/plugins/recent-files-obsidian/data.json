@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "29 防抖和节流 ",
+      "path": "前端学习/前端八股/js/29 防抖和节流 .md"
+    },
+    {
+      "basename": " 28 数字精度丢失问题 ",
+      "path": "前端学习/前端八股/js/ 28 数字精度丢失问题 .md"
+    },
+    {
+      "basename": "27 函数缓存 ",
+      "path": "前端学习/前端八股/js/27 函数缓存 .md"
+    },
+    {
+      "basename": "26  函数式编程",
+      "path": "前端学习/前端八股/js/26  函数式编程.md"
+    },
+    {
+      "basename": "25 js中的本地存储方式",
+      "path": "前端学习/前端八股/js/25 js中的本地存储方式.md"
+    },
+    {
+      "basename": "24 js中内存泄漏的几种情况 ",
+      "path": "前端学习/前端八股/js/24 js中内存泄漏的几种情况 .md"
+    },
+    {
+      "basename": "23 尾递归的理解及其应用",
+      "path": "前端学习/前端八股/js/23 尾递归的理解及其应用.md"
+    },
+    {
+      "basename": "22 BOM及其对象 ",
+      "path": "前端学习/前端八股/js/22 BOM及其对象 .md"
+    },
+    {
+      "basename": "21 DOM操作",
+      "path": "前端学习/前端八股/js/21 DOM操作.md"
+    },
+    {
       "basename": "20 事件循环的理解",
       "path": "前端学习/前端八股/js/20 事件循环的理解.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "match",
       "path": "前端学习/五大件的思考/typescript/字符串/match.md"
-    },
-    {
-      "basename": "正则表达式",
-      "path": "前端学习/五大件的思考/typescript/不常见的语法/正则表达式.md"
-    },
-    {
-      "basename": "进制的转换",
-      "path": "前端学习/五大件的思考/页面/css编写/Hex&&RGB/进制的转换.md"
-    },
-    {
-      "basename": "setProperty",
-      "path": "前端学习/五大件的思考/typescript/DOM操控的方法/setProperty.md"
-    },
-    {
-      "basename": "h函数",
-      "path": "前端学习/五大件的思考/页面/layout/main/h函数.md"
-    },
-    {
-      "basename": "main",
-      "path": "前端学习/五大件的思考/页面/layout/main/main.md"
-    },
-    {
-      "basename": "用户信息与注销",
-      "path": "前端学习/五大件的思考/页面/layout/header/用户信息与注销/用户信息与注销.md"
-    },
-    {
-      "basename": "Record",
-      "path": "前端学习/五大件的思考/typescript/Record.md"
-    },
-    {
-      "basename": "gap",
-      "path": "前端学习/五大件的思考/页面/css编写/gap.md"
-    },
-    {
-      "basename": "el-side",
-      "path": "前端学习/五大件的思考/页面/layout/菜单的编写/el-side.md"
     }
   ],
   "omittedPaths": [],
