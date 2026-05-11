@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "cookie",
+      "path": "前端学习/前端八股/js/cookie.md"
+    },
+    {
+      "basename": "31 大文件的断点上传",
+      "path": "前端学习/前端八股/js/31 大文件的断点上传.md"
+    },
+    {
+      "basename": "30 判定目标进入可视区域 ",
+      "path": "前端学习/前端八股/js/30 判定目标进入可视区域 .md"
+    },
+    {
       "basename": "29 防抖和节流 ",
       "path": "前端学习/前端八股/js/29 防抖和节流 .md"
     },
@@ -183,22 +195,6 @@
     {
       "basename": "ThemeDrawer",
       "path": "前端学习/五大件的思考/页面/ThemeDrawer/ThemeDrawer.md"
-    },
-    {
-      "basename": "var",
-      "path": "前端学习/五大件的思考/页面/css编写/定义颜色/var.md"
-    },
-    {
-      "basename": "setAttribute",
-      "path": "前端学习/五大件的思考/typescript/DOM操控的方法/setAttribute.md"
-    },
-    {
-      "basename": "parseInt",
-      "path": "前端学习/五大件的思考/typescript/进制的转换/parseInt.md"
-    },
-    {
-      "basename": "match",
-      "path": "前端学习/五大件的思考/typescript/字符串/match.md"
     }
   ],
   "omittedPaths": [],
