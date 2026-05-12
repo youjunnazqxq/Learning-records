@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "4 设备像素，css像素，设备独立像素，dpr，ppi之间的区别",
+      "path": "前端学习/前端八股/css/4 设备像素，css像素，设备独立像素，dpr，ppi之间的区别.md"
+    },
+    {
+      "basename": "3 em px rem vh vw的区别",
+      "path": "前端学习/前端八股/css/3 em px rem vh vw的区别.md"
+    },
+    {
+      "basename": "2 选择器？优先级？属性继承？",
+      "path": "前端学习/前端八股/css/2 选择器？优先级？属性继承？.md"
+    },
+    {
+      "basename": "1 盒子模型的理解",
+      "path": "前端学习/前端八股/css/1 盒子模型的理解.md"
+    },
+    {
+      "basename": "css",
+      "path": "前端学习/前端八股/css/css.md"
+    },
+    {
       "basename": "cookie",
       "path": "前端学习/前端八股/js/cookie.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "layout",
       "path": "前端学习/五大件的思考/页面/layout/layout.md"
-    },
-    {
-      "basename": "基本通信",
-      "path": "前端学习/五大件的思考/组件之间的通信/mittBus/基本通信.md"
-    },
-    {
-      "basename": "路由",
-      "path": "前端学习/五大件的思考/路由/路由.md"
-    },
-    {
-      "basename": "组件之间的通信",
-      "path": "前端学习/五大件的思考/组件之间的通信/组件之间的通信.md"
-    },
-    {
-      "basename": "ThemeDrawer",
-      "path": "前端学习/五大件的思考/页面/ThemeDrawer/ThemeDrawer.md"
     }
   ],
   "omittedPaths": [],
