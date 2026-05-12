@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 隐藏元素的方法及其区别 ",
+      "path": "前端学习/前端八股/css/5 隐藏元素的方法及其区别 .md"
+    },
+    {
       "basename": "4 设备像素，css像素，设备独立像素，dpr，ppi之间的区别",
       "path": "前端学习/前端八股/css/4 设备像素，css像素，设备独立像素，dpr，ppi之间的区别.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "el-drawer",
       "path": "前端学习/五大件的思考/页面/layout/主题的编写/el-drawer.md"
-    },
-    {
-      "basename": "layout",
-      "path": "前端学习/五大件的思考/页面/layout/layout.md"
     }
   ],
   "omittedPaths": [],
