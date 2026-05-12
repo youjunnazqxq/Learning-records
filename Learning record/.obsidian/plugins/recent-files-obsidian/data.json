@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "前端学习/前端八股/css/未命名.md"
+    },
+    {
+      "basename": " 8 实现两栏布局 ",
+      "path": "前端学习/前端八股/css/ 8 实现两栏布局 .md"
+    },
+    {
+      "basename": "7 元素水平垂直居中的方法如果元素不定宽高",
+      "path": "前端学习/前端八股/css/7 元素水平垂直居中的方法如果元素不定宽高.md"
+    },
+    {
+      "basename": "6 BFC的理解",
+      "path": "前端学习/前端八股/css/6 BFC的理解.md"
+    },
+    {
       "basename": "5 隐藏元素的方法及其区别 ",
       "path": "前端学习/前端八股/css/5 隐藏元素的方法及其区别 .md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "页面",
       "path": "前端学习/五大件的思考/页面/页面.md"
-    },
-    {
-      "basename": "常见语法",
-      "path": "前后端交互/数据库/常见语法.md"
-    },
-    {
-      "basename": "el-switch",
-      "path": "前端学习/五大件的思考/页面/layout/主题的编写/el-switch.md"
-    },
-    {
-      "basename": "el-color-picker",
-      "path": "前端学习/五大件的思考/页面/layout/主题的编写/el-color-picker.md"
-    },
-    {
-      "basename": "el-drawer",
-      "path": "前端学习/五大件的思考/页面/layout/主题的编写/el-drawer.md"
     }
   ],
   "omittedPaths": [],
