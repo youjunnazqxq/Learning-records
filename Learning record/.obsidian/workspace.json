@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/前端八股/css/未命名.md",
+                "file": "前端学习/前端八股/css/10 grid布局 .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "10 grid布局"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "75c903251e3a1eef",
+            "id": "d447cb33a7ccb1ff",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -246,8 +246,9 @@
   },
   "active": "78e517e3f2c32448",
   "lastOpenFiles": [
+    "前端学习/前端八股/css/9 flex 布局.md",
+    "前端学习/前端八股/css/10 grid布局 .md",
     "前端学习/前端八股/css/ 8 实现两栏布局 .md",
-    "前端学习/前端八股/css/未命名.md",
     "前端学习/前端八股/css/7 元素水平垂直居中的方法如果元素不定宽高.md",
     "前端学习/前端八股/css/6 BFC的理解.md",
     "前端学习/前端八股/css/5 隐藏元素的方法及其区别 .md",
@@ -276,7 +277,6 @@
     "前端学习/前端八股/js/20 事件循环的理解.md",
     "前端学习/前端八股/js/19 bind call apply 区别，如何实现一个bind.md",
     "前端学习/前端八股/js/17 new操作符的原理.md",
-    "前端学习/前端八股/js/18.1 请求的组成.md",
     "前端学习/五大件的思考/组件/ProTable",
     "前端学习/五大件的思考/组件",
     "前后端交互/数据库",

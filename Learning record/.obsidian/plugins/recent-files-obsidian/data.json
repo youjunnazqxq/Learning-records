@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "前端学习/前端八股/css/未命名.md"
+      "basename": "10 grid布局 ",
+      "path": "前端学习/前端八股/css/10 grid布局 .md"
+    },
+    {
+      "basename": "9 flex 布局",
+      "path": "前端学习/前端八股/css/9 flex 布局.md"
     },
     {
       "basename": " 8 实现两栏布局 ",
@@ -195,10 +199,6 @@
     {
       "basename": "五大件的思考",
       "path": "前端学习/五大件的思考/五大件的思考.md"
-    },
-    {
-      "basename": "页面",
-      "path": "前端学习/五大件的思考/页面/页面.md"
     }
   ],
   "omittedPaths": [],
