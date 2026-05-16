@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "完全背包问题",
+      "path": "前端学习/前端八股/算法/动态规划/完全背包问题.md"
+    },
+    {
+      "basename": "做题思路",
+      "path": "前端学习/前端八股/算法/动态规划/做题思路.md"
+    },
+    {
+      "basename": "01背包问题 ",
+      "path": "前端学习/前端八股/算法/动态规划/01背包问题 .md"
+    },
+    {
+      "basename": "动态规划",
+      "path": "前端学习/前端八股/算法/动态规划/动态规划.md"
+    },
+    {
+      "basename": "算法",
+      "path": "前端学习/前端八股/算法/算法.md"
+    },
+    {
+      "basename": "14 回流和重绘 ",
+      "path": "前端学习/前端八股/css/14 回流和重绘 .md"
+    },
+    {
+      "basename": "13 文本溢出",
+      "path": "前端学习/前端八股/css/13 文本溢出.md"
+    },
+    {
+      "basename": "12 css 动画 ",
+      "path": "前端学习/前端八股/css/12 css 动画 .md"
+    },
+    {
+      "basename": "11 媒体查询 ",
+      "path": "前端学习/前端八股/css/11 媒体查询 .md"
+    },
+    {
       "basename": "10 grid布局 ",
       "path": "前端学习/前端八股/css/10 grid布局 .md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "4类型转换机制",
       "path": "前端学习/前端八股/js/4类型转换机制.md"
-    },
-    {
-      "basename": "3字符串方法",
-      "path": "前端学习/前端八股/js/3字符串方法.md"
-    },
-    {
-      "basename": "2数组常见的方法",
-      "path": "前端学习/前端八股/js/2数组常见的方法.md"
-    },
-    {
-      "basename": "1数据类型以及存储上的区别",
-      "path": "前端学习/前端八股/js/1数据类型以及存储上的区别.md"
-    },
-    {
-      "basename": "7 深拷贝和浅拷贝的区别",
-      "path": "前端学习/前端八股/js/7 深拷贝和浅拷贝的区别.md"
-    },
-    {
-      "basename": "5对象在转换为基本类型，底层的具体过程",
-      "path": "前端学习/前端八股/js/5对象在转换为基本类型，底层的具体过程.md"
-    },
-    {
-      "basename": "el-table",
-      "path": "前端学习/五大件的思考/组件/ProTable/el-table.md"
-    },
-    {
-      "basename": "接口",
-      "path": "前端学习/五大件的思考/组件/ProTable/接口.md"
-    },
-    {
-      "basename": "ProTable",
-      "path": "前端学习/五大件的思考/组件/ProTable/ProTable.md"
-    },
-    {
-      "basename": "五大件的思考",
-      "path": "前端学习/五大件的思考/五大件的思考.md"
     }
   ],
   "omittedPaths": [],
